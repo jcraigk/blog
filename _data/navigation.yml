@@ -1,0 +1,7 @@
+main:
+  - title: Who?
+    url: /who/
+  - title: Projects
+    url: /projects/
+  - title: Posts
+    url: /

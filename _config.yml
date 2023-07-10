@@ -1,0 +1,88 @@
+title: jck dot earth
+# name: justin craig-kuhn [jck]
+# email: jcraigk at the google mail
+description: Blog of JCK (Justin Craig-Kuhn)
+baseurl: ''
+url: https://jck.earth
+github_username: jcraigk
+# remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+include: ['_pages']
+collections:
+  projects:
+    output: true
+assets:
+  main:
+    sources:
+      - assets/css/main.scss
+
+########################
+# Minimal Mistakes theme
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+logo: /assets/images/logo-earth-128.png
+author:
+  avatar: /assets/images/jck-avatar-125.png
+  name: JCK
+  bio: Blog of JCK (Justin Craig-Kuhn)
+  location: California, USA
+  links: &links
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/jcraigk
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/jcraigk/
+footer:
+  links: *links
+
+defaults:
+  # Global
+  - scope:
+      path: ''
+    values:
+      layout: single
+      author_profile: true
+  # Pages
+  - scope:
+      path: _pages
+    values:
+      permalink: /:basename:output_ext
+      layout: single
+      author_profile: true
+  # Images - https://jekyllrb.com/docs/static-files/
+  - scope:
+      path: assets/images
+    values:
+      image: true
+  # Posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # Projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+search: true
+lunr:
+  search_within_pages: true
+# google_site_verification: TODO
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-1234567-8"
+#     anonymize_ip: false # default
+og_image: /assets/images/logo-earth-512.png

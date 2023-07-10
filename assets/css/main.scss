@@ -1,0 +1,58 @@
+---
+# Front matter comment required
+---
+
+$masthead-link-color: #f5f5f5;
+
+@charset "utf-8";
+@import "minimal-mistakes";
+
+.greedy-nav {
+  a {
+    &:hover {
+      color: $info-color;
+    }
+    &:before {
+      height: 0px !important;
+      -webkit-transition: none !important;
+      transition: none !important;
+    }
+  }
+}
+
+// Disable fade-in animations
+.page__footer {
+  -webkit-animation: none;
+  animation: none;
+}
+.breadcrumbs {
+  -webkit-animation: none;
+  animation: none;
+}
+#main {
+  -webkit-animation: none;
+  animation: none;
+}
+
+// Header
+.masthead {
+  background-color: #17181c;
+  -webkit-animation: none;
+  animation: none;
+
+  &__inner-wrap {
+    padding: .3em;
+  }
+  .site-logo img {
+    max-height: 3rem;
+  }
+  .greedy-nav {
+    background-color: #17181c;
+  }
+}
+
+footer {
+  padding: 0 .5em .5em !important;
+  margin-top: .5em !important;
+  text-align: center !important;
+}
