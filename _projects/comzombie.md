@@ -16,7 +16,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Early in my professional programming career, I read the book [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street). It introduced several interesting concepts about financial trading that were new to me. To test a few of the ideas in that and other related books, I set out to build a financial analysis and prediction app. If it didn't yield any financial results, at leasst I would learn a lot along the way.
+Early in my programming career, I read [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street). It introduced several interesting concepts about financial trading, chief among them that it was impossible to predict future prices moves based on past performance. To test this, I decided to build a financial analysis app. If the app didn't yield any financial results, at least I would learn a lot while making it.
 
 I started with a PHP app that pulled historical and daily commodies trading data from a brokerage I subscribed to. I used a graphing program in the browser to visualize the data. For performance, much of the PHP logic was rewritten in C. I added a rudimentary distribute computing framework to test trading strategies across multiple nodes.
 
@@ -26,9 +26,8 @@ While the app did identify a few strategies that may have turned a profit in the
 
 That said, I would not be surprised if other smarter people have created just that, especially in today's crypto market. Such systems would probalby have a limited window of use and would be kept secret.
 
-Lessons learned:
+Takeaways:
   * C is much faster than PHP at runtime but the development experience is rough
   * The thesis of [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street) is probably correct
   * It is often best to compartmentalize friends and business partners
   * It is gratifying and powerful to verify ideas using software
-

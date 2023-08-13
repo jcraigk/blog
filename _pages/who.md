@@ -2,7 +2,7 @@
 title: Who?
 ---
 
-Hi, I'm **jck**. Those are my intials. I also go by Justin. Your call.
+Hi, I'm **jck**. Those are my intials. I also respond to Justin.
 
 I'm a middle aged heterosexual cismale of primarily German and Irish descent. My personality types are [Myers-Briggs INTJ-A](https://www.16personalities.com/intj-personality) and [Enneagram Type 5](https://www.enneagraminstitute.com/type-5). My professional work involves **software development** focusing on the web stack. I also write and perform music as a **keyboardist** focusing on classic electronmechanical instruments like the [Hammond B3](https://en.wikipedia.org/wiki/Hammond_organ).
 

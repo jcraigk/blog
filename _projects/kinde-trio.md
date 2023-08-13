@@ -1,5 +1,5 @@
 ---
-title: Rat Soup
+title: The Kinde Trio
 excerpt: Rat Soup etc etc
 header:
   image: /assets/images/projects/rat-soup-logo-wide.png

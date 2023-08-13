@@ -26,7 +26,7 @@ To solve these issues, I built [GigTablet](https://gigtablet.com/). This is a si
 
 We've been experimenting with the app while giging in the soul funk band [Rat Soup](https://www.ratsoupforthesoul.com/). The horn players have been able to eliminate a lot of paper rustling on stage and I've reduced physical and visual clutter.
 
-Lessons learned:
+Takeaways:
   * ChatGPT is a pretty good engineering partner, especially in unfamiliar territory
   * Progressive web apps (PWAs) are sadly under supported by browsers and OS's
   * You can't expect horn players to scan their own documents (I kid, I kid)
