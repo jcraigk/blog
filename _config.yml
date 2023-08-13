@@ -1,7 +1,7 @@
 title: jck dot earth
 # name: justin craig-kuhn [jck]
 # email: jcraigk at the google mail
-description: Blog of JCK (Justin Craig-Kuhn)
+description: Blog of Justin Craig-Kuhn
 baseurl: ''
 url: https://jck.earth
 github_username: jcraigk
@@ -26,7 +26,7 @@ logo: /assets/images/logo-earth-128.png
 author:
   avatar: /assets/images/jck-avatar-125.png
   name: JCK
-  bio: Blog of JCK (Justin Craig-Kuhn)
+  bio: Blog of Justin Craig-Kuhn
   location: California, USA
   links: &links
     - label: GitHub

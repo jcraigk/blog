@@ -1,20 +1,22 @@
 ---
-title:  Pi-ku-ku
-date:   2023-07-08 16:09:58 -0700
-categories: poems pikus
+title: Pi-ku and Pi-ku-ku
+date: 2023-07-08 16:09:58 -0700
+categories: poems
 ---
 
-A Pi-ku is like a [haiku](https://en.wikipedia.org/wiki/Haiku) but its phonetic structure follows a 3-1-4 pattern instead of 5-7-5. This means we have only 8 syllables to work with vs 17.
+A Pi-ku is like a [haiku](https://en.wikipedia.org/wiki/Haiku) but its phonetic structure follows a 3-1-4 pattern instead of 5-7-5. This means there are only 8 syllables to work with vs 17.
 
 Here's one:
 
-Eager dog<br>
-Rain<br>
+```
+Eager dog
+Rain
 Wet mangy hide
+```
 
 It's trickier to write a pi-ku than a haiku because of the reduced bandwidth. The essential expression must be compressed.
 
-One way to write a pi-ku is to start with a simple image on the first line, offer a transformation or action on the second line, and then provide an outcome or conclusion on the third line. The last statement can be like a punchline - clever, humorous, or insightful.
+One way to write a pi-ku is to start with a simple image on the first line, offer a transformation or action on the second line, and then offer an outcome or conclusion on the third line. The last statement may be a punchline - clever, humorous, or insightful.
 
 Pi-kus can be grouped together into a Pi-ku-ku, which itself follows the same pattern of 3-1-4, totaling a set of 8. The first and last groups should deal with similar subject matter. The lone middle one can fuse the two ideas or depart entirely to enhance abstraction.
 
@@ -55,5 +57,3 @@ Middle age
 Eyes
 Atop a hill
 ```
-
-Writing pi-kus can be a fun and relaxing pastime.

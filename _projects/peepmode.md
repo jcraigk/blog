@@ -2,15 +2,8 @@
 title: PeepMode
 excerpt: PeepMode etc etc
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/projects/peepmode-logo-wide.png
+  teaser: /assets/images/projects/peepmode-logo-wide.png
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,11 +16,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-PeepMode is a mod for [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II) released in May 2011. The [original Team Liquid post](https://tl.net/forum/sc2-maps/223176-mod-peepmode-ultra-spectator-maps) describes the initial release and feedback from players. At first, issues with the UI prevented many from enjoying the mod, but after some improvements, it became one of the most popular mods on [Battle.net](https://en.wikipedia.org/wiki/Battle.net). It reached the #1 spot and stayed there for a few  weeks in 2011. The game itself has diminished in popularity since then, the od.
+PeepMode is a mod for [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II) released in May 2011. The [original Team Liquid post](https://tl.net/forum/sc2-maps/223176-mod-peepmode-ultra-spectator-maps) describes the initial release and feedback from players. At first, issues with the UI prevented many from enjoying it, but after some improvements it became one of the most popular mods on [Battle.net](https://en.wikipedia.org/wiki/Battle.net). It reached the #1 spot and stayed there for a few  weeks in 2011.
 
 I stopped personally maintaining the project in 2016 but it's still maintained by a dedicated group. You can [browse the GitHub repo](https://github.com/Kelzorz/PeepMode) or [join the Discord](https://discord.gg/hJ7wR7uk) if you're interested in playing or contributing.
 
-The mod was created entirely in the [StarCraft II Editor](https://s2editor-guides.readthedocs.io/New_Tutorials/01_Introduction/001_Editor_Introduction/). Using the SC2 Editor involves a combination of point-and-click UI interaction along with traditional programming in a C-like environment called Galaxy. This get bundled with your custom assets and published to Battle.net, where it becomes available for other players to discover and play.
+The mod was created entirely in the [StarCraft II Editor](https://s2editor-guides.readthedocs.io/New_Tutorials/01_Introduction/001_Editor_Introduction/). Using the SC2 Editor involves a combination of point-and-click UI interaction along with traditional programming in a C-like environment called Galaxy. This get bundled with custom assets and published to [Battle.net](https://battle.net), where it becomes available for other players to discover and play.
 
 The motivation for this project was, at the time, my love of competitive gaming and my passion for Starcraft II in that space. I had been playing the original Starcraft with friends since its release and had invested over a hundred hours playing SC2 when I started looking at the modding scene. There was a mod on Battle.net that allowed up to ten players to join a game and watch 2 of the players compete while the others chatted. This basic feature was missing from Battle.net itself and I found it compelling. I tried to contact the author of the mod, but got no response, so I started looking at building something myself.
 
@@ -56,13 +49,3 @@ Lessons learned:
   * Someone else will do it better and faster after they see yours. Embrace the competition.
   * Releases are nail-biting without test automation.
   * Good documentation is worth a thousand trials by fire.
-
-Others:
-
-GigTablet
-Phishin
-KudoChest
-StoryKey
-Nano RPC
-Phasmophobe
-Keyboard rig

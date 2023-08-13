@@ -33,12 +33,19 @@ $masthead-link-color: #f5f5f5;
   -webkit-animation: none;
   animation: none;
 }
+.author__avatar {
+  text-align: center;
+}
+.author__name {
+  text-align: center;
+}
 
 // Header
 .masthead {
   background-color: #17181c;
   -webkit-animation: none;
   animation: none;
+  border-bottom: none;
 
   &__inner-wrap {
     padding: .3em;
