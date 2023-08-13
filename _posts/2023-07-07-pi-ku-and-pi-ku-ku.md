@@ -18,7 +18,7 @@ It's trickier to write a pi-ku than a haiku because of the reduced bandwidth. Th
 
 One way to write a pi-ku is to start with a simple image on the first line, offer a transformation or action on the second line, and then offer an outcome or conclusion on the third line. The last statement may be a punchline - clever, humorous, or insightful.
 
-Pi-kus can be grouped together into a Pi-ku-ku, which itself follows the same pattern of 3-1-4, totaling a set of 8. The first and last groups should deal with similar subject matter. The lone middle one can fuse the two ideas or depart entirely to enhance abstraction.
+Pi-kus can be grouped together into a Pi-ku-ku, which itself follows the same pattern of 3-1-4, totaling a set of 8. The first and last groups should deal with similar subject matter. The lone middle one can fuse the two ideas or depart entirely.
 
 Here's a Pi-ku-ku:
 

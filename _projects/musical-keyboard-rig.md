@@ -1,6 +1,6 @@
 ---
 title: Musical Keyboard Rig
-excerpt: Musical Keyboard Rig etc etc
+excerpt: The gear I use for musical gigs
 header:
   image: /assets/images/projects/musical-keyboard-rig-wide.png
   teaser: /assets/images/projects/musical-keyboard-rig-wide.png

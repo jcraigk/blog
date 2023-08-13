@@ -1,6 +1,6 @@
 ---
 title: GigTablet
-excerpt: GigTablet etc etc
+excerpt: An app that helps musicians plan and perform gigs
 header:
   image: /assets/images/projects/gigtablet-logo-wide.png
   teaser: /assets/images/projects/gigtablet-logo-wide.png

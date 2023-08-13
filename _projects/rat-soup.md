@@ -1,6 +1,6 @@
 ---
 title: Rat Soup
-excerpt: Rat Soup etc etc
+excerpt: A soul/funk band in southern California
 header:
   image: /assets/images/projects/rat-soup-logo-wide.png
   teaser: /assets/images/projects/rat-soup-logo-wide.png

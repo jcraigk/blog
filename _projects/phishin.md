@@ -1,6 +1,6 @@
 ---
 title: Phishin
-excerpt: Phishin etc etc
+excerpt: An API and website of live concert audio
 header:
   image: /assets/images/projects/phishin-logo-wide.png
   teaser: /assets/images/projects/phishin-logo-wide.png

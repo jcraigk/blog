@@ -1,6 +1,6 @@
 ---
 title: The Kinde Trio
-excerpt: Rat Soup etc etc
+excerpt: A retired jazz/funk band in upstate New York
 header:
   image: /assets/images/projects/rat-soup-logo-wide.png
   teaser: /assets/images/projects/rat-soup-logo-wide.png

@@ -1,6 +1,6 @@
 ---
 title: PeepMode
-excerpt: PeepMode etc etc
+excerpt: A spectator mod for Starcraft II
 header:
   image: /assets/images/projects/peepmode-logo-wide.png
   teaser: /assets/images/projects/peepmode-logo-wide.png

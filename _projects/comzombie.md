@@ -1,22 +1,12 @@
 ---
 title: ComZombie
-excerpt: ComZombie etc etc
+excerpt: A financial analysis and trading app focused on the commodities market
 header:
-  image: /assets/images/projects/combzombie-wide.png
-  teaser: /assets/images/projects/combzombie-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/comzombie-logo-wide.png
+  teaser: /assets/images/projects/comzombie-logo-wide.png
 ---
 
-Early in my programming career, I read [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street). It introduced several interesting concepts about financial trading, chief among them that it was impossible to predict future prices moves based on past performance. To test this, I decided to build a financial analysis app. If the app didn't yield any financial results, at least I would learn a lot while making it.
+Early in my programming career, I read [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street). It introduced several interesting concepts about financial trading, chief among them that it was impossible to predict future price moves based on past performance. To test this, I decided to build a financial analysis app. If the app didn't yield any financial results, at least I would learn a lot while making it.
 
 I started with a PHP app that pulled historical and daily commodies trading data from a brokerage I subscribed to. I used a graphing program in the browser to visualize the data. For performance, much of the PHP logic was rewritten in C. I added a rudimentary distribute computing framework to test trading strategies across multiple nodes.
 

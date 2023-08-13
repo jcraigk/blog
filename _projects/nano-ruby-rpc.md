@@ -1,6 +1,6 @@
 ---
-title: Nano Ruby RPC
-excerpt: Nano Ruby RPC etc etc
+title: Nano RPC
+excerpt: A Ruby wrapper for Nanocurrency nodes
 header:
   image: /assets/images/projects/nano-ruby-rpc-wide.png
   teaser: /assets/images/projects/nano-ruby-rpc-wide.png

@@ -1,6 +1,6 @@
 ---
 title: Phasmaphobe
-excerpt: Phasmaphobe etc etc
+excerpt: An indie rock concept album
 header:
   image: /assets/images/projects/phasmaphobe-logo-wide.png
   teaser: /assets/images/projects/phasmaphobe-logo-wide.png

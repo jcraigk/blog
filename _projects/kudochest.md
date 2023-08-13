@@ -1,6 +1,6 @@
 ---
 title: KudoChest
-excerpt: KudoChest etc etc
+excerpt: A social engagement app for Slack and Discord
 header:
   image: /assets/images/projects/kudochest-logo-wide.png
   teaser: /assets/images/projects/kudochest-logo-wide.png
