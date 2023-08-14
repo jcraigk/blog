@@ -2,18 +2,8 @@
 title: Phishin
 excerpt: An API and website of live concert audio
 header:
-  image: /assets/images/projects/phishin-logo-wide.png
-  teaser: /assets/images/projects/phishin-logo-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/phishin-wide.png
+  teaser: /assets/images/projects/phishin-wide.png
 ---
 
 I discovered Phish in 1994 playing basketball with my brother. HORSE was our game. We'd play on our blacktop driveway in rural upstate NY while listening to CDs on a Sony boombox. One day my brother brought home [Rift](https://en.wikipedia.org/wiki/Rift_(album)). I wasn't serious about playing keyboards at the time but I was interested in that instrument in general probably because my father played. When I heard [Page McConnell](https://en.wikipedia.org/wiki/Page_McConnell) play piano and B3 on that album, I was amazed. The piano could sound like _that_? Wow.

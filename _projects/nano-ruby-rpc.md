@@ -4,16 +4,6 @@ excerpt: A Ruby wrapper for Nanocurrency nodes
 header:
   image: /assets/images/projects/nano-ruby-rpc-wide.png
   teaser: /assets/images/projects/nano-ruby-rpc-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 During the 2017 cryptocurrency bull run, I began looking more closely at alternative networks beyond Bitcoin. Of course Ethereum came to the top of that stack, but there were several others that piqued my interest. One of these was [Nano](https://en.wikipedia.org/wiki/Nano_(cryptocurrency)), formerly known as Rai Blocks.

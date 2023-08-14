@@ -2,8 +2,8 @@
 title: ComZombie
 excerpt: A financial analysis and trading app focused on the commodities market
 header:
-  image: /assets/images/projects/comzombie-logo-wide.png
-  teaser: /assets/images/projects/comzombie-logo-wide.png
+  image: /assets/images/projects/comzombie-wide.png
+  teaser: /assets/images/projects/comzombie-wide.png
 ---
 
 Early in my programming career, I read [A Random Walk on Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street). It introduced several interesting concepts about financial trading, chief among them that it was impossible to predict future price moves based on past performance. To test this, I decided to build a financial analysis app. If the app didn't yield any financial results, at least I would learn a lot while making it.

@@ -2,18 +2,8 @@
 title: KudoChest
 excerpt: A social engagement app for Slack and Discord
 header:
-  image: /assets/images/projects/kudochest-logo-wide.png
-  teaser: /assets/images/projects/kudochest-logo-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/kudochest-wide.png
+  teaser: /assets/images/projects/kudochest-wide.png
 ---
 
 In 2016 I saw [Nosedive (Black Mirror)](https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)) and it freaked me out. It depicts a society in which people rate each other on a 5-star scale for nearly every interaction they have. This of course produces humorous and horrifying outcomes.

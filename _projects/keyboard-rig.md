@@ -1,19 +1,9 @@
 ---
-title: Musical Keyboard Rig
+title: Keyboard Rig
 excerpt: The gear I use for musical gigs
 header:
-  image: /assets/images/projects/musical-keyboard-rig-wide.png
-  teaser: /assets/images/projects/musical-keyboard-rig-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/keyboard-rig-wide.png
+  teaser: /assets/images/projects/keyboard-rig-wide.png
 ---
 
 I started playing keyboard when I was 17. I wanted to be in a band. I started practicing and trying out different equipment. The first band I was in I used a shitty Casio keyboard and shitty Peavy amp. Wow that thing sucked, but I coudln't afford anything better.
@@ -33,8 +23,8 @@ Recently (2023) I've been experimenting with samples on the Stage 3. The [Nord S
 Building and using my keyboard rig is one of my greatest sources of joy. I am very appreciative to all the people who have helped and influenced me along the way.
 
 Takeaways:
-  * There's nothing like a real Hammond B3/Leslie
-  * Nord makes excellent keyboard instruments
+  * No synthesizer can adequately reproduce the Hammond B3/Leslie combo
+  * Nord makes excellent keyboard instruments, adequately replacing several classic keyboards
   * Lighter is better, simpler is better
   * Mobility, repeatability, reliability
-  * Having a back on your throne reduces strain and pain
+  * Having a back on your throne improves ergonomics

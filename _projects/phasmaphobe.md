@@ -2,18 +2,8 @@
 title: Phasmaphobe
 excerpt: An indie rock concept album
 header:
-  image: /assets/images/projects/phasmaphobe-logo-wide.png
-  teaser: /assets/images/projects/phasmaphobe-logo-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/phasmaphobe-wide.png
+  teaser: /assets/images/projects/phasmaphobe-wide.png
 ---
 
 Musical albums are a marvelous artform. They can take you away for a time, and it's a place you can keep returning to. Each phase of life can bring out previously unheard or misundestood lyrics, bring new meaning to a familiar work. When I discover a new album that catches my ear, I listen to it obsessively until I have internalized it.

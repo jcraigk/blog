@@ -2,18 +2,8 @@
 title: GigTablet
 excerpt: An app that helps musicians plan and perform gigs
 header:
-  image: /assets/images/projects/gigtablet-logo-wide.png
-  teaser: /assets/images/projects/gigtablet-logo-wide.png
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/projects/gigtablet-wide.png
+  teaser: /assets/images/projects/gigtablet-wide.png
 ---
 
 As someone with generally bad memory for chords and meloides, I need notes when I'm gigging. Chords, lyrics, melodies, etc. For years I used Apple MainStage for this purpose. On the left was a list of songs and on the right were the notes for each one, a simple and effective setup. This provided quick searching and immediate access to notes for each song.
