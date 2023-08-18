@@ -1,12 +1,9 @@
 title: jck.earth
-# name: justin craig-kuhn [jck]
-# email: jcraigk at the google mail
 description: Blog of Justin Craig-Kuhn
 baseurl: ''
 url: https://jck.earth
 github_username: jcraigk
-# remote_theme: mmistakes/minimal-mistakes@4.24.0
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-include-cache
   - jekyll-feed
