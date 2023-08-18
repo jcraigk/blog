@@ -47,21 +47,13 @@ defaults:
     values:
       permalink: /:basename:output_ext
       layout: single
-      author_profile: true
-  # Images - https://jekyllrb.com/docs/static-files/
-  - scope:
-      path: assets/images
-    values:
-      image: true
   # Posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
   # Projects
@@ -70,7 +62,6 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: true
       share: true
 search: true
 lunr:

@@ -2,9 +2,12 @@
 title: 'Baked Crumbs #0'
 date: 2023-07-18 16:09:58 -0700
 categories: crumbs
+header:
+  image: /assets/images/posts/2023-07-18-header.png
+  teaser: /assets/images/posts/2023-07-18-header.png
 ---
 
-Here are some **baked crumbs** with a hint of spice:
+Here are some **baked crumbs** from a jelly croissant.
 
 There’s much to be grateful for and simultaneously weirded out by
 {:.quote}

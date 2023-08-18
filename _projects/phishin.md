@@ -1,9 +1,9 @@
 ---
-title: Phishin
-excerpt: An API and website of live concert audio
+title: "Phish.in'"
+excerpt: An API and website hosting live concert audio of the rock band Phish
 header:
-  image: /assets/images/projects/phishin-wide.png
-  teaser: /assets/images/projects/phishin-wide.png
+  image: /assets/images/projects/phishin-header.png
+  teaser: /assets/images/projects/phishin-header.png
 ---
 
 I discovered Phish in 1994 playing basketball with my brother. HORSE was our game. We'd play on our blacktop driveway in rural upstate NY while listening to CDs on a Sony boombox. One day my brother brought home [Rift](https://en.wikipedia.org/wiki/Rift_(album)). I wasn't serious about playing keyboards at the time but I was interested in that instrument in general probably because my father played. When I heard [Page McConnell](https://en.wikipedia.org/wiki/Page_McConnell) play piano and B3 on that album, I was amazed. The piano could sound like _that_? Wow.

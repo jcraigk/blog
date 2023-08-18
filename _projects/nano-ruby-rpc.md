@@ -1,9 +1,9 @@
 ---
 title: Nano RPC
-excerpt: A Ruby wrapper for Nanocurrency nodes
+excerpt: A Ruby wrapper for controlling Nanocurrency nodes
 header:
-  image: /assets/images/projects/nano-ruby-rpc-wide.png
-  teaser: /assets/images/projects/nano-ruby-rpc-wide.png
+  image: /assets/images/projects/nano-ruby-rpc-header.png
+  teaser: /assets/images/projects/nano-ruby-rpc-header.png
 ---
 
 During the 2017 cryptocurrency bull run, I began looking more closely at alternative networks beyond Bitcoin. Of course Ethereum came to the top of that stack, but there were several others that piqued my interest. One of these was [Nano](https://en.wikipedia.org/wiki/Nano_(cryptocurrency)), formerly known as Rai Blocks.

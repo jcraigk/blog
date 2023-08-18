@@ -2,6 +2,9 @@
 title: Pi-ku and Pi-ku-ku
 date: 2023-07-08 16:09:58 -0700
 categories: poems
+header:
+  image: /assets/images/posts/2023-07-07-header.png
+  teaser: /assets/images/posts/2023-07-07-header.png
 ---
 
 A Pi-ku is like a [haiku](https://en.wikipedia.org/wiki/Haiku) but its phonetic structure follows a 3-1-4 pattern instead of 5-7-5. This means there are only 8 syllables to work with vs 17.

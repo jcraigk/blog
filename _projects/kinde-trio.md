@@ -2,8 +2,8 @@
 title: The Kinde Trio
 excerpt: A retired jazz/funk band in upstate New York
 header:
-  image: /assets/images/projects/kinde-trio-wide.png
-  teaser: /assets/images/projects/kinde-trio-wide.png
+  image: /assets/images/projects/kinde-trio-header.png
+  teaser: /assets/images/projects/kinde-trio-header.png
 ---
 
 The Kinde Trio was a small jazz/funk band based in Rochester, NY. We were active from 2004 to 2007. The name was a nod to the drummer whose last name is Kinde. Normally it's pronounced "KIN dee", but the band was usually pronounced "kind."

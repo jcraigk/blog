@@ -1,9 +1,9 @@
 ---
 title: PeepMode
-excerpt: A spectator mod for Starcraft II
+excerpt: A popular mod for Starcraft II with enhanced spectator features
 header:
-  image: /assets/images/projects/peepmode-wide.png
-  teaser: /assets/images/projects/peepmode-wide.png
+  image: /assets/images/projects/peepmode-header.png
+  teaser: /assets/images/projects/peepmode-header.png
 ---
 
 PeepMode is a mod for [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II) released in May 2011. The [original Team Liquid post](https://tl.net/forum/sc2-maps/223176-mod-peepmode-ultra-spectator-maps) describes the initial release and feedback from players. At first, issues with the UI prevented many from enjoying it, but after some improvements it became one of the most popular mods on [Battle.net](https://en.wikipedia.org/wiki/Battle.net). It reached the #1 spot and stayed there for a few  weeks in 2011.

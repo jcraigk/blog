@@ -1,9 +1,9 @@
 ---
 title: Reading List
-excerpt: A list of books I have read
+excerpt: A list of books I have read, separated by fiction and non-fiction
 header:
-  image: /assets/images/projects/reading-list-wide.png
-  teaser: /assets/images/projects/reading-list-wide.png
+  image: /assets/images/projects/reading-list-header.png
+  teaser: /assets/images/projects/reading-list-header.png
 ---
 
 Here are the books I have completed by either reading the printed page or listening to a narration of the work.
