@@ -2,8 +2,8 @@
 title: Phasmaphobe
 excerpt: An indie rock concept album featuring many live instruments
 header:
-  image: /assets/images/projects/phasmaphobe-header.png
-  teaser: /assets/images/projects/phasmaphobe-header.png
+  image: /assets/images/projects/phasmaphobe-header.jpg
+  teaser: /assets/images/projects/phasmaphobe-header.jpg
 ---
 
 Musical albums are a marvelous artform. They can take you away for a time, and it's a place you can keep returning to. Each phase of life can bring out previously unheard or misundestood lyrics, bring new meaning to a familiar work. When I discover a new album that catches my ear, I listen to it obsessively until I have internalized it.

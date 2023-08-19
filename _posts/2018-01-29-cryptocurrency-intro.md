@@ -3,8 +3,8 @@ title: Introduction to Cryptocurrencies
 date: 2018-01-29 15:21:39 -0700
 categories: crypto
 header:
-  image: /assets/images/posts/2018-01-29-header.png
-  teaser: /assets/images/posts/2018-01-29-header.png
+  image: /assets/images/posts/2018-01-29-header.jpg
+  teaser: /assets/images/posts/2018-01-29-header.jpg
 ---
 
 It seems like 2017 was the year that everyone, including our grandparents, became aware of cryptocurrencies. With news stories about the soaring or plummeting price of Bitcoin circulating on a regular basis, sentiments about the overall concept have been mixed. Some believe that cryptocurrencies will become the dominant store of the world's economic value while others view it as modern [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania) that is bound to fail.
@@ -60,7 +60,7 @@ A hash function maps data of arbitrary size to a fixed size. For any input, it p
 
 For example, we could take the novel [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring) as input and produce a (semi-)unique 256-bit representation of it by passing it into a hash function. Change a single letter in the novel and a completely different looking hash value will be generated. While there are many other possible input strings that would produce the same output, there is no way for us to discover those other than to try every possible combination until we find a match. This would require more computing power than is available during all the ages of Middle Earth.
 
-![Ruby REPL](/assets/images/posts/2018-01-29/ruby-repl.png){:.full-width}
+![Ruby REPL](/assets/images/posts/2018-01-29/ruby-repl.jpg){:.full-width}
 We can use Ruby's `digest` library to demonstrate the two primary properties of hash functions: (1) The same input always produces the same output and (2) Changing a single element of the input produces a completely different output.
 {:.caption}
 
@@ -96,8 +96,8 @@ In PoS, each node is assigned a voting weight based on specific properties, such
 
 Entire papers are written on the nuances of these systems. For our purposes, we need not study their specifics to grasp the fact that each cryptocurrency does provide an algorithm by which consensus can be reached regarding which block will be added to the chain. We must become comfortable with the presence of malicious nodes that make false claims of the blockchain and trust in the consensus algorithm to maintain stability.
 
-![Lord of the Rings Council of Elrond scene](/assets/images/posts/2018-01-29/lotr-council.png){:.full-width}
-Here Legolas is claiming that Gimli sent him 100 MiddleEarthCoins (XME) for an enchanted bow while Gimli claims he’d not be caught dead carrying an Elven bow of any sort. The Cryptocouncil of Elrond has been summoned to settle the matter and forge another block into the One True Blockchain.
+![Lord of the Rings Council of Elrond scene](/assets/images/posts/2018-01-29/lotr-council.jpg){:.full-width}
+Here Legolas is claiming that Gimli sent him 100 MiddleEarthCoins (XME) for an enchanted bow while Gimli claims he’d not be caught dead carrying an Elven bow of any sort. The Cryptocouncil of Elrond has been summoned to settle the matter, thus forging another block into the One True Blockchain.
 {:.caption}
 
 Another point to consider is that occasionally there will be "hard forks" in a given cryptocurrency, whereby a significant portion of the network adopts a fresh take on the protocol. A high profile example occurred in 2017 when Bitcoin Cash (BCH) split from Bitcoin Core (BTC). When such events occur, each node owner must side with the old protocol or embrace the new, thus creating two separate networks and two separate blockchains that fork at a specific block number. This has been observed to mirror evolution of species in the natural world, such as the [Sundering of the Elves](https://en.wikipedia.org/wiki/Sundering_of_the_Elves) in the early days of Middle Earth.
@@ -114,7 +114,7 @@ Well, it turns out that there is no One True Solution to this problem. Variation
 
 Since the Bitcoin network came online in 2009, other use cases for the blockchain have been invented. One of the most notable is Ethereum, a distributed computing platform developed by [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin) that extends the mechanisms described by [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto).
 
-![Photograph of Vitalik Buterin](/assets/images/posts/2018-01-29/vitalik-llama-shirt.png){:.full-width}
+![Photograph of Vitalik Buterin](/assets/images/posts/2018-01-29/vitalik-llama-shirt.jpg){:.full-width}
 Vitalik Buterin, creator of Ethereum
 {:.caption}
 

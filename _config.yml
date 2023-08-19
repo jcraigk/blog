@@ -72,4 +72,4 @@ lunr:
 #   google:
 #     tracking_id: "UA-1234567-8"
 #     anonymize_ip: false # default
-og_image: /assets/images/logo-earth-512.png
+og_image: /assets/images/logo-earth-128.png

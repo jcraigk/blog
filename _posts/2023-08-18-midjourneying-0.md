@@ -3,8 +3,8 @@ title: 'Midjourneying #0'
 date: 2023-08-18 10:51:30 -0700
 categories: midjourney ai images
 header:
-  image: /assets/images/posts/2023-08-18-header.png
-  teaser: /assets/images/posts/2023-08-18-header.png
+  image: /assets/images/posts/2023-08-18-header.jpg
+  teaser: /assets/images/posts/2023-08-18-header.jpg
 gallery:
   - url: /assets/images/posts/2023-08-18/midjourney-1.png
     image_path: /assets/images/posts/2023-08-18/midjourney-1.png

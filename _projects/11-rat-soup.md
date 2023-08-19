@@ -2,8 +2,8 @@
 title: Rat Soup
 excerpt: An established soul/funk band in southern California
 header:
-  image: /assets/images/projects/rat-soup-header.png
-  teaser: /assets/images/projects/rat-soup-header.png
+  image: /assets/images/projects/rat-soup-header.jpg
+  teaser: /assets/images/projects/rat-soup-header.jpg
 ---
 
 [Rat Soup](https://ratsoup.com/) is a funk/soul band I've been involved with since 2013. The trumpet player is an old friend of mine from college. We both attended [RIT](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) circa 2000 and met in music theory class. After graduating he moved to Huntington Beach to work at Boeing while I stayed back in Rochester. Eventually I also found myself in southern California for a job, and it just so happened his seven piece funk band needed a keyboardist.

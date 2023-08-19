@@ -2,8 +2,8 @@
 title: Keyboard Rig
 excerpt: The musical gear I use for live gigs
 header:
-  image: /assets/images/projects/keyboard-rig-header.png
-  teaser: /assets/images/projects/keyboard-rig-header.png
+  image: /assets/images/projects/keyboard-rig-header.jpg
+  teaser: /assets/images/projects/keyboard-rig-header.jpg
 ---
 
 I started playing keyboard when I was 17. I wanted to be in a band. I started practicing and trying out different equipment. The first band I was in I used a shitty Casio keyboard and shitty Peavy amp. Wow that thing sucked, but I coudln't afford anything better.

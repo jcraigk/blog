@@ -3,8 +3,8 @@ title: DIY Supine Workstation
 date: 2018-01-17 11:20:40 -0700
 categories: health
 header:
-  image: /assets/images/posts/2018-01-17-header.png
-  teaser: /assets/images/posts/2018-01-17-header.png
+  image: /assets/images/posts/2018-01-17-header.jpg
+  teaser: /assets/images/posts/2018-01-17-header.jpg
 ---
 
 I was ten years old when my fingers first scraped across a computer keyboard. It was a faded Apple IIe with a monochrome CRT and a floppy drive. The previous owner had amassed a respectable game collection on 5.25" disks, which my brother and I devoured in our leisure time. In the evening I dabbled in writing simple BASIC programs; text adventure games, mostly. Some of those sessions — okay, a lot of them — lasted all night. The hours spent sitting in front of those luminous pixels set the stage for what would become a lifetime of (over-)using computers for both work and play. While this journey has been thrilling in many ways, it has also taken a toll on me physically.
@@ -39,7 +39,7 @@ Third, vary your positions frequently. You should have a sitting/standing desk a
 
 In the interest of providing another option to the weary office worker, in this entry I will demonstrate how you can use common off-the-shelf equipment to build a supine workstation. This will enable you to be productive while lying on your back, a technique I've found to be effective in facilitating long, yet comfortable, work sessions. This position provides rest for fatigued neck and shoulders that have been subjected to an extended period of work in the standard sitting and standing positions. I find that in this position, I expend little muscular energy and am able to withstand longer sessions without core fatigue.
 
-![A user in supine position](/assets/images/posts/2018-01-17/jck-supine.png){:.full-width}
+![A user in supine position](/assets/images/posts/2018-01-17/jck-supine.jpg){:.full-width}
 User (me!) working comfortably in supine position
 {:.caption}
 
@@ -61,14 +61,14 @@ I experiment with different products but am currently using the following in my 
   * Extra firm mattress (generic brand)
   * Karabiner-Elements (key mapping software)
 
-![Photograph of workstation equipment](/assets/images/posts/2018-01-17/equipment.png){:.full-width}
+![Photograph of workstation equipment](/assets/images/posts/2018-01-17/equipment.jpg){:.full-width}
 Equipment (from top left): Tryone Gooseneck Tablet Stand, Kinesis Freestyle 2 Keyboard with Ascent Accessory, Velcro cable tie role, USB Lightning cable, iPad Pro, Apple Magic Trackpad, MacBook Pro laptop
 {:.caption}
 
 
 I use a small WyndenHall Normandy end table as the base for the laptop and tablet clip, but nearly any flat surface will do. Because the end table is lightweight and simple, it can be moved, setup, and broken down easily, which provides some nice modularity. The Tryone Gooseneck, is easy to adjust, holds the iPad firmly, and doesn't sag. I use velcro ties to manage cabling.
 
-![Overhead view of supine workstation](/assets/images/posts/2018-01-17/overhead-view.png){:.full-width}
+![Overhead view of supine workstation](/assets/images/posts/2018-01-17/overhead-view.jpg){:.full-width}
 A DIY supine workstation
 {:.caption}
 
@@ -98,7 +98,7 @@ Although I've found that the addition of the supine option has improved my abili
 
 The next improvement I'd like to explore is elevating the keyboards up so that my elbows are not touching the mattress. This will require more substantial hardware due to the weight of the keyboards. Perhaps an arch is called for! Computer, arch. Computer...?
 
-![Star Trek holodeck arch](/assets/images/posts/2018-01-17/star-trek-arch.png){:.full-width}
+![Star Trek holodeck arch](/assets/images/posts/2018-01-17/star-trek-arch.jpg){:.full-width}
 The mighty [Holodeck](https://en.wikipedia.org/wiki/Holodeck) arch
 {:.caption}
 
