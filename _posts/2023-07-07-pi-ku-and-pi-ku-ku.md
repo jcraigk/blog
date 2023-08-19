@@ -11,11 +11,10 @@ A Pi-ku is like a [haiku](https://en.wikipedia.org/wiki/Haiku) but its phonetic 
 
 Here's one:
 
-```
-Eager dog
-Rain
+Eager dog<br>
+Rain<br>
 Wet mangy hide
-```
+{:.poem}
 
 It's trickier to write a pi-ku than a haiku because of the reduced bandwidth. The essential expression must be compressed.
 
@@ -25,38 +24,29 @@ Pi-kus can be grouped together into a Pi-ku-ku, which itself follows the same pa
 
 Here's a Pi-ku-ku:
 
-```
-Eastern Sun
-Wait
-Now in the west
 
-Rayless earth
-Rolls
-New day is born
-
-Big planet
-Small
-From star's view
-
-
-Her lashes
-Bat
-Why did I leave?
-
-
-Framing mom
-Smile
-Breakfast cranny
-
-Remember Bill
-Hearts
-He left nothing
-
-Young nephew
-Laughs
-Genuine kid
-
-Middle age
-Eyes
+Eastern Sun<br>
+Wait<br>
+Now in the west<br><br>
+Rayless earth<br>
+Rolls<br>
+New day is born<br><br>
+Big planet<br>
+Small<br>
+From star's view<br><br><br>
+Her lashes<br>
+Bat<br>
+Why did I leave?<br><br><br>
+Framing mom<br>
+Smile<br>
+Breakfast cranny<br><br>
+Remember dad<br>
+Hearts<br>
+He left nothing<br><br>
+Young nephew<br>
+Laughs<br>
+Genuine kid<br><br>
+Middle age<br>
+Eyes<br>
 Atop a hill
-```
+{:.poem}

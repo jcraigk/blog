@@ -94,10 +94,11 @@ gallery:
 
 Here are a few images created by prompting [Midjourney v5.2](https://www.midjourney.com/). Most of these were the result of the following process:
 
-1. Enter a prompt and try variations on one or two of the resulting images
-2. Refine the prompt by adding or removing specifications
-3. Try different styles (e.g. pencil, photo, etc)
-4. Select the best image to upscale from the generated set
+1. Enter a simple (5-15 word) prompt
+2. Try variations on one or two of the resulting images recursively for a few steps
+3. Refine the prompt by adding or removing specifications
+4. Try different styles (e.g. pencil, photo, etc)
+5. Select the best image to upscale from the generated set
 
 Settings: Medium stylization / High variation
 

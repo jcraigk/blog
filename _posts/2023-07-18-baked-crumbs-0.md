@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/posts/2023-07-18-header.png
 ---
 
-Here are some **baked crumbs** from a jelly croissant.
+Here are some **baked crumbs** from a jelly croissant atop my neck.
 
 There’s much to be grateful for and simultaneously weirded out by
 {:.quote}
