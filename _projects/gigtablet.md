@@ -14,7 +14,11 @@ Unfortunately MainStage does not have an iOS version so for several years I simp
 
 To solve these issues, I built [GigTablet](https://gigtablet.com/). This is a simple progressive web app (WPA) written in [Rails](https://rubyonrails.org/) that lets groups of artists share a reportoire, manage their own notes, build setlists, and keep coordinated during live performance.
 
-We've been experimenting with the app while giging in the soul funk band [Rat Soup](https://www.ratsoupforthesoul.com/). The horn players have been able to eliminate a lot of paper rustling on stage and I've reduced physical and visual clutter.
+![GigTablet screenshot](/assets/images/projects/gigtablet-screenshot-1.png){:.smooth-corners}
+
+We've been experimenting with the app while giging in the soul funk band [Rat Soup](/projects/rat-soup). The horn players have been able to eliminate a lot of paper rustling on stage and I've reduced physical and visual clutter.
+
+![GigTablet screenshot](/assets/images/projects/gigtablet-screenshot-2.png){:.smooth-corners}
 
 Takeaways:
   * ChatGPT is a pretty good engineering partner, especially in unfamiliar territory

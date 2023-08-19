@@ -233,6 +233,9 @@ Here are the books I have completed by either reading the printed page or listen
 |Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                                                                                          |
 |Peter Watts                      |*Blindsight*                                      |7/16/23                                                                                          |
 
+<br>
+![AI art depicting stacks of books](/assets/images/projects/reading-list-books-stairs.png){:.smooth-corners}
+
 
 ## Nonfiction
 
