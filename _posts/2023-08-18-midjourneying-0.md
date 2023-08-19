@@ -1,7 +1,7 @@
 ---
 title: 'Midjourneying #0'
-date: 2023-07-18 16:09:58 -0700
-categories: midjourney ai
+date: 2023-08-18 10:51:30 -0700
+categories: midjourney ai images
 header:
   image: /assets/images/posts/2023-08-18-header.png
   teaser: /assets/images/posts/2023-08-18-header.png

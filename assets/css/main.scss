@@ -102,6 +102,18 @@ footer {
   font-size: 0.8rem;
 }
 
+.caption {
+  font-size: 0.65rem !important;
+  color: #999;
+  text-align: center;
+  margin-top: 1em !important;
+
+  img {
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+  }
+}
+
 figure {
   font-family: sans-serif !important;
 

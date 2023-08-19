@@ -1,6 +1,6 @@
 ---
 title: Pi-ku and Pi-ku-ku
-date: 2023-07-08 16:09:58 -0700
+date: 2023-07-07 16:09:58 -0700
 categories: poems
 header:
   image: /assets/images/posts/2023-07-07-header.png
