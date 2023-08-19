@@ -234,7 +234,7 @@ Here are the books I have completed by either reading the printed page or listen
 |Peter Watts                      |*Blindsight*                                      |7/16/23                                                                                          |
 
 <br>
-![AI art depicting stacks of books](/assets/images/projects/reading-list-books-stairs.png){:.smooth-corners}
+![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
 
 
 ## Nonfiction
@@ -338,3 +338,6 @@ Here are the books I have completed by either reading the printed page or listen
 |Will Larson                 |*Staff Engineer: Leadership Beyond the Management Track*                |3/19/23        |
 |Rick Rubin                  |*The Creative Act*                                                      |4/1/23         |
 |Mo Gawdat                   |*Scary Smart*                                                           |6/16/23        |
+
+<br>
+![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
