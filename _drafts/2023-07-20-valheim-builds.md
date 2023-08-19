@@ -1,7 +1,10 @@
 ---
 title: Valheim Builds
-date: 2023-07-08 16:09:58 -0700
-categories: poems
+date: 2018-07-20 10:10:23 -0700
+categories: videogames
+header:
+  image: /assets/images/posts/2018-07-20-header.jpg
+  teaser: /assets/images/posts/2018-07-20-header.jpg
 ---
 
 Valheim Builds
