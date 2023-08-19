@@ -2,7 +2,7 @@
 title: Who?
 ---
 
-![JCK Photograph](/assets/images/who/jck-photo-384.png){:.smooth-corners}
+![JCK Photograph](/assets/images/who/jck-photo-384.png){:.smooth-corners .full-width}
 
 Hi, I'm **jck**. Those are my intials. I also respond to **justin**.
 
@@ -28,7 +28,8 @@ I currently focus on freelance software, music, and creative writing projects. P
 
 I'm primarily a solo tinkerer but I also love working on small teams of driven contributors. [Reach out](https://www.linkedin.com/in/jcraigk/) if you have an interesting project.
 
-![Illustration of campfire on a tropical beach](/assets/images/who/island-campfire-384.png){:.smooth-corners}
+<br>
+![Illustration of campfire on a tropical beach](/assets/images/who/island-campfire-384.png){:.smooth-corners .full-width}
 
 
 <br>
