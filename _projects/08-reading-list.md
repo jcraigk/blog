@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/projects/reading-list-header.jpg
 ---
 
-Here are the books I have completed by either reading the printed page or listening to a narration of the work.
+Here are the books I have read. I began listening to audiobooks in 2017 and that has been my preferred medium since.
 
 ## Fiction
 
@@ -69,7 +69,7 @@ Here are the books I have completed by either reading the printed page or listen
 |Frank Herbert                    |*Heretics of Dune*                                |1990s                                                                                            |
 |Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                                                                                            |
 |Herman Hesse                     |*Steppenwolf*                                     |6/24/05                                                                                          |
-|Homer                            |*The Iliad*                                       |6/27/05                                                                                          |
+|Homer                            |*The Iliad*                                       |5/21/05                                                                                          |
 |Homer                            |*The Odyssey*                                     |6/27/05                                                                                          |
 |Aldous Huxley                    |*Brave New World*                                 |1990s                                                                                            |
 |James Joyce                      |*Ulysses*                                         |6/30/05                                                                                          |
