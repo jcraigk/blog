@@ -10,228 +10,230 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 
 ## Fiction
 
-|Author                           |Title                                             |Completed On                                                                                     |
-|---------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|Isaac Asimov                     |*Pebble In The Sky*                               |1990s                                                                                            |
-|Isaac Asimov                     |*The Stars, Like Dust*                            |1990s                                                                                            |
-|Isaac Asimov                     |*Foundation*                                      |1990s    (again in 2023)                                                                         |
-|Isaac Asimov                     |*Foundation and Empire*                           |1990s                                                                                            |
-|Isaac Asimov                     |*Second Foundation*                               |1990s                                                                                            |
-|Isaac Asimov                     |*The Gods Themselves*                             |1990s                                                                                            |
-|Isaac Asimov                     |*The Robots of Dawn*                              |1990s                                                                                            |
-|Isaac Asimov                     |*Robots and Empire*                               |1990s                                                                                            |
-|Isaac Asimov                     |*Foundation and Earth*                            |1990s                                                                                            |
-|Isaac Asimov                     |*Prelude to Foundation*                           |1990s                                                                                            |
-|Isaac Asimov                     |*Nemesis*                                         |1990s                                                                                            |
-|Isaac Asimov                     |*The Ugly Little Boy*                             |1990s                                                                                            |
-|Jane Austen                      |*Pride and Prejudice*                             |1990s                                                                                            |
-|Ray Bradbury                     |*The Martian Chronicles*                          |1990s                                                                                            |
-|Ray Bradbury                     |*Fahrenheit 451*                                  |1990s                                                                                            |
-|Ray Bradbury                     |*Dandelion Wine*                                  |1990s                                                                                            |
-|Ray Bradbury                     |*Something Wicked This Way Comes*                 |1990s                                                                                            |
-|Joseph Conrad                    |*Heart of Darkness*                               |1990s                                                                                            |
-|John Christopher                 |*When the Tripods Came*                           |1990s                                                                                            |
-|John Christopher                 |*The White Mountains*                             |1990s                                                                                            |
-|John Christopher                 |*The City of Gold and Lead*                       |1990s                                                                                            |
-|John Christopher                 |*The Pool of Fire*                                |1990s                                                                                            |
-|Orson Scott Card                 |*Ender’s Game*                                    |1990s                                                                                            |
-|Orson Scott Card                 |*Ender’s Shadow*                                  |1990s                                                                                            |
-|Arthur C. Clarke                 |*Childhood’s End*                                 |1990s                                                                                            |
-|Arthur C. Clarke                 |*2001: A Space Odyssey*                           |1990s                                                                                            |
-|Arthur C. Clarke                 |*2010: Odyssey Two*                               |1990s                                                                                            |
-|Arthur C. Clarke                 |*2061: Odyssey Three*                             |1990s                                                                                            |
-|Arthur C. Clarke                 |*3001: The Final Odyssey*                         |1990s                                                                                            |
-|Arthur C. Clarke                 |*Rendezvous with Rama*                            |1990s                                                                                            |
-|Arthur C. Clarke                 |*Rama II*                                         |1990s                                                                                            |
-|Arthur C. Clarke                 |*The Garden of Rama*                              |1990s                                                                                            |
-|Arthur C. Clarke                 |*Rama Revealed*                                   |1990s                                                                                            |
-|H.G. Wells                       |*The War of the Worlds*                           |1990s                                                                                            |
-|Michael Crichton                 |*Jurassic Park*                                   |1990s                                                                                            |
-|Phillip K. Dick                  |*The Man in the High Castle*                      |July 2005                                                                                        |
-|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |6/26/05                                                                                          |
-|Phillip K. Dick                  |*Paycheck and Other Stories*                      |6/26/05                                                                                          |
-|Charles Dickens                  |*A Tale of Two Cities*                            |1990s                                                                                            |
-|Charles Dickens                  |*A Christmas Carol*                               |1990s                                                                                            |
-|Jeffrey Eugenides                |*Middlesex*                                       |2003                                                                                             |
-|F. Scott Fitzgerald              |*The Great Gatsby*                                |1990s                                                                                            |
-|William Gibson                   |*Neuromancer*                                     |6/25/05                                                                                          |
-|William Golding                  |*Lord of the Flies*                               |6/25/05                                                                                          |
-|Nathaniel Hawthorne              |*The Scarlet Letter*                              |1990s                                                                                            |
-|Robert A. Heinlein               |*Stranger in a Strange Land*                      |6/26/05                                                                                          |
-|Josheph Heller                   |*Catch-22*                                        |6/27/05                                                                                          |
-|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |6/27/05                                                                                          |
-|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |6/27/05                                                                                          |
-|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |6/27/05                                                                                          |
-|Frank Herbert                    |*Dune*                                            |1990s    (again in 2021)                                                                       |
-|Frank Herbert                    |*Dune Messiah*                                    |1990s                                                                                            |
-|Frank Herbert                    |*Children of Dune*                                |1990s                                                                                            |
-|Frank Herbert                    |*God Emperor of Dune*                             |1990s                                                                                            |
-|Frank Herbert                    |*Heretics of Dune*                                |1990s                                                                                            |
-|Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                                                                                            |
-|Herman Hesse                     |*Steppenwolf*                                     |6/24/05                                                                                          |
-|Homer                            |*The Iliad*                                       |5/21/05                                                                                          |
-|Homer                            |*The Odyssey*                                     |6/27/05                                                                                          |
-|Aldous Huxley                    |*Brave New World*                                 |1990s                                                                                            |
-|James Joyce                      |*Ulysses*                                         |6/30/05                                                                                          |
-|Stephen King                     |*Firestarter*                                     |1990s                                                                                            |
-|Stephen King                     |*Tommyknockers*                                   |1990s                                                                                            |
-|Stephen King                     |*The Shining*                                     |1990s                                                                                            |
-|Stephen King                     |*Four Past Midnight*                              |1990s                                                                                            |
-|Stephen King                     |*Dark Tower: The Gunslinger*                      |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: The Drawing of the Three*            |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: The Wastelands*                      |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: Wizard and Glass*                    |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: Wolves of the Calla*                 |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: Song of Susannah*                    |6/29/05                                                                                          |
-|Stephen King                     |*Dark Tower: The Dark Tower*                      |6/29/05                                                                                          |
-|Harper Lee                       |*To Kill a Mockingbird*                           |1990s                                                                                            |
-|Madeleine L’Engle                |*A Wrinkle in Time*                               |1990s                                                                                            |
-|Madeleine L’Engle                |*A Wind in the Door*                              |1990s                                                                                            |
-|Madeleine L’Engle                |*A Swiftly Tilting Planet*                        |1990s                                                                                            |
-|Madeleine L’Engle                |*Many Waters*                                     |1990s                                                                                            |
-|C. S. Lewis                      |*The Lion, the Witch and the Wardrobe*            |1990s                                                                                            |
-|C. S. Lewis                      |*Prince Caspian: The Return to Narnia*            |1990s                                                                                            |
-|C. S. Lewis                      |*The Voyage of the Dawn Treader*                  |1990s                                                                                            |
-|C. S. Lewis                      |*The Silver Chair*                                |1990s                                                                                            |
-|H.P. Lovecraft                   |*At the Mountains of Madness*                     |6/29/05                                                                                          |
-|H.P. Lovecraft                   |*The Colour Out of Space*                         |6/29/05                                                                                          |
-|H.P. Lovecraft                   |*The Doom that Came to Sarnath*                   |6/29/05                                                                                          |
-|H.P. Lovecraft                   |*The Dream-Quest of Unknown Kadath*               |1990s                                                                                            |
-|H.P. Lovecraft                   |*The Lurking Fear*                                |1990s                                                                                            |
-|H.P. Lovecraft                   |*The Tomb*                                        |1990s                                                                                            |
-|Robert C. O’Brien                |*Mrs. Frisby and the Rats of NIMH*                |1990s                                                                                            |
-|George Orwell                    |*1984*                                            |6/27/05                                                                                          |
-|George Orwell                    |*Animal Farm*                                     |6/27/05                                                                                          |
-|Chuck Palahniuk                  |*Survivor*                                        |6/30/05                                                                                          |
-|Gary Paulsen                     |*Hatchet*                                         |1990s                                                                                            |
-|Gary Paulsen                     |*The River*                                       |1990s                                                                                            |
-|Thomas Pynchon                   |*The Crying of Lot 49*                            |6/30/05                                                                                          |
-|Ayn Rand                         |*Atlas Shrugged*                                  |6/30/05                                                                                          |
-|Wilson Rawls                     |*Where the Red Fern Grows*                        |1990s                                                                                            |
-|Tom Robbins                      |*Still Life with Woodpecker*                      |6/29/05                                                                                          |
-|J.D. Salinger                    |*The Catcher in the Rye*                          |6/29/05                                                                                          |
-|Mary Shelley                     |*Frankenstein*                                    |1990s                                                                                            |
-|John Steinbeck                   |*The Grapes of Wrath*                             |1990s    (again in 2020)                                                                         |
-|Neal Stephensen                  |*Cryptonomicon*                                   |7/3/05                                                                                           |
-|Neal Stephensen                  |*Snow Crash*                                      |7/4/05                                                                                           |
-|J.R.R. Tolkein                   |*The Hobbit*                                      |June 2005                                                                                        |
-|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |June 2005                                                                                        |
-|J.R.R. Tolkein                   |*The Two Towers*                                  |June 2005                                                                                        |
-|J.R.R. Tolkein                   |*The Return of the King*                          |June 2005                                                                                        |
-|Vernor Vinge                     |*A Fire Upon the Deep*                            |July 2005                                                                                        |
-|Vernor Vinge                     |*A Deepness in the Sky*                           |July 2005                                                                                        |
-|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |July 2005                                                                                        |
-|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |July 2005                                                                                        |
-|Edith Wharton                    |*Ethan Frome*                                     |1990s                                                                                            |
-|E.B. White                       |*Charlotte’s Web*                                 |1990s                                                                                            |
-|Kim Stanley Robinson             |*Aurora*                                          |12/1/16                                                                                          |
-|Paul Beatty                      |*The Sellout*                                     |6/30/05                                                                                          |
-|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                                                                                          |
-|Richard Adams                    |*Watership Down*                                  |1990s                                                                                            |
-|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                                                                                           |
-|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                                                                                           |
-|Scott O'Dell                     |*Island of the Blue Dolphins*                     |1990s                                                                                            |
-|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                                                                                          |
-|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                                                                                          |
-|Herman Hesse                     |*Siddhartha*                                      |1/24/17                                                                                          |
-|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04Second reading                                                                             |
-|Franz Kafka                      |*The Trial*                                       |1/1/17                                                                                           |
-|Kim Stanley Robinson             |*2312*                                            |2/5/17                                                                                           |
-|Kurt Vonnegut                    |*The Cat's Cradle*                                |July 2005                                                                                        |
-|Gabriel Garcia Marquez           |*One Hundred Years of Solitude*                   |4/20/17                                                                                          |
-|Milan Kundera                    |*The Unbearable Lightness of Being*               |3/1/17                                                                                           |
-|Ernest Hemingway                 |*The Old Man and the Sea*                         |4/13/17                                                                                          |
-|Octavia Butler                   |*Kindred*                                         |5/1/17                                                                                           |
-|Truman Capote                    |*Breakfast at Tiffany's*                          |5/10/17                                                                                          |
-|Stephen King                     |*The Wind Through the Keyhole*                    |5/18/17                                                                                          |
-|Liu Cixin                        |*The Three Body Problem*                          |6/9/17                                                                                           |
-|David Foster Wallace             |*Infinite Jest*                                   |7/16/17                                                                                          |
-|Liu Cixin                        |*The Dark Forest*                                 |7/27/17                                                                                          |
-|Liu Cixin                        |*Death's End*                                     |8/7/17                                                                                           |
-|Jack Kerouac                     |*On the Road*                                     |8/12/17                                                                                          |
-|Charles Bukowski                 |*Women: A Novel*                                  |8/20/17                                                                                          |
-|Thomas Pynchon                   |*Gravity's Rainbow*                               |8/21/17                                                                                          |
-|Frank Herbert                    |*The Dragon in the Sea*                           |8/18/17                                                                                          |
-|Gertrude Stein                   |*Three Lives*                                     |8/25/17                                                                                          |
+|Author                           |Title                                             |Completed On           |
+|---------------------------------|--------------------------------------------------|-----------------------|
+|Isaac Asimov                     |*Pebble In The Sky*                               |1990s                  |
+|Isaac Asimov                     |*The Stars, Like Dust*                            |1990s                  |
+|Isaac Asimov                     |*Foundation*                                      |1990s (again in 2023)  |
+|Isaac Asimov                     |*Foundation and Empire*                           |1990s                  |
+|Isaac Asimov                     |*Second Foundation*                               |1990s                  |
+|Isaac Asimov                     |*The Gods Themselves*                             |1990s                  |
+|Isaac Asimov                     |*The Robots of Dawn*                              |1990s                  |
+|Isaac Asimov                     |*Robots and Empire*                               |1990s                  |
+|Isaac Asimov                     |*Foundation and Earth*                            |1990s                  |
+|Isaac Asimov                     |*Prelude to Foundation*                           |1990s                  |
+|Isaac Asimov                     |*Nemesis*                                         |1990s                  |
+|Isaac Asimov                     |*The Ugly Little Boy*                             |1990s                  |
+|Jane Austen                      |*Pride and Prejudice*                             |1990s                  |
+|Ray Bradbury                     |*The Martian Chronicles*                          |1990s                  |
+|Ray Bradbury                     |*Fahrenheit 451*                                  |1990s                  |
+|Ray Bradbury                     |*Dandelion Wine*                                  |1990s                  |
+|Ray Bradbury                     |*Something Wicked This Way Comes*                 |1990s                  |
+|Joseph Conrad                    |*Heart of Darkness*                               |1990s                  |
+|John Christopher                 |*When the Tripods Came*                           |1990s                  |
+|John Christopher                 |*The White Mountains*                             |1990s                  |
+|John Christopher                 |*The City of Gold and Lead*                       |1990s                  |
+|John Christopher                 |*The Pool of Fire*                                |1990s                  |
+|Orson Scott Card                 |*Ender’s Game*                                    |1990s                  |
+|Orson Scott Card                 |*Ender’s Shadow*                                  |1990s                  |
+|Arthur C. Clarke                 |*Childhood’s End*                                 |1990s                  |
+|Arthur C. Clarke                 |*2001: A Space Odyssey*                           |1990s                  |
+|Arthur C. Clarke                 |*2010: Odyssey Two*                               |1990s                  |
+|Arthur C. Clarke                 |*2061: Odyssey Three*                             |1990s                  |
+|Arthur C. Clarke                 |*3001: The Final Odyssey*                         |1990s                  |
+|Arthur C. Clarke                 |*Rendezvous with Rama*                            |1990s                  |
+|Arthur C. Clarke                 |*Rama II*                                         |1990s                  |
+|Arthur C. Clarke                 |*The Garden of Rama*                              |1990s                  |
+|Arthur C. Clarke                 |*Rama Revealed*                                   |1990s                  |
+|H.G. Wells                       |*The War of the Worlds*                           |1990s                  |
+|Michael Crichton                 |*Jurassic Park*                                   |1990s                  |
+|Phillip K. Dick                  |*The Man in the High Castle*                      |July 2005              |
+|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |6/26/05                |
+|Phillip K. Dick                  |*Paycheck and Other Stories*                      |6/26/05                |
+|Charles Dickens                  |*A Tale of Two Cities*                            |1990s                  |
+|Charles Dickens                  |*A Christmas Carol*                               |1990s                  |
+|Jeffrey Eugenides                |*Middlesex*                                       |2003                   |
+|F. Scott Fitzgerald              |*The Great Gatsby*                                |1990s                  |
+|William Gibson                   |*Neuromancer*                                     |6/25/05                |
+|William Golding                  |*Lord of the Flies*                               |6/25/05                |
+|Nathaniel Hawthorne              |*The Scarlet Letter*                              |1990s                  |
+|Robert A. Heinlein               |*Stranger in a Strange Land*                      |6/26/05                |
+|Josheph Heller                   |*Catch-22*                                        |6/27/05                |
+|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |6/27/05                |
+|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |6/27/05                |
+|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |6/27/05                |
+|Frank Herbert                    |*Dune*                                            |1990s (again in 2021)  |
+|Frank Herbert                    |*Dune Messiah*                                    |1990s                  |
+|Frank Herbert                    |*Children of Dune*                                |1990s                  |
+|Frank Herbert                    |*God Emperor of Dune*                             |1990s                  |
+|Frank Herbert                    |*Heretics of Dune*                                |1990s                  |
+|Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                  |
+|Herman Hesse                     |*Steppenwolf*                                     |6/24/05                |
+|Homer                            |*The Iliad*                                       |5/21/05                |
+|Homer                            |*The Odyssey*                                     |6/27/05                |
+|Aldous Huxley                    |*Brave New World*                                 |1990s                  |
+|James Joyce                      |*Ulysses*                                         |6/30/05                |
+|Stephen King                     |*Firestarter*                                     |1990s                  |
+|Stephen King                     |*Tommyknockers*                                   |1990s                  |
+|Stephen King                     |*The Shining*                                     |1990s                  |
+|Stephen King                     |*Four Past Midnight*                              |1990s                  |
+|Stephen King                     |*Dark Tower: The Gunslinger*                      |6/29/05                |
+|Stephen King                     |*Dark Tower: The Drawing of the Three*            |6/29/05                |
+|Stephen King                     |*Dark Tower: The Wastelands*                      |6/29/05                |
+|Stephen King                     |*Dark Tower: Wizard and Glass*                    |6/29/05                |
+|Stephen King                     |*Dark Tower: Wolves of the Calla*                 |6/29/05                |
+|Stephen King                     |*Dark Tower: Song of Susannah*                    |6/29/05                |
+|Stephen King                     |*Dark Tower: The Dark Tower*                      |6/29/05                |
+|Harper Lee                       |*To Kill a Mockingbird*                           |1990s                  |
+|Madeleine L’Engle                |*A Wrinkle in Time*                               |1990s                  |
+|Madeleine L’Engle                |*A Wind in the Door*                              |1990s                  |
+|Madeleine L’Engle                |*A Swiftly Tilting Planet*                        |1990s                  |
+|Madeleine L’Engle                |*Many Waters*                                     |1990s                  |
+|C. S. Lewis                      |*The Lion, the Witch and the Wardrobe*            |1990s                  |
+|C. S. Lewis                      |*Prince Caspian: The Return to Narnia*            |1990s                  |
+|C. S. Lewis                      |*The Voyage of the Dawn Treader*                  |1990s                  |
+|C. S. Lewis                      |*The Silver Chair*                                |1990s                  |
+|H.P. Lovecraft                   |*At the Mountains of Madness*                     |6/29/05                |
+|H.P. Lovecraft                   |*The Colour Out of Space*                         |6/29/05                |
+|H.P. Lovecraft                   |*The Doom that Came to Sarnath*                   |6/29/05                |
+|H.P. Lovecraft                   |*The Dream-Quest of Unknown Kadath*               |1990s                  |
+|H.P. Lovecraft                   |*The Lurking Fear*                                |1990s                  |
+|H.P. Lovecraft                   |*The Tomb*                                        |1990s                  |
+|Robert C. O’Brien                |*Mrs. Frisby and the Rats of NIMH*                |1990s                  |
+|George Orwell                    |*1984*                                            |6/27/05                |
+|George Orwell                    |*Animal Farm*                                     |6/27/05                |
+|Chuck Palahniuk                  |*Survivor*                                        |6/30/05                |
+|Gary Paulsen                     |*Hatchet*                                         |1990s                  |
+|Gary Paulsen                     |*The River*                                       |1990s                  |
+|Thomas Pynchon                   |*The Crying of Lot 49*                            |6/30/05                |
+|Ayn Rand                         |*Atlas Shrugged*                                  |6/30/05                |
+|Wilson Rawls                     |*Where the Red Fern Grows*                        |1990s                  |
+|Tom Robbins                      |*Still Life with Woodpecker*                      |6/29/05                |
+|J.D. Salinger                    |*The Catcher in the Rye*                          |6/29/05                |
+|Mary Shelley                     |*Frankenstein*                                    |1990s                  |
+|John Steinbeck                   |*The Grapes of Wrath*                             |1990s (again in 2020)  |
+|Neal Stephensen                  |*Cryptonomicon*                                   |7/3/05                 |
+|Neal Stephensen                  |*Snow Crash*                                      |7/4/05                 |
+|J.R.R. Tolkein                   |*The Hobbit*                                      |June 2005              |
+|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |June 2005              |
+|J.R.R. Tolkein                   |*The Two Towers*                                  |June 2005              |
+|J.R.R. Tolkein                   |*The Return of the King*                          |June 2005              |
+|Vernor Vinge                     |*A Fire Upon the Deep*                            |July 2005              |
+|Vernor Vinge                     |*A Deepness in the Sky*                           |July 2005              |
+|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |July 2005              |
+|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |July 2005              |
+|Edith Wharton                    |*Ethan Frome*                                     |1990s                  |
+|E.B. White                       |*Charlotte’s Web*                                 |1990s                  |
+|Kim Stanley Robinson             |*Aurora*                                          |12/1/16                |
+|Paul Beatty                      |*The Sellout*                                     |6/30/05                |
+|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                |
+|Richard Adams                    |*Watership Down*                                  |1990s                  |
+|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                 |
+|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                 |
+|Scott O'Dell                     |*Island of the Blue Dolphins*                     |1990s                  |
+|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                |
+|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                |
+|Herman Hesse                     |*Siddhartha*                                      |1/24/17                |
+|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04                 |
+|Franz Kafka                      |*The Trial*                                       |1/1/17                 |
+|Kim Stanley Robinson             |*2312*                                            |2/5/17                 |
+|Kurt Vonnegut                    |*The Cat's Cradle*                                |July 2005              |
+|Gabriel Garcia Marquez           |*One Hundred Years of Solitude*                   |4/20/17                |
+|Milan Kundera                    |*The Unbearable Lightness of Being*               |3/1/17                 |
+|Ernest Hemingway                 |*The Old Man and the Sea*                         |4/13/17                |
+|Octavia Butler                   |*Kindred*                                         |5/1/17                 |
+|Truman Capote                    |*Breakfast at Tiffany's*                          |5/10/17                |
+|Stephen King                     |*The Wind Through the Keyhole*                    |5/18/17                |
+|Liu Cixin                        |*The Three Body Problem*                          |6/9/17                 |
+|David Foster Wallace             |*Infinite Jest*                                   |7/16/17                |
+|Liu Cixin                        |*The Dark Forest*                                 |7/27/17                |
+|Liu Cixin                        |*Death's End*                                     |8/7/17                 |
+|Jack Kerouac                     |*On the Road*                                     |8/12/17                |
+|Charles Bukowski                 |*Women: A Novel*                                  |8/20/17                |
+|Thomas Pynchon                   |*Gravity's Rainbow*                               |8/21/17                |
+|Frank Herbert                    |*The Dragon in the Sea*                           |8/18/17                |
+|Gertrude Stein                   |*Three Lives*                                     |8/25/17                |
 |Vladimir Nabokov                 |*Lolita*                                          |9/17/17 (again 7/30/22)|
-|Anthony Burgess                  |*A Clockwork Orange*                              |10/12/17                                                                                         |
-|Ken Kesey                        |*One Flew Over the Cuckoo's Nest*                 |11/17/17                                                                                         |
+|Anthony Burgess                  |*A Clockwork Orange*                              |10/12/17               |
+|Ken Kesey                        |*One Flew Over the Cuckoo's Nest*                 |11/17/17               |
 |Charles Bukowski                 |*Ham on Rye*                                      |11/30/17 (again 8/1/22)|
-|James Joyce                      |*A Portrait of the Artist as a Young Man*         |12/10/17                                                                                         |
-|China Mieville                   |*Perdido Street Station*                          |3/2/18                                                                                           |
-|Walt Whitman                     |*Leaves of Grass*                                 |3/10/18                                                                                          |
-|Kurt Vonnegut                    |*Galapagos*                                       |5/6/18                                                                                           |
-|David Weber, Timothy Zahn        |*A Call to Duty: Book I of Manticore…*            |4/10/18                                                                                          |
-|Joe Halderman                    |*The Forever War*                                 |3/26/18                                                                                          |
-|Salman Rushdie                   |*The Golden House*                                |3/12/18                                                                                          |
-|Charles Bukowski                 |*Post Office*                                     |7/4/18                                                                                           |
-|James S A Corey                  |*Leviathan Wakes*                                 |7/1/18                                                                                           |
-|Angela Carter                    |*The Magic Toyshop*                               |7/4/18                                                                                           |
-|Ray Bradbury                     |*The Golden Apples of the Sun (and other stories)*|6/15/18                                                                                          |
-|Margaret Atwood                  |*The Handmaid's Tale*                             |2/1/18                                                                                           |
-|Dennis E Taylor                  |*The Singularity Trap*                            |7/16/18                                                                                          |
-|John Steinbeck                   |*Of Mice and Men*                                 |7/17/18                                                                                          |
-|Salman Rushdie                   |*The Satanic Verses*                              |8/25/18                                                                                          |
-|Gene Wolf                        |*The Shadow of the Torturer*                      |8/20/18                                                                                          |
-|James S A Corey                  |*Calaban’s War*                                   |9/13/18                                                                                          |
-|James S A Corey                  |*Abaddon's Gate*                                  |10/25/18                                                                                         |
-|Sue Burke                        |*Semiosis*                                        |2/9/19                                                                                           |
-|Elizabeth McCracken              |*Bowlaway*                                        |4/14/19                                                                                          |
-|Douglas Adams                    |*The Long Dark Tea-Time of the Soul*              |4/28/19                                                                                          |
-|Phillip K. Dick                  |*Ubik*                                            |5/5/19                                                                                           |
-|Hunter S Thompson                |*Fear and Loathing in Las Vegas*                  |7/15/19                                                                                          |
-|M John Harrison                  |*Light*                                           |8/10/19                                                                                          |
-|M John Harrison                  |*Nova Swing*                                      |8/27/19                                                                                          |
-|M John Harrison                  |*Empty Space: A Haunting*                         |9/18/19                                                                                          |
-|Stanislaw Lem                    |*Solaris*                                         |8/29/19                                                                                          |
-|James S A Corey                  |*Cibola Burn*                                     |10/29/19                                                                                         |
-|James S A Corey                  |*Nemesis Games*                                   |11/10/19                                                                                         |
-|Aldous Huxley                    |*Island*                                          |11/14/19                                                                                         |
-|Wolfgang von Goethe              |*Faust: Parts I and II*                           |3/15/20                                                                                          |
-|Richard Powers                   |*The Overstory*                                   |2/1/20                                                                                           |
-|Charles Dickens                  |*David Copperfield*                               |6/7/20                                                                                           |
-|Stephen King                     |*Pet Sematary*                                    |6/14/20                                                                                          |
-|John Steinbeck                   |*East of Eden*                                    |7/1/20                                                                                           |
-|Oscar Wilde                      |*The Picture of Dorian Gray*                      |7/15/20                                                                                          |
-|John Steinbeck                   |*Cannery Row*                                     |7/24/20                                                                                          |
-|Stanislaw Lem                    |*The Invincible*                                  |9/7/20                                                                                           |
-|Virginia Woolf                   |*To the Lighthouse*                               |9/27/20                                                                                          |
-|Fyodor Dostoevsky                |*Crime and Punishment*                            |12/25/20                                                                                         |
-|George R R Martin                |*A Game of Thrones*                               |1/9/21                                                                                           |
-|George R R Martin                |*A Clash of Kings*                                |1/13/21                                                                                          |
-|George R R Martin                |*A Storm of Swords*                               |1/20/21                                                                                          |
-|George R R Martin                |*A Feast for Crows*                               |1/22/21                                                                                          |
-|George R R Martin                |*A Dance with Dragons*                            |1/28/21                                                                                          |
-|James S A Corey                  |*Babylon's Ashes*                                 |2/7/21                                                                                           |
-|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                                                                                          |
-|Max Brooks                       |*World War Z*                                     |5/17/21                                                                                          |
-|B F Skinner                      |*Walden Two*                                      |5/22/21                                                                                          |
-|James S A Corey                  |*Persepolis Rising*                               |6/1/21                                                                                           |
-|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                                                                                          |
-|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                                                                                          |
-|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                                                                                          |
-|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                                                                                          |
-|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                                                                                           |
-|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                                                                                           |
-|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                                                                                           |
-|Pierce Brown                     |*Red Rising*                                      |9/16/21                                                                                          |
-|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21                                                                                         |
-|Herman Melville                  |*Moby Dick*                                       |12/20/21                                                                                         |
-|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                                                                                          |
-|Iain M Banks                     |*Surface Detail*                                  |5/29/22                                                                                          |
-|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                                                                                          |
-|Charles Bukowski                 |*Hollywood*                                       |9/20/22                                                                                          |
-|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                                                                                          |
-|Charles Bukowski                 |*Factotum*                                        |12/18/22                                                                                         |
-|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                                                                                           |
-|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                                                                                          |
-|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                                                                                           |
-|Stephen King                     |*Salem's Lot*                                     |6/10/23                                                                                          |
-|Ted Chiang                       |*Exhalation*                                      |6/26/23                                                                                          |
-|Albert Camus                     |*The Stranger*                                    |6/27/23                                                                                          |
-|Charles Bukowski                 |*Pulp*                                            |7/1/23                                                                                           |
-|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                                                                                          |
-|Peter Watts                      |*Blindsight*                                      |7/16/23                                                                                          |
+|James Joyce                      |*A Portrait of the Artist as a Young Man*         |12/10/17               |
+|China Mieville                   |*Perdido Street Station*                          |3/2/18                 |
+|Walt Whitman                     |*Leaves of Grass*                                 |3/10/18                |
+|Kurt Vonnegut                    |*Galapagos*                                       |5/6/18                 |
+|David Weber, Timothy Zahn        |*A Call to Duty: Book I of Manticore…*            |4/10/18                |
+|Joe Halderman                    |*The Forever War*                                 |3/26/18                |
+|Salman Rushdie                   |*The Golden House*                                |3/12/18                |
+|Charles Bukowski                 |*Post Office*                                     |7/4/18                 |
+|James S A Corey                  |*Leviathan Wakes*                                 |7/1/18                 |
+|Angela Carter                    |*The Magic Toyshop*                               |7/4/18                 |
+|Ray Bradbury                     |*The Golden Apples of the Sun (and other stories)*|6/15/18                |
+|Margaret Atwood                  |*The Handmaid's Tale*                             |2/1/18                 |
+|Dennis E Taylor                  |*The Singularity Trap*                            |7/16/18                |
+|John Steinbeck                   |*Of Mice and Men*                                 |7/17/18                |
+|Salman Rushdie                   |*The Satanic Verses*                              |8/25/18                |
+|Gene Wolf                        |*The Shadow of the Torturer*                      |8/20/18                |
+|James S A Corey                  |*Calaban’s War*                                   |9/13/18                |
+|James S A Corey                  |*Abaddon's Gate*                                  |10/25/18               |
+|Sue Burke                        |*Semiosis*                                        |2/9/19                 |
+|Elizabeth McCracken              |*Bowlaway*                                        |4/14/19                |
+|Douglas Adams                    |*The Long Dark Tea-Time of the Soul*              |4/28/19                |
+|Phillip K. Dick                  |*Ubik*                                            |5/5/19                 |
+|Hunter S Thompson                |*Fear and Loathing in Las Vegas*                  |7/15/19                |
+|M John Harrison                  |*Light*                                           |8/10/19                |
+|M John Harrison                  |*Nova Swing*                                      |8/27/19                |
+|M John Harrison                  |*Empty Space: A Haunting*                         |9/18/19                |
+|Stanislaw Lem                    |*Solaris*                                         |8/29/19                |
+|James S A Corey                  |*Cibola Burn*                                     |10/29/19               |
+|James S A Corey                  |*Nemesis Games*                                   |11/10/19               |
+|Aldous Huxley                    |*Island*                                          |11/14/19               |
+|Wolfgang von Goethe              |*Faust: Parts I and II*                           |3/15/20                |
+|Richard Powers                   |*The Overstory*                                   |2/1/20                 |
+|Charles Dickens                  |*David Copperfield*                               |6/7/20                 |
+|Stephen King                     |*Pet Sematary*                                    |6/14/20                |
+|John Steinbeck                   |*East of Eden*                                    |7/1/20                 |
+|Oscar Wilde                      |*The Picture of Dorian Gray*                      |7/15/20                |
+|John Steinbeck                   |*Cannery Row*                                     |7/24/20                |
+|Stanislaw Lem                    |*The Invincible*                                  |9/7/20                 |
+|Virginia Woolf                   |*To the Lighthouse*                               |9/27/20                |
+|Fyodor Dostoevsky                |*Crime and Punishment*                            |12/25/20               |
+|George R R Martin                |*A Game of Thrones*                               |1/9/21                 |
+|George R R Martin                |*A Clash of Kings*                                |1/13/21                |
+|George R R Martin                |*A Storm of Swords*                               |1/20/21                |
+|George R R Martin                |*A Feast for Crows*                               |1/22/21                |
+|George R R Martin                |*A Dance with Dragons*                            |1/28/21                |
+|James S A Corey                  |*Babylon's Ashes*                                 |2/7/21                 |
+|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                |
+|Max Brooks                       |*World War Z*                                     |5/17/21                |
+|B F Skinner                      |*Walden Two*                                      |5/22/21                |
+|James S A Corey                  |*Persepolis Rising*                               |6/1/21                 |
+|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                |
+|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                |
+|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                |
+|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                |
+|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                 |
+|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                 |
+|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                 |
+|Pierce Brown                     |*Red Rising*                                      |9/16/21                |
+|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21               |
+|Herman Melville                  |*Moby Dick*                                       |12/20/21               |
+|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                |
+|Iain M Banks                     |*Surface Detail*                                  |5/29/22                |
+|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                |
+|Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
+|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
+|Charles Bukowski                 |*Factotum*                                        |12/18/22               |
+|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
+|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
+|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
+|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
+|Ted Chiang                       |*Exhalation*                                      |6/26/23                |
+|Albert Camus                     |*The Stranger*                                    |6/27/23                |
+|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
+|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
+|Peter Watts                      |*Blindsight*                                      |7/16/23                |
+|Albert Camus                     |*The Plague*                                      |8/9/23                 |
+|Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
@@ -338,6 +340,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |Will Larson                 |*Staff Engineer: Leadership Beyond the Management Track*                |3/19/23        |
 |Rick Rubin                  |*The Creative Act*                                                      |4/1/23         |
 |Mo Gawdat                   |*Scary Smart*                                                           |6/16/23        |
+|Donald Hoffman              |*The Case Against Reality*                                              |6/16/23        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
