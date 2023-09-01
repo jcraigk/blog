@@ -341,6 +341,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |Rick Rubin                  |*The Creative Act*                                                      |4/1/23         |
 |Mo Gawdat                   |*Scary Smart*                                                           |6/16/23        |
 |Donald Hoffman              |*The Case Against Reality*                                              |6/16/23        |
+|James Lovelock              |*Novacene*                                                              |8/30/23        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
