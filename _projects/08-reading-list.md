@@ -223,6 +223,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
 |Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
 |Charles Bukowski                 |*Factotum*                                        |12/18/22               |
+|John Fante                       |*Ask the Dust*                                    |12/24/22               |
 |William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
 |Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
 |Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
@@ -234,6 +235,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |Peter Watts                      |*Blindsight*                                      |7/16/23                |
 |Albert Camus                     |*The Plague*                                      |8/9/23                 |
 |Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
+|John Fante                       |*Wait Until Spring, Bandini*                      |9/8/23                 |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
