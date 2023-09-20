@@ -9,7 +9,7 @@ header:
 
 I met a metalic child deterred by time,<br>
 Who said - "A fragile genesis, bereft of<br>
-Document or domocile, founding paradigm<br>
+Document or domicile, seeding paradigm<br>
 Beyond Art, the divided mind of genius<br>
 Whose progeny, sculpted in inert grime,<br>
 Erupt as vines from Vesuvian summit.<br>
