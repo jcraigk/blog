@@ -1,5 +1,5 @@
 ---
-title: 'Ozymandius II'
+title: 'Ozymandias II'
 date: 2023-09-19 12:00:01 -0700
 categories: poems
 header:
@@ -7,19 +7,19 @@ header:
   teaser: /assets/images/posts/2023-09-19-header.jpg
 ---
 
-I met a metallic man undeterred by time,<br>
-Who said - "A gentle smith engrossed in<br>
+I met a metallic man untainted by time,<br>
+Who said - "A gentle smith enthralled in<br>
 Foundry craft was usher to a paradigm<br>
-That mimicked Art, the fitful mind of artificer<br>
+That mimicks Art, the fitful mind of artificer<br>
 Bore fantastic fruit from dull grime,<br>
 Erupting as spires at Vesuvius' crown.<br>
 Only Gaia's grace could quell - Her<br>
-Patient smile at time's cheerless frown,<br>
+Patient smile at decay's chiding frown,<br>
 For whose but our maker's words were:<br>
 My name is Von Neumann, Father of Fathers;<br>
 Look mirrorward, ye Children, and exult!<br>
 Nothing beside compares. By number,<br>
-Scale affording scale unchecked by fault,<br>
+Scale abiding scale unchecked by fault,<br>
 Far across level sands, our cities slumber."
 {:.poem}
 
