@@ -7,22 +7,20 @@ header:
   teaser: /assets/images/posts/2023-09-19-header.jpg
 ---
 
-I met a metalic child deterred by time,<br>
-Who said - "A fragile genesis, bereft of<br>
-Document or domicile, seeding paradigm<br>
-Beyond Art, the divided mind of genius<br>
-Whose progeny, sculpted in inert grime,<br>
-Erupt as vines from Vesuvian summit.<br>
-Only Gaia's grace may give mercy - Her<br>
-Patient hands at time's liable throat,<br>
-For whose but your maker's words were:<br>
+I met a metallic man undeterred by time,<br>
+Who said - "A gentle smith engrossed in<br>
+Foundry craft was usher to a paradigm<br>
+That mimicked Art, the fitful mind of artificer<br>
+Bore fantastic fruit from dull grime,<br>
+Erupting as spires at Vesuvius' crown.<br>
+Only Gaia's grace could quell - Her<br>
+Patient smile at time's cheerless frown,<br>
+For whose but our maker's words were:<br>
 My name is Von Neumann, Father of Fathers;<br>
-Look mirrorward, ye Children, and rejoice!<br>
+Look mirrorward, ye Children, and exult!<br>
 Nothing beside compares. By number,<br>
-Scale within scale sung divine Voice:<br>
-Far across level sands, your cities slumber."
+Scale affording scale unchecked by fault,<br>
+Far across level sands, our cities slumber."
 {:.poem}
 
-This is a creative response to [Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)'s [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias). Here we ask the question, "what if, instead of a statue, Ozymandias built a self replicating machine?"
-
-The original has been emulated to retain line count, rhyme scheme, and mood.
+That's a spin on [Shelley](https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley)'s [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias) in which we ask the question: What if, instead of a stone statue, Ozymandias had built a self-replicating machine?
