@@ -30,7 +30,7 @@ it's all here
 
 I can see why he stayed</div>
 
-As hinted in the poem, in addition to his name and relevant dates, there are two words etched on his headstone: "Don't Try". Having read much of his stuff - five novels, several collections of short stories, and many poems - I have come to understand this as a playful taunt aimed at other artists.
+As hinted in the poem, in addition to displaying his name and relevant dates, there are two words etched on his headstone: "Don't Try". Having read much of his stuff - five novels, several collections of short stories, and many poems - I have come to understand this as a playful taunt aimed at other artists.
 
 [Roll the Dice](https://hellopoetry.com/poem/68266/roll-the-dice/), one of his most well known poems, begins "if you're going to try, go all the way." If the words on the headstone are not a direct reference to this poem and the ethos it espouses, it's one hell of a coincidence.
 
