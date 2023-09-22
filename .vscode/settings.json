@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "Github Light Theme - Gray",
+  "workbench.colorCustomizations": {
+    "editor.background": "#f3f3f3",
+    "editor.findMatchBackground": "#c4be4a",
+    "editor.findMatchHighlightBackground": "#f3f3f3",
+    "editor.lineHighlightBackground": "#f3f3f3",
+    "editor.lineHighlightBorder": "#f3f3f3",
+    "editor.selectionBackground": "#e3e3e3",
+    "editor.wordHighlightBackground": "#f3f3f3",
+    "list.activeSelectionBackground": "#333333",
+    "list.hoverBackground": "#404040",
+    "list.inactiveSelectionBackground": "#333333",
+    "sideBar.background": "#333333",
+    "sideBar.foreground": "#b5b5b5"
+  }
+  "editor.fontFamily": "Cardo",
+  "editor.fontSize": 24,
+  "editor.lightbulb.enabled": false
+}
