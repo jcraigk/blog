@@ -66,6 +66,4 @@ defaults:
 search: true
 lunr:
   search_within_pages: true
-analytics:
-  provider: "custom"
 og_image: /assets/images/logo-earth-128.png
