@@ -38,7 +38,7 @@ I imagine I'm in a conversation with the man over a beer. Confident from drink, 
 
 He smiles, raises his glass, says, "don't try."
 
-There's a dual meaning here. On the one hand he's correctly pointing out that I'm likely to fail. If I'm not absolutely determined and if failure worries me, it's best to stay out of the ring. On the other hand, he's saying if I'm realy serious about it, then I have to see it through despite all the hardships.
+There's a dual meaning here. On the one hand he's correctly pointing out that I'm likely to fail. If I'm not absolutely determined and if failure worries me, it's best to stay out of the ring. On the other hand, he's saying if I'm really serious about it, then I have to see it through despite all the hardships.
 
 Below the inscription is a silhouette of a Rock em Sock em robot. The novel [Ham on Rye](https://en.wikipedia.org/wiki/Ham_on_Rye) ends with a scene where the narrator, Hand Chinaski, an alter ego of the author, is playing matches of rock em sock em against another youth. He keeps losing but he keeps struggling. This symbolism further suggests that "Don't try" actually means that you _are_ supposed to try.
 
