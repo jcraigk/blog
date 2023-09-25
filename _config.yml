@@ -66,10 +66,6 @@ defaults:
 search: true
 lunr:
   search_within_pages: true
-# google_site_verification: TODO
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "UA-1234567-8"
-#     anonymize_ip: false # default
+analytics:
+  provider: "custom"
 og_image: /assets/images/logo-earth-128.png
