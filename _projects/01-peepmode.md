@@ -28,7 +28,7 @@ Ultimately I was able to implement all of the features. Each one presented its o
 
 The biggest challenge during development was the lack of documentation and developer community. At the time there was no official documentation on the editor. My main resources were a few other programmers who communicated through web based forums. The back and forth was slow and there were often times when no one else had tried to tackle some of the problems I was facing.
 
-Much of the code represnts workarounds to default game behavior vs elegant programming solutions. There was a lot of code duplication, for example.
+Much of the code represents workarounds to default game behavior vs elegant programming solutions. There was a lot of code duplication, for example.
 
 In 2014 another SC2 community member created [GameHeart](https://news.blizzard.com/en-gb/starcraft2/15463641/wcs-gameheart), which took inspiration from existing observer mods, including PeepMode. This mod went on to be used by tournaments and other e-sports competitions while PeepMode continued to be popular as a custom mode on Battle.net.
 

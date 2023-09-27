@@ -30,7 +30,7 @@ it's all here
 
 I can see why he stayed</div>
 
-As hinted in the poem, in addition to displaying his name and relevant dates, there are two words etched on his headstone: "Don't Try". Having read much of his stuff - five novels, several collections of short stories, and many poems - I have come to understand this as a playful taunt aimed at other artists.
+As hinted in the poem, in addition to displaying his name and relevant dates, there are two words etched on his headstone: "Don't Try." Having read much of his stuff - five novels, several collections of short stories, and many poems - I have come to understand this as a playful taunt aimed at other artists.
 
 [Roll the Dice](https://hellopoetry.com/poem/68266/roll-the-dice/), one of his most well known poems, begins "if you're going to try, go all the way." If the words on the headstone are not a direct reference to this poem and the ethos it espouses, it's one hell of a coincidence.
 
@@ -40,7 +40,7 @@ He smiles, raises his glass, says, "don't try."
 
 There's a dual meaning here. On the one hand he's correctly pointing out that I'm likely to fail. If I'm not absolutely determined and if failure worries me, it's best to stay out of the ring. On the other hand, he's saying if I'm really serious about it, then I have to see it through despite all the hardships.
 
-Below the inscription is a silhouette of a Rock em Sock em robot. The novel [Ham on Rye](https://en.wikipedia.org/wiki/Ham_on_Rye) ends with a scene where the narrator, Hand Chinaski, an alter ego of the author, is playing matches of rock em sock em against another youth. He keeps losing but he keeps struggling. This symbolism further suggests that "Don't try" actually means that you _are_ supposed to try.
+Below the inscription is a silhouette of a Rock em Sock em robot. The novel [Ham on Rye](https://en.wikipedia.org/wiki/Ham_on_Rye) ends with a scene where the narrator, Hank Chinaski, an alter ego of the author, is playing matches of rock em sock em against another youth. He keeps losing but he keeps struggling. This symbolism further suggests that "Don't try" actually means that you _are_ supposed to try.
 
 Here's a poem about my first visit, which I made on Black Friday in 2022. There happened to be a couple of other Bukowski fans reading to each other there.
 

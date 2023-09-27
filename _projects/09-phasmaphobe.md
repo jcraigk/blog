@@ -9,7 +9,7 @@ header:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6yHMtyCj5BSFMT0K8fh3WA?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
-Musical albums are a marvelous artform. They can take you away for a time, and it's a place you can keep returning to. Each phase of life can bring out previously unheard or misundestood lyrics, bring new meaning to a familiar work. When I discover a new album that catches my ear, I listen to it obsessively until I have internalized it.
+Musical albums are a marvelous art form. They can take you away for a time, and it's a place you can keep returning to. Each phase of life can bring out previously unheard or misunderstood lyrics, bring new meaning to a familiar work. When I discover a new album that catches my ear, I listen to it obsessively until I have internalized it.
 
 My journey in music has mostly centered around live performance, collaborating with other musicians. That's what I enjoy most about playing music. Sight reading and classical are great for preparation, but they are not what move me. There has to be a danceable beat.
 

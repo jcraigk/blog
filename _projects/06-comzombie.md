@@ -12,9 +12,9 @@ I started with a PHP app that pulled historical and daily commodities trading da
 
 My business partner and I set up a small business called ComZombie to trade the best strategy that the software produced. Ultimately we ended up breaking even after brokerage fees, which were considerable for the frequent trades the system instructed us to execute. Since we both had day jobs we enjoyed, we decided to return our attention there.
 
-While the app did identify a few strategies that may have turned a profit in the longrun (I have not verifed that), ultimately I concluded that the thesis of A Random Walk was correct: it is very difficult, if not impossible, to predict price using statistical analysis alone.
+While the app did identify a few strategies that may have turned a profit in the long run (I have not verified that), ultimately I concluded that the thesis of A Random Walk was correct: it is very difficult, if not impossible, to predict price using statistical analysis alone.
 
-That said, there are many opportunities for small profits based on arbitrage and other well known algorithmic trading strategies. Such systems would probalby have a limited window of use and would likely be kept secret.
+That said, there are many opportunities for small profits based on arbitrage and other well known algorithmic trading strategies. Such systems would probably have a limited window of use and would likely be kept secret.
 
 Takeaways:
   * C is much faster than PHP at runtime but the development experience is rough

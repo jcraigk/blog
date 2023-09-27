@@ -27,7 +27,7 @@ You're never alone - your brain has two halves to keep you company
 Cultural zombies abound
 {:.quote}
 
-Insight is often conveyed via rest stop urinal scrawlings
+Insight is often conveyed via rest stop urinal scrawling
 {:.quote}
 
 Creation is translation, composition, or both

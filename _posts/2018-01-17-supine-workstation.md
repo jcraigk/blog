@@ -19,7 +19,7 @@ A parody of the March of Progress, illustrating degradation of working posture s
 {:.caption}
 
 
-Sadly, human health is not a priority in the workplaces of capitalistic societies; see pre-union Industrial Revolution conditions or contemporary third world sweatshops for extreme examples. Therefore, it's up to individual workers to experiment with and prioritize healthy work habits. Hopefully, sharing the results of my own trial and error can save others some time and perhaps even prevent longterm injuries. In that spirit, in this entry I'll be touching on three important concepts of ergonomic health and I'll also be sharing a specific workstation configuration you can try out yourself.
+Sadly, human health is not a priority in the workplaces of capitalistic societies; see pre-union Industrial Revolution conditions or contemporary third world sweatshops for extreme examples. Therefore, it's up to individual workers to experiment with and prioritize healthy work habits. Hopefully, sharing the results of my own trial and error can save others some time and perhaps even prevent long term injuries. In that spirit, in this entry I'll be touching on three important concepts of ergonomic health and I'll also be sharing a specific workstation configuration you can try out yourself.
 
 
 ### Breaks, Posture, and Variation

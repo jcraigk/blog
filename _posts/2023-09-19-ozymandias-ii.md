@@ -9,17 +9,17 @@ header:
 
 <div class="poem">OZYMANDIAS II (SELF REPLICATA)
 
-I met a metallic man unwaned by time,
+I met a metallic man rich of time,
 Who said - "A gentle smith enthralled in
 Tireless craft was usher to a paradigm
-That mimicks Art, the fitful mind of artificer
+That mimics Art, the fitful mind of artificer
 Bore fantastic fruit from fruitless grime,
 Erupting as spires at Vesuvius' crown.
 Only Gaia's grace could quell - Her
 Patient smile at fate's rigid frown,
 For whose but my maker's words were:
 My name is Neumann, Father of Fathers;
-Look mirrorward, ye Children, and exult!
+Look inward, ye Children, and exult!
 Nothing beside compares. By number,
 Scale abiding scale unchecked by fault,
 Far across level sands, my cities slumber."</div>
