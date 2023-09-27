@@ -9,7 +9,7 @@ header:
 
 <div class="poem">OZYMANDIAS II (SELF REPLICATA)
 
-I met a metallic man rich of time,
+I met a metallic man unfazed by time,
 Who said - "A gentle smith enthralled in
 Tireless craft was usher to a paradigm
 That mimics Art, the fitful mind of artificer
