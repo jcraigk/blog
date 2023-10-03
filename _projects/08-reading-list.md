@@ -239,6 +239,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |234|John Fante                       |*The Road to Los Angeles*                         |9/10/23                |
 |235|John Fante                       |*Dreams from Bunker Hill*                         |9/11/23                |
 |236|Charles Bukowski                 |*South of No North*                               |9/20/23                |
+|236|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
