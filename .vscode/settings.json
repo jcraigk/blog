@@ -15,6 +15,7 @@
     "sideBar.foreground": "#b5b5b5"
   },
   "editor.fontFamily": "Alegreya",
+  // "editor.fontFamily": "Arial",
   "editor.fontSize": 24,
   "editor.lightbulb.enabled": false,
   "spellright.language": [
