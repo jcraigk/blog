@@ -1,7 +1,7 @@
 ---
 title: "Hank's Place"
 date: 2023-09-21 12:00:00 -0700
-categories: poems writing
+tags: poems writing
 header:
   image: /assets/images/posts/2023-09-21-header.jpg
   teaser: /assets/images/posts/2023-09-21-header.jpg

@@ -1,7 +1,7 @@
 ---
 title: DIY Supine Workstation
 date: 2018-01-17 11:20:40 -0700
-categories: health
+tag: health
 header:
   image: /assets/images/posts/2018-01-17-header.jpg
   teaser: /assets/images/posts/2018-01-17-header.jpg

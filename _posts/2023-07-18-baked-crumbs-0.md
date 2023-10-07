@@ -1,7 +1,7 @@
 ---
 title: 'Baked Crumbs #0'
 date: 2023-07-18 18:22:01 -0700
-categories: crumbs
+tag: crumbs
 header:
   image: /assets/images/posts/2023-07-18-header.jpg
   teaser: /assets/images/posts/2023-07-18-header.jpg

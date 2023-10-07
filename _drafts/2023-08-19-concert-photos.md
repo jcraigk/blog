@@ -1,7 +1,7 @@
 ---
 title: Concert Photos
 date: 2018-08-19 10:10:23 -0700
-categories: music photos
+tags: music photos
 header:
   image: /assets/images/posts/2018-08-19-header.jpg
   teaser: /assets/images/posts/2018-08-19-header.jpg

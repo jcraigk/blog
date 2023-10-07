@@ -1,7 +1,7 @@
 ---
 title: Introduction to Cryptocurrencies
 date: 2018-01-29 15:21:39 -0700
-categories: crypto
+tag: crypto
 header:
   image: /assets/images/posts/2018-01-29-header.jpg
   teaser: /assets/images/posts/2018-01-29-header.jpg
