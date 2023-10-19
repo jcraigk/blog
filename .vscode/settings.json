@@ -16,6 +16,7 @@
   },
   "editor.fontFamily": "Alegreya",
   // "editor.fontFamily": "Arial",
+  // "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 24,
   "editor.lightbulb.enabled": false,
   "spellright.language": [
