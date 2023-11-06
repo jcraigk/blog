@@ -1,6 +1,6 @@
 ---
-title: "Sprockets to Shakapacker"
-date: 2023-09-21 12:00:00 -0700
+title: Sprockets to Shakapacker
+date: 2023-10-06 12:00:00 -0700
 tags: software ruby rails
 header:
   image: /assets/images/posts/2023-10-06-header.jpg

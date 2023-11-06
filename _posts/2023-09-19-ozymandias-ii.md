@@ -1,5 +1,5 @@
 ---
-title: 'Ozymandias II'
+title: Ozymandias II
 date: 2023-09-19 12:00:01 -0700
 tag: poems
 header:
