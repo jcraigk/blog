@@ -71,15 +71,24 @@ I personally prefer the surface of the keys to be 7" away from the edge of the c
 You may paint the slat to match the aesthetics of the chair or leave the natural wood look.
 
 
-### 4. Attach the Mounts
+### 4. Attach the Device Mounts
 
 Attach the input device mounts to the slat. See the image below for the suggested mounting positions. This configuration keeps the devices below the level of the chair but held firmly in place while still allowing easy removal of each device.
 
 ![Photograph of a hacking chair](/assets/images/posts/2023-11-05/hacking-chair-mounts.jpg){:.smooth-corners .full-width}
 
-You may reduce the height of the side grips that hold the trackpad(s) so that they're flush. I used a hack saw for that. This is not necessary as you can effectively place the grips at the bottom of the mount, out of the way of your hands.
+
+### 5. Attach the Devices
+
+These input devices are wireless so they'll require periodic charging. Being able to easily remove and reattach them is a nice practical feature of the chair and a primary reason for choosing the specific mounts mentioned here.
+
+Attaching the devices themselves to the mounts should be pretty simple at this point. Make adjustments on the mount gimbals to find the right orientation for the devices. I prefer a slight slant but if you have larger hands you may prefer a more vertical position.
+
+You can reduce the height of the plastic pincers that hold the trackpad(s) so they're flush with the trackpad itself if you prefer. I used a hack saw for that.
+
+You might need a longer USB-C cable than what's provided with your split keyboard.
 
 
 ## Try It!
 
-There are several expensive supine and multi-modal workstation options available on the market and this chair provides an inexpensive alternative. After years of experimenting with unorthodox workstation setups, I have found this configuration offers a good tradeoff between versatility, efficacy, and simplicity. Give it a try!
+The simple design outlined here offers an inexpensive alternative to various supine and multi-modal workstations available on the market. For those with some Do It Yourself gusto, building a hacking chair can be a fun project that also benefits longterm health. After years of experimenting with unorthodox workstation setups, I have found this configuration offers a nice tradeoff between versatility, efficacy, and simplicity. Give it a try!
