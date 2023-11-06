@@ -15,7 +15,7 @@ The concept is simple: instead of placing the keyboard and pointing device on th
 
 ![Photograph of a hacking chair](/assets/images/posts/2023-11-05/hacking-chair-1.jpg){:.smooth-corners .full-width}
 
-An unintended benefit of this setup is the workspace mobility it allows. For example, if I'm producing music and roll the chair to use a MIDI keyboard several feet away, I can still remotely control the software  naturally. This has allowed the removal of several control surfaces I had lying around, freeing up precious space.
+An unintended benefit of this setup is the workspace mobility it allows. For example, if I'm producing music and roll the chair to use a MIDI keyboard several feet away, I can still remotely control the DAW software naturally. This has allowed the removal of several control surfaces I had cluttering my workspace.
 
 
 ## If You Build It
@@ -42,14 +42,14 @@ I admit that after years of touch typing on split keyboards, I still have troubl
 
 ![Photograph of a hacking chair](/assets/images/posts/2023-11-05/hacking-chair-3.jpg){:.smooth-corners .full-width}
 
-I also remap `L-Space` to `Cmd` and `CapsLock` to `Delete`, which saves precious pinky and thumb movements. The pictured split keyboard has built-in macro features. You can also use software like [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [SharpKeys](https://apps.microsoft.com/detail/sharpkeys/XPFFCG7M673D4F?hl=en-US&gl=US).
+I also remap `L-Space` to `Cmd` and `CapsLock` to `Delete`, which saves precious pinky and thumb movements. The pictured split keyboard ([Mistel MD770 Split Keyboard](https://www.amazon.com/gp/product/B08GWZCC34)) has built-in macro programming. You can also use software like [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [SharpKeys](https://apps.microsoft.com/detail/sharpkeys/XPFFCG7M673D4F?hl=en-US&gl=US).
 
-Here's a quick set of instructions for assembling the chair. Specifics will vary depending on the equipment you've acquired.
+Here's a brief set of instructions for assembling the chair. Specifics will vary depending on the equipment you've acquired.
 
 
 ### 1. Choose a Chair
 
-Find an office chair you're comfortable sitting in for long periods. Make sure that the arms are removable and that the undercarriage provides spots to fasten screws. The [Armless Office Chair](https://www.amazon.com/dp/B07BD4GFZS)  shown in these pictures has a common modern design that is similar to many makes and models.
+Find an office chair you're comfortable sitting in for long periods. Make sure that the arms are removable and that the undercarriage provides holes to fasten screws. You can drill your own holes with a metal drill if necessary. The [Armless Office Chair](https://www.amazon.com/dp/B07BD4GFZS)  shown in these pictures has a common modern design that is similar to many other models.
 
 ### 2. Shorten the Pneumatic Lever
 
@@ -60,15 +60,15 @@ If the chair has a pneumatic cylinder lever for adjusting its height, you may ne
 
 ### 3. Mount the Slat
 
-The wooden slat serves as the attachment points for the input device mounts. It should be centered horizontally under the chair and cut to a length that is comfortable for your personal build. The chair you select will determine how you mount the slat but in general you'll want to drill two holes in it and mount it to the undercarriage using bolts, washers, and nuts. Ensure it is secure before proceeding.
+The wooden slat provides the attachment points for the input device mounts. It should be centered horizontally under the chair and cut to a length that is comfortable for your personal build. The chair you select will determine how you mount the slat but in general you'll want to drill two holes in it and mount it to the undercarriage using bolts, washers, and nuts. Ensure it is secure before proceeding.
 
 ![Photograph of a hacking chair](/assets/images/posts/2023-11-05/hacking-chair-slat.jpg){:.smooth-corners .full-width}
 
-The slat pictured is 1 3/8" x 5/8" x 24 1/2". You may want to iterate on the placement and length of the slat as you get more accustomed to typing in the new position. If you find that your elbows are bent while typing, you should mount the slat lower by adding a shim. The mounts themselves provide a few inches of flexibility so after mounting the slat, do fine adjustments on the mounts before deciding to shorten the slat further.
+The slat pictured measures 1 3/8" x 5/8" x 24 1/2". You may want to iterate on its exact length and placement as you get more accustomed to typing in the new position. If you find that your elbows are bent while typing, you should mount the slat lower by adding a shim. The mounts themselves provide a few inches of flexibility so after mounting the slat you can make fine adjustments on the mounts before deciding to shorten the slat further. Note the additional length the keyboard mounts add to the end of the slat while you're considering adjustments.
 
-I personally prefer the surface of the keys to be 7" away from the edge of the chair so that my arms are slightly spread while typing. I experimented with a shorter slat where the keys were almost under the chair with my arms in a vertical position but I didn't find that as comfortable. Note the additional length the keyboard mounts add to the end of the slat while you're considering adjustments.
+I personally prefer the surface of the keys to be 7" away from the edge of the chair so that my arms are slightly spread while typing. I experimented with a shorter slat where the keys were almost under the chair but I didn't find that vertical arm position as comfortable.
 
-You may paint the slat to match the aesthetics of your chair and devices. Black seems to work the best given that the mounts are black.
+You may paint the slat to match the aesthetics of the chair or leave the natural wood look.
 
 
 ### 4. Attach the Mounts
@@ -80,10 +80,6 @@ Attach the input device mounts to the slat. See the image below for the suggeste
 You may reduce the height of the side grips that hold the trackpad(s) so that they're flush. I used a hack saw for that. This is not necessary as you can effectively place the grips at the bottom of the mount, out of the way of your hands.
 
 
-## Takeaways
+## Try It!
 
-
-
-There are several expensive supine and multi-modal workstation options available on the market. This chair provides an inexpensive way to reduce physical stress and I recommend giving it a try. After years of experimenting with unorthodox workstation setups, I have found it offers a good tradeoff between versatility, efficacy, and simplicity.
-
-Your mileage will certainly vary with this kind of DIY project. Consult with a medical professional and experiment on your own!
+There are several expensive supine and multi-modal workstation options available on the market and this chair provides an inexpensive alternative. After years of experimenting with unorthodox workstation setups, I have found this configuration offers a good tradeoff between versatility, efficacy, and simplicity. Give it a try!
