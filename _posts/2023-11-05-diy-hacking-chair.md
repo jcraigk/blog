@@ -38,7 +38,7 @@ You can skip the second trackpad/mount if you don't want the symmetrical pointin
 
 You'll need decent touch typing skills for this setup to be effective. If you're peering over the side of the chair to hunt for keys frequently, you'll find it cumbersome and retreat. First, train on a standard keyboard (there are many games that help with this), then you'll be ready to transition to a split configuration without a hitch.
 
-I admit that after years of touch typing on split keyboards, I still have trouble finding punctuation marks with my right pinky as well as discerning  modifier keys with my left pinky. To mitigate, I place small dabs of nail polish on anchor keys as tactile reference points: `L-Ctrl`, `~`, `]`, and `0`. This extends the idea of reference bumps commonly found on home keys `J` and `K`.
+I admit that after years of touch typing on split keyboards, I still have trouble finding punctuation marks with my right pinky as well as discerning  modifier keys with my left pinky. To mitigate, I place small dabs of nail polish on anchor keys as tactile reference points: `L-Ctrl`, `~`, `]`, and `0`. This extends the idea of reference bumps commonly found on home keys `F` and `J`.
 
 ![Photograph of a hacking chair](/assets/images/posts/2023-11-05/hacking-chair-3.jpg){:.smooth-corners .full-width}
 
