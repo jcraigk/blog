@@ -1,7 +1,8 @@
 {
   "workbench.colorTheme": "Github Light Theme - Gray",
   "workbench.colorCustomizations": {
-    "editor.background": "#ebeaea",
+    "editor.background": "#fcfcfc",
+    "editor.foreground": "#656565",
     "editor.lineHighlightBackground": "#ebeaea",
     "editor.lineHighlightBorder": "#ebeaea",
     "editor.selectionBackground": "#fffcce",
@@ -14,7 +15,7 @@
     "sideBar.background": "#333333",
     "sideBar.foreground": "#b5b5b5"
   },
-  "editor.fontFamily": "Alegreya",
+  "editor.fontFamily": "Poly",
   // "editor.fontFamily": "Arial",
   // "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 24,
@@ -26,6 +27,6 @@
     "markdown",
     "latex"
   ],
-  "editor.wordBasedSuggestions": false
+  "editor.wordBasedSuggestions": "off"
 }
 
