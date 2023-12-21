@@ -241,6 +241,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |226|Charles Bukowski                 |*South of No North*                               |9/20/23                |
 |227|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
 |228|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
+|229|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
 
 
 <br>
