@@ -1,6 +1,6 @@
 ---
 title: Nano RPC
-excerpt: A Ruby wrapper for controlling Nanocurrency nodes
+excerpt: An open source wrapper for controlling Nanocurrency nodes
 header:
   image: /assets/images/projects/nano-ruby-rpc-header.jpg
   teaser: /assets/images/projects/nano-ruby-rpc-header.jpg

@@ -1,6 +1,6 @@
 ---
 title: StoryKey
-excerpt: An experimental brainwallet featuring mnemonic grammar and AI generated images
+excerpt: An open source brainwallet featuring mnemonic grammar and AI generated images
 header:
   image: /assets/images/projects/storykey-header.jpg
   teaser: /assets/images/projects/storykey-header.jpg

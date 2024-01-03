@@ -1,6 +1,6 @@
 ---
 title: "Phish.in'"
-excerpt: An API and website hosting live concert audio of the rock band Phish
+excerpt: An open source API and website that hosts audio of the rock band Phish
 header:
   image: /assets/images/projects/phishin-header.png
   teaser: /assets/images/projects/phishin-header.png

@@ -1,6 +1,6 @@
 ---
 title: KudoChest
-excerpt: A social engagement app for Slack and Discord
+excerpt: An open source social engagement app for Slack and Discord
 header:
   image: /assets/images/projects/kudochest-header.png
   teaser: /assets/images/projects/kudochest-header.png

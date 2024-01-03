@@ -1,6 +1,6 @@
 ---
 title: PeepMode
-excerpt: A popular mod for Starcraft II with enhanced spectator features
+excerpt: An open source mod for Starcraft II with enhanced spectator features
 header:
   image: /assets/images/projects/peepmode-header.png
   teaser: /assets/images/projects/peepmode-header.png
