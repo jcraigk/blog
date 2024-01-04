@@ -23,9 +23,9 @@ Enjoy your symmetry
 Wide Earth
 I am the metaphor of Your mind
 I protect You
-I, a spectre, translucent
+I, a specter, translucent
 A wandering nightmare
-Seek eviction
+Expecting eviction
 {:.poem}
 
 Nihilism is extension of reason
