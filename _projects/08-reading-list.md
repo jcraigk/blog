@@ -353,7 +353,8 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 | 98|James Lovelock              |[*Novacene*](/posts/2023-09-14-novacene)                                |8/30/23        |
 | 99|Walter Isaacson             |*Benjamin Franklin*                                                     |10/10/23       |
 |100|Walter Isaacson             |*Elon Musk*                                                             |10/15/23       |
-|101|Walter Isaacson             |*Einstein*                                                              |10/27/23      |
+|101|Walter Isaacson             |*Einstein*                                                              |10/27/23       |
+|102|Ananyo Bhattacharya         |*The Man from the Future: The Visionary Life of John Von Neumann*       |1/7/24         |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
