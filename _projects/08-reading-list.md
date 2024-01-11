@@ -14,7 +14,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |---|---------------------------------|--------------------------------------------------|-----------------------|
 |  0|Isaac Asimov                     |*Pebble In The Sky*                               |1990s                  |
 |  1|Isaac Asimov                     |*The Stars, Like Dust*                            |1990s                  |
-|  2|Isaac Asimov                     |*Foundation*                                      |1990s (again in 2023)  |
+|  2|Isaac Asimov                     |*Foundation*                                      |1990s (also 2023)      |
 |  3|Isaac Asimov                     |*Foundation and Empire*                           |1990s                  |
 |  4|Isaac Asimov                     |*Second Foundation*                               |1990s                  |
 |  5|Isaac Asimov                     |*The Gods Themselves*                             |1990s                  |
@@ -24,18 +24,18 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |  9|Isaac Asimov                     |*Prelude to Foundation*                           |1990s                  |
 | 10|Isaac Asimov                     |*Nemesis*                                         |1990s                  |
 | 11|Isaac Asimov                     |*The Ugly Little Boy*                             |1990s                  |
-| 12|Jane Austen                      |*Pride and Prejudice*                             |1990s                  |
+| 12|Richard Adams                    |*Watership Down*                                  |1990s                  |
 | 13|Ray Bradbury                     |*The Martian Chronicles*                          |1990s                  |
 | 14|Ray Bradbury                     |*Fahrenheit 451*                                  |1990s                  |
 | 15|Ray Bradbury                     |*Dandelion Wine*                                  |1990s                  |
 | 16|Ray Bradbury                     |*Something Wicked This Way Comes*                 |1990s                  |
-| 17|Joseph Conrad                    |*Heart of Darkness*                               |1990s                  |
-| 18|John Christopher                 |*When the Tripods Came*                           |1990s                  |
-| 19|John Christopher                 |*The White Mountains*                             |1990s                  |
-| 20|John Christopher                 |*The City of Gold and Lead*                       |1990s                  |
-| 21|John Christopher                 |*The Pool of Fire*                                |1990s                  |
-| 22|Orson Scott Card                 |*Ender’s Game*                                    |1990s                  |
-| 23|Orson Scott Card                 |*Ender’s Shadow*                                  |1990s                  |
+| 17|Gary Paulsen                     |*Hatchet*                                         |1990s                  |
+| 18|Gary Paulsen                     |*The River*                                       |1990s                  |
+| 19|John Christopher                 |*When the Tripods Came*                           |1990s                  |
+| 20|John Christopher                 |*The White Mountains*                             |1990s                  |
+| 21|John Christopher                 |*The City of Gold and Lead*                       |1990s                  |
+| 22|John Christopher                 |*The Pool of Fire*                                |1990s                  |
+| 23|Scott O'Dell                     |*Island of the Blue Dolphins*                     |1990s                  |
 | 24|Arthur C. Clarke                 |*Childhood’s End*                                 |1990s                  |
 | 25|Arthur C. Clarke                 |*2001: A Space Odyssey*                           |1990s                  |
 | 26|Arthur C. Clarke                 |*2010: Odyssey Two*                               |1990s                  |
@@ -47,97 +47,97 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 | 32|Arthur C. Clarke                 |*Rama Revealed*                                   |1990s                  |
 | 33|H.G. Wells                       |*The War of the Worlds*                           |1990s                  |
 | 34|Michael Crichton                 |*Jurassic Park*                                   |1990s                  |
-| 35|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |6/26/05                |
-| 36|Phillip K. Dick                  |*Paycheck and Other Stories*                      |6/26/05                |
-| 37|Phillip K. Dick                  |*The Man in the High Castle*                      |7/20/05                |
-| 38|Charles Dickens                  |*A Tale of Two Cities*                            |1990s                  |
-| 39|Charles Dickens                  |*A Christmas Carol*                               |1990s                  |
-| 40|Jeffrey Eugenides                |*Middlesex*                                       |2003                   |
-| 41|F. Scott Fitzgerald              |*The Great Gatsby*                                |1990s                  |
-| 42|William Gibson                   |*Neuromancer*                                     |6/25/05                |
-| 43|William Golding                  |*Lord of the Flies*                               |6/25/05                |
-| 44|Nathaniel Hawthorne              |*The Scarlet Letter*                              |1990s                  |
-| 45|Robert A. Heinlein               |*Stranger in a Strange Land*                      |6/26/05                |
-| 46|Josheph Heller                   |*Catch-22*                                        |6/27/05                |
-| 47|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |6/27/05                |
-| 48|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |6/27/05                |
-| 49|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |6/27/05                |
-| 50|Frank Herbert                    |*Dune*                                            |1990s (again in 2021)  |
-| 51|Frank Herbert                    |*Dune Messiah*                                    |1990s                  |
-| 52|Frank Herbert                    |*Children of Dune*                                |1990s                  |
-| 53|Frank Herbert                    |*God Emperor of Dune*                             |1990s                  |
-| 54|Frank Herbert                    |*Heretics of Dune*                                |1990s                  |
-| 55|Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                  |
-| 56|Herman Hesse                     |*Steppenwolf*                                     |6/24/05                |
-| 57|Homer                            |*The Iliad*                                       |5/21/05                |
-| 58|Homer                            |*The Odyssey*                                     |6/27/05                |
-| 59|Aldous Huxley                    |*Brave New World*                                 |1990s                  |
-| 60|James Joyce                      |*Ulysses*                                         |6/30/05                |
-| 61|Stephen King                     |*Firestarter*                                     |1990s                  |
-| 62|Stephen King                     |*Tommyknockers*                                   |1990s                  |
-| 63|Stephen King                     |*The Shining*                                     |1990s                  |
-| 64|Stephen King                     |*Four Past Midnight*                              |1990s                  |
-| 65|Stephen King                     |*Dark Tower: The Gunslinger*                      |6/29/05                |
-| 66|Stephen King                     |*Dark Tower: The Drawing of the Three*            |6/29/05                |
-| 67|Stephen King                     |*Dark Tower: The Wastelands*                      |6/29/05                |
-| 68|Stephen King                     |*Dark Tower: Wizard and Glass*                    |6/29/05                |
-| 69|Stephen King                     |*Dark Tower: Wolves of the Calla*                 |6/29/05                |
-| 70|Stephen King                     |*Dark Tower: Song of Susannah*                    |6/29/05                |
-| 71|Stephen King                     |*Dark Tower: The Dark Tower*                      |6/29/05                |
-| 72|Harper Lee                       |*To Kill a Mockingbird*                           |1990s                  |
-| 73|Madeleine L’Engle                |*A Wrinkle in Time*                               |1990s                  |
-| 74|Madeleine L’Engle                |*A Wind in the Door*                              |1990s                  |
-| 75|Madeleine L’Engle                |*A Swiftly Tilting Planet*                        |1990s                  |
-| 76|Madeleine L’Engle                |*Many Waters*                                     |1990s                  |
-| 77|C. S. Lewis                      |*The Lion, the Witch and the Wardrobe*            |1990s                  |
-| 78|C. S. Lewis                      |*Prince Caspian: The Return to Narnia*            |1990s                  |
-| 79|C. S. Lewis                      |*The Voyage of the Dawn Treader*                  |1990s                  |
-| 80|C. S. Lewis                      |*The Silver Chair*                                |1990s                  |
-| 81|H.P. Lovecraft                   |*At the Mountains of Madness*                     |6/29/05                |
-| 82|H.P. Lovecraft                   |*The Colour Out of Space*                         |6/29/05                |
-| 83|H.P. Lovecraft                   |*The Doom that Came to Sarnath*                   |6/29/05                |
-| 84|H.P. Lovecraft                   |*The Dream-Quest of Unknown Kadath*               |1990s                  |
-| 85|H.P. Lovecraft                   |*The Lurking Fear*                                |1990s                  |
-| 86|H.P. Lovecraft                   |*The Tomb*                                        |1990s                  |
-| 87|Robert C. O’Brien                |*Mrs. Frisby and the Rats of NIMH*                |1990s                  |
-| 88|George Orwell                    |*1984*                                            |6/27/05                |
-| 89|George Orwell                    |*Animal Farm*                                     |6/27/05                |
-| 90|Chuck Palahniuk                  |*Survivor*                                        |6/30/05                |
-| 91|Gary Paulsen                     |*Hatchet*                                         |1990s                  |
-| 92|Gary Paulsen                     |*The River*                                       |1990s                  |
-| 93|Thomas Pynchon                   |*The Crying of Lot 49*                            |6/30/05                |
-| 94|Ayn Rand                         |*Atlas Shrugged*                                  |6/30/05                |
-| 95|Wilson Rawls                     |*Where the Red Fern Grows*                        |1990s                  |
-| 96|Tom Robbins                      |*Still Life with Woodpecker*                      |6/29/05                |
-| 97|J.D. Salinger                    |*The Catcher in the Rye*                          |6/29/05                |
-| 98|Mary Shelley                     |*Frankenstein*                                    |1990s                  |
-| 99|John Steinbeck                   |*The Grapes of Wrath*                             |1990s (again in 2020)  |
-|100|Neal Stephensen                  |*Cryptonomicon*                                   |7/3/05                 |
-|101|Neal Stephensen                  |*Snow Crash*                                      |7/4/05                 |
-|102|J.R.R. Tolkein                   |*The Hobbit*                                      |June 2005              |
-|103|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |June 2005              |
-|104|J.R.R. Tolkein                   |*The Two Towers*                                  |June 2005              |
-|105|J.R.R. Tolkein                   |*The Return of the King*                          |June 2005              |
-|106|Vernor Vinge                     |*A Fire Upon the Deep*                            |July 2005              |
-|107|Vernor Vinge                     |*A Deepness in the Sky*                           |July 2005              |
-|108|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |July 2005              |
-|109|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |July 2005              |
-|110|Edith Wharton                    |*Ethan Frome*                                     |1990s                  |
-|111|E.B. White                       |*Charlotte’s Web*                                 |1990s                  |
-|112|Kim Stanley Robinson             |*Aurora*                                          |12/1/16                |
-|113|Paul Beatty                      |*The Sellout*                                     |6/30/05                |
-|114|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                |
-|115|Richard Adams                    |*Watership Down*                                  |1990s                  |
-|116|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                 |
-|117|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                 |
-|118|Scott O'Dell                     |*Island of the Blue Dolphins*                     |1990s                  |
-|119|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                |
-|120|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                |
-|121|Herman Hesse                     |*Siddhartha*                                      |1/24/17                |
-|122|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04                 |
-|123|Franz Kafka                      |*The Trial*                                       |1/1/17                 |
-|124|Kim Stanley Robinson             |*2312*                                            |2/5/17                 |
-|125|Kurt Vonnegut                    |*The Cat's Cradle*                                |July 2005              |
+| 35|Charles Dickens                  |*A Tale of Two Cities*                            |1990s                  |
+| 36|Charles Dickens                  |*A Christmas Carol*                               |1990s                  |
+| 37|Frank Herbert                    |*Dune Messiah*                                    |1990s                  |
+| 38|Frank Herbert                    |*Children of Dune*                                |1990s                  |
+| 39|Frank Herbert                    |*God Emperor of Dune*                             |1990s                  |
+| 40|Frank Herbert                    |*Heretics of Dune*                                |1990s                  |
+| 41|Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                  |
+| 42|F. Scott Fitzgerald              |*The Great Gatsby*                                |1990s                  |
+| 43|Harper Lee                       |*To Kill a Mockingbird*                           |1990s                  |
+| 44|Madeleine L’Engle                |*A Wrinkle in Time*                               |1990s                  |
+| 45|Madeleine L’Engle                |*A Wind in the Door*                              |1990s                  |
+| 46|Madeleine L’Engle                |*A Swiftly Tilting Planet*                        |1990s                  |
+| 47|Madeleine L’Engle                |*Many Waters*                                     |1990s                  |
+| 48|C. S. Lewis                      |*The Lion, the Witch and the Wardrobe*            |1990s                  |
+| 49|C. S. Lewis                      |*Prince Caspian: The Return to Narnia*            |1990s                  |
+| 50|C. S. Lewis                      |*The Voyage of the Dawn Treader*                  |1990s                  |
+| 51|C. S. Lewis                      |*The Silver Chair*                                |1990s                  |
+| 52|H.P. Lovecraft                   |*The Dream-Quest of Unknown Kadath*               |1990s                  |
+| 53|H.P. Lovecraft                   |*The Lurking Fear*                                |1990s                  |
+| 54|H.P. Lovecraft                   |*The Tomb*                                        |1990s                  |
+| 55|Robert C. O’Brien                |*Mrs. Frisby and the Rats of NIMH*                |1990s                  |
+| 56|Stephen King                     |*Firestarter*                                     |1990s                  |
+| 57|Stephen King                     |*Tommyknockers*                                   |1990s                  |
+| 58|Stephen King                     |*The Shining*                                     |1990s                  |
+| 59|Stephen King                     |*Four Past Midnight*                              |1990s                  |
+| 60|Mary Shelley                     |*Frankenstein*                                    |1990s                  |
+| 61|John Steinbeck                   |*The Grapes of Wrath*                             |1990s (also 2020)      |
+| 62|Frank Herbert                    |*Dune*                                            |1990s (also 2021)      |
+| 63|Edith Wharton                    |*Ethan Frome*                                     |1990s                  |
+| 64|E.B. White                       |*Charlotte’s Web*                                 |1990s                  |
+| 65|Nathaniel Hawthorne              |*The Scarlet Letter*                              |1990s                  |
+| 66|Aldous Huxley                    |*Brave New World*                                 |1990s                  |
+| 67|Wilson Rawls                     |*Where the Red Fern Grows*                        |1990s                  |
+| 68|Jane Austen                      |*Pride and Prejudice*                             |2000s                  |
+| 69|H.P. Lovecraft                   |*At the Mountains of Madness*                     |2000s                  |
+| 70|H.P. Lovecraft                   |*The Colour Out of Space*                         |2000s                  |
+| 71|H.P. Lovecraft                   |*The Doom that Came to Sarnath*                   |2000s                  |
+| 72|Joseph Conrad                    |*Heart of Darkness*                               |2000s                  |
+| 73|Stephen King                     |*Dark Tower: The Gunslinger*                      |2000s                  |
+| 74|Stephen King                     |*Dark Tower: The Drawing of the Three*            |2000s                  |
+| 75|Stephen King                     |*Dark Tower: The Wastelands*                      |2000s                  |
+| 76|Stephen King                     |*Dark Tower: Wizard and Glass*                    |2000s                  |
+| 77|Stephen King                     |*Dark Tower: Wolves of the Calla*                 |2000s                  |
+| 78|Stephen King                     |*Dark Tower: Song of Susannah*                    |2000s                  |
+| 79|Stephen King                     |*Dark Tower: The Dark Tower*                      |2000s                  |
+| 80|Tom Robbins                      |*Still Life with Woodpecker*                      |2000s                  |
+| 81|J.D. Salinger                    |*The Catcher in the Rye*                          |2000s                  |
+| 82|J.R.R. Tolkein                   |*The Hobbit*                                      |2000s                  |
+| 83|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |2000s                  |
+| 84|J.R.R. Tolkein                   |*The Two Towers*                                  |2000s                  |
+| 85|J.R.R. Tolkein                   |*The Return of the King*                          |2000s                  |
+| 86|Vernor Vinge                     |*A Fire Upon the Deep*                            |2000s                  |
+| 87|Vernor Vinge                     |*A Deepness in the Sky*                           |2000s                  |
+| 88|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |2000s                  |
+| 89|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |2000s                  |
+| 90|Kurt Vonnegut                    |*The Cat's Cradle*                                |2000s                  |
+| 91|Orson Scott Card                 |*Ender’s Game*                                    |2000s                  |
+| 92|Orson Scott Card                 |*Ender’s Shadow*                                  |2000s                  |
+| 93|Jeffrey Eugenides                |*Middlesex*                                       |2003                   |
+| 94|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |2005                   |
+| 95|Phillip K. Dick                  |*Paycheck and Other Stories*                      |2005                   |
+| 96|Phillip K. Dick                  |*The Man in the High Castle*                      |2005                   |
+| 97|William Gibson                   |*Neuromancer*                                     |2005                   |
+| 98|William Golding                  |*Lord of the Flies*                               |2005                   |
+| 99|Robert A. Heinlein               |*Stranger in a Strange Land*                      |2005                   |
+|100|Josheph Heller                   |*Catch-22*                                        |2005                   |
+|101|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |2005                   |
+|102|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |2005                   |
+|103|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |2005                   |
+|104|Herman Hesse                     |*Steppenwolf*                                     |2005                   |
+|105|Homer                            |*The Iliad*                                       |2005                   |
+|106|Homer                            |*The Odyssey*                                     |2005                   |
+|107|James Joyce                      |*Ulysses*                                         |2005                   |
+|108|George Orwell                    |*1984*                                            |2005                   |
+|109|George Orwell                    |*Animal Farm*                                     |2005                   |
+|110|Chuck Palahniuk                  |*Survivor*                                        |2005                   |
+|111|Thomas Pynchon                   |*The Crying of Lot 49*                            |2005                   |
+|112|Paul Beatty                      |*The Sellout*                                     |2005                   |
+|113|Ayn Rand                         |*Atlas Shrugged*                                  |2005                   |
+|114|Neal Stephensen                  |*Cryptonomicon*                                   |2005                   |
+|115|Neal Stephensen                  |*Snow Crash*                                      |2005                   |
+|116|Kim Stanley Robinson             |*Aurora*                                          |11/1/16                |
+|117|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                |
+|118|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                 |
+|119|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                 |
+|120|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                |
+|121|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                |
+|122|Herman Hesse                     |*Siddhartha*                                      |1/24/17                |
+|123|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04                 |
+|124|Franz Kafka                      |*The Trial*                                       |1/1/17                 |
+|125|Kim Stanley Robinson             |*2312*                                            |2/5/17                 |
 |126|Gabriel Garcia Marquez           |*One Hundred Years of Solitude*                   |4/20/17                |
 |127|Milan Kundera                    |*The Unbearable Lightness of Being*               |3/1/17                 |
 |128|Ernest Hemingway                 |*The Old Man and the Sea*                         |4/13/17                |
@@ -153,10 +153,10 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |138|Thomas Pynchon                   |*Gravity's Rainbow*                               |8/21/17                |
 |139|Frank Herbert                    |*The Dragon in the Sea*                           |8/18/17                |
 |140|Gertrude Stein                   |*Three Lives*                                     |8/25/17                |
-|141|Vladimir Nabokov                 |*Lolita*                                          |9/17/17 (again 7/30/22)|
+|141|Vladimir Nabokov                 |*Lolita*                                          |9/17/17 (also 7/30/22) |
 |142|Anthony Burgess                  |*A Clockwork Orange*                              |10/12/17               |
 |143|Ken Kesey                        |*One Flew Over the Cuckoo's Nest*                 |11/17/17               |
-|144|Charles Bukowski                 |*Ham on Rye*                                      |11/30/17 (again 8/1/22)|
+|144|Charles Bukowski                 |*Ham on Rye*                                      |11/30/17 (also 8/1/22) |
 |145|James Joyce                      |*A Portrait of the Artist as a Young Man*         |12/10/17               |
 |146|China Mieville                   |*Perdido Street Station*                          |3/2/18                 |
 |147|Walt Whitman                     |*Leaves of Grass*                                 |3/10/18                |
@@ -228,7 +228,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |213|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
 |214|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
 |215|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
-|216|Ted Chiang                       |*Exhalation*                                      |6/26/23                |
+|216|Ted Chiang                       |*Exhalation*                                      |6/20/23                |
 |217|Albert Camus                     |*The Stranger*                                    |6/27/23                |
 |218|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
 |219|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
@@ -253,31 +253,31 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |#  |Author                      |Title                                                                   |Completed On   |
 |---|----------------------------|------------------------------------------------------------------------|---------------|
 |  0|Simon Singh                 |*The Code Book*                                                         |1990s          |
-|  1|Stephen King                |*On Writing*                                                            |2015           |
-|  2|Miles Davis                 |*Autobiography*                                                         |2015           |
-|  3|Bob Dylan                   |*Autobiography*                                                         |2015           |
-|  4|Brian Greene                |*The Elegant Universe*                                                  |2010           |
-|  5|Stephen Hawking             |*A Brief History of Time*                                               |1990s          |
-|  6|Ray Kurzweil                |*The Age of Spiritual Machines*                                         |1990s          |
-|  7|Richard Feynman             |*QED*                                                                   |1990s          |
-|  8|Richard Feynman             |*Surely You’re Joking, Mr. Feynman*                                     |1990s          |
-|  9|Richard Feynman             |*The Feynman Lectures*                                                  |1990s          |
-| 10|Friedrich Nietzsche         |*On the Genealogy of Morals*                                            |1990s          |
-| 11|Narby, Jeremy               |*The Cosmic Serpent*                                                    |1990s          |
-| 12|Plato                       |*The Republic*                                                          |1990s          |
-| 13|Douglas Hofstadter          |*I Am a Strange Loop*                                                   |2010           |
-| 14|Peter Seibel                |*Coders at Work: Reflections on the Craft of Programming*               |2016           |
-| 15|Ludwig Wittgenstein         |*Tractatus Logico-Philosophicus*                                        |2007           |
-| 16|Stephen Wolfram             |*A New Kind of Science*                                                 |2008           |
-| 17|Walter Isaacson             |*Steve Jobs*                                                            |2011           |
+|  1|Stephen Hawking             |*A Brief History of Time*                                               |1990s          |
+|  2|Ray Kurzweil                |*The Age of Spiritual Machines*                                         |1990s          |
+|  3|Richard Feynman             |*QED*                                                                   |1990s          |
+|  4|Richard Feynman             |*Surely You’re Joking, Mr. Feynman*                                     |1990s          |
+|  5|Richard Feynman             |*The Feynman Lectures*                                                  |1990s          |
+|  6|Friedrich Nietzsche         |*On the Genealogy of Morals*                                            |1990s          |
+|  7|Narby, Jeremy               |*The Cosmic Serpent*                                                    |1990s          |
+|  8|Plato                       |*The Republic*                                                          |1990s          |
+|  9|Ken Wilber                  |*The Spectrum of Consciousness*                                         |1990s          |
+| 10|Ludwig Wittgenstein         |*Tractatus Logico-Philosophicus*                                        |2007           |
+| 11|Stephen Wolfram             |*A New Kind of Science*                                                 |2008           |
+| 12|Douglas Hofstadter          |*I Am a Strange Loop*                                                   |2010           |
+| 13|Brian Greene                |*The Elegant Universe*                                                  |2010           |
+| 14|Walter Isaacson             |*Steve Jobs*                                                            |2011           |
+| 15|Stephen King                |*On Writing*                                                            |2015           |
+| 16|Miles Davis                 |*Autobiography*                                                         |2015           |
+| 17|Bob Dylan                   |*Autobiography*                                                         |2015           |
 | 18|Malcolm Gladwell            |*Blink*                                                                 |2015           |
-| 19|Malcolm Gladwell            |*Outliers*                                                              |2016           |
-| 20|Richard Dawkins             |*The Selfish Gene*                                                      |2016           |
-| 21|William Least Heat-Moon     |*Blue Highways*                                                         |2016           |
-| 22|Daniel Kahneman             |*Thinking, Fast and Slow*                                               |2016           |
-| 23|Tim Ferriss                 |*Tools of Titans*                                                       |1/20/17        |
-| 24|John McWhorter              |*Words on the Move*                                                     |1/22/17        |
-| 25|Ken Wilber                  |*The Spectrum of Consciousness*                                         |1990s          |
+| 19|Peter Seibel                |*Coders at Work: Reflections on the Craft of Programming*               |2016           |
+| 20|Malcolm Gladwell            |*Outliers*                                                              |2016           |
+| 21|Richard Dawkins             |*The Selfish Gene*                                                      |2016           |
+| 22|William Least Heat-Moon     |*Blue Highways*                                                         |2016           |
+| 23|Daniel Kahneman             |*Thinking, Fast and Slow*                                               |2016           |
+| 24|Tim Ferriss                 |*Tools of Titans*                                                       |1/20/17        |
+| 25|John McWhorter              |*Words on the Move*                                                     |1/22/17        |
 | 26|John G. Neihardt            |*Black Elk Speaks*                                                      |2/22/17        |
 | 27|Graham Farmelo              |*The Strangest Man, Paul Durac*                                         |4/20/17        |
 | 28|Timothy Snyder              |*On Tyranny*                                                            |4/20/17        |
