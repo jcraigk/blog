@@ -279,13 +279,13 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 | 24|Tim Ferriss                 |*Tools of Titans*                                                       |1/20/17        |
 | 25|John McWhorter              |*Words on the Move*                                                     |1/22/17        |
 | 26|John G. Neihardt            |*Black Elk Speaks*                                                      |2/22/17        |
-| 27|Graham Farmelo              |*The Strangest Man, Paul Durac*                                         |4/20/17        |
-| 28|Timothy Snyder              |*On Tyranny*                                                            |4/20/17        |
+| 27|Graham Farmelo              |*The Strangest Man, Paul Durac*                                         |4/15/17        |
+| 28|Timothy Snyder              |*On Tyranny*                                                            |4/23/17        |
 | 29|Cathy O'Neil                |*Weapons of Math Destruction*                                           |5/1/17         |
-| 30|Joseph Campbell             |*The Hero With a Thousand Faces*                                        |5/14/17        |
-| 31|Michael V. Hayden           |*Playing to the Edge*                                                   |5/10/17        |
+| 30|Joseph Campbell             |*The Hero With a Thousand Faces*                                        |5/10/17        |
+| 31|Michael V. Hayden           |*Playing to the Edge*                                                   |5/14/17        |
 | 32|Seneca                      |*On the Shortness of Life*                                              |6/1/17         |
-| 33|Mason Currey                |*Daily Rituals: How Artists Work*                                       |6/1/17         |
+| 33|Mason Currey                |*Daily Rituals: How Artists Work*                                       |6/5/17         |
 | 34|Joseph Campbell             |*The Power of Myth*                                                     |6/10/17        |
 | 35|Kim Scott                   |*Radical Candor*                                                        |8/7/17         |
 | 36|Mark Manson                 |*The Subtle Art of Not Giving a Fuck*                                   |8/20/17        |
