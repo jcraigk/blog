@@ -243,6 +243,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |228|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
 |229|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
 |230|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
+|231|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
