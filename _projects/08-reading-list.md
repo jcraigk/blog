@@ -245,6 +245,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |230|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
 |231|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
 |232|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
+|233|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
