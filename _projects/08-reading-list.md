@@ -246,6 +246,9 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |231|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
 |232|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
 |233|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
+|234|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
+|235|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
+
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.png){:.smooth-corners .full-width}
