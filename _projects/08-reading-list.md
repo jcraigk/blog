@@ -55,7 +55,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 | 40|Frank Herbert                    |*Heretics of Dune*                                |1990s                  |
 | 41|Frank Herbert                    |*Chapterhouse: Dune*                              |1990s                  |
 | 42|F. Scott Fitzgerald              |*The Great Gatsby*                                |1990s                  |
-| 43|Harper Lee                       |*To Kill a Mockingbird*                           |1990s                  |
+| 43|Harper Lee                       |*To Kill a Mockingbird*                           |1990s (also 2024)      |
 | 44|Madeleine L’Engle                |*A Wrinkle in Time*                               |1990s                  |
 | 45|Madeleine L’Engle                |*A Wind in the Door*                              |1990s                  |
 | 46|Madeleine L’Engle                |*A Swiftly Tilting Planet*                        |1990s                  |
@@ -248,6 +248,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |233|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
 |234|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
 |235|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
+|236|Poul Anderson                    |*Tau Zero*                                        |5/10/24                |
 
 
 <br>
