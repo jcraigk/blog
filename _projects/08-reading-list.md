@@ -365,6 +365,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |103|Howard Sounes               |*Charles Bukowski: Locked in the Arms of a Crazy Life*                  |1/11/24        |
 |104|Susan Cheever               |*E.E. Cummings*                                                         |1/14/24        |
 |105|Kurt Eichenwald             |*A Mind Unraveled*                                                      |4/26/24        |
+|106|Frank McCourt               |*Angela's Ashes*                                                        |6/16/24        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
