@@ -32,7 +32,7 @@ I can see why he stayed</div>
 
 As hinted in the poem, in addition to displaying his name and relevant dates, there are two words etched on his headstone: "Don't Try." Having read much of his stuff - five novels, several collections of short stories, and many poems - I have come to understand this as a playful taunt aimed at other artists.
 
-[Roll the Dice](https://hellopoetry.com/poem/68266/roll-the-dice/), one of his most well known poems, begins "if you're going to try, go all the way." If the words on the headstone are not a direct reference to this poem and the ethos it espouses, it's one hell of a coincidence.
+[Roll the Dice](https://hellopoetry.com/poem/68266/roll-the-dice/), one of his most well known poems, begins "if you're going to try, go all the way." In another more obscure selection, [ah...](https://www.poeticous.com/charles-bukowski/ah-drinking-german-beer), he writes, "I’ve told the students that the thing to do is not to try..." but later admits, "I sit drinking German beer and trying to come up with the big one."
 
 I imagine I'm in a conversation with the man over a beer. Confident from drink, I boldly claim, "Hank, I'm gonna write a great poem!"
 

@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/posts/2023-10-06-header.jpg
 ---
 
-This article describes the process of migrating a Ruby on Rails app from Sprockets to Shakapacker. You can view the entire change set on GitHub:
+This article describes the process of migrating an open source Ruby on Rails app from Sprockets to Shakapacker. You can view the related commits on GitHub:
 
 * [jcraigk/phishin - Shakapacker #323](https://github.com/jcraigk/phishin/pull/323)
 * [jcraigk/phishin - Shakapacker support #324](https://github.com/jcraigk/phishin/pull/324)
@@ -43,7 +43,7 @@ With Shakapacker, your assets are compiled using Javascript, not Ruby. Your fron
 
 First, we'll want to replace `sprockets` and other asset-related gems from our `Gemfile` and replace them with the `shakapacker` gem. In my project I was able to remove the following gems
 
-```
+```ruby
 gem 'bootstrap-will_paginate'
 gem 'coffee-rails'
 gem 'execjs'
@@ -57,7 +57,7 @@ gem 'uglifier'
 
 and replace all of those with the single line
 
-```
+```ruby
 gem 'shakapacker'
 ```
 
@@ -70,7 +70,7 @@ We're already seeing how this is cleaning up our package management and will lea
 
 Next we'll run the Shakapacker installer
 
-```
+```bash
 rails shakapacker:install
 ```
 
@@ -118,7 +118,7 @@ With Shakapacker, you'll place the JS and CSS files you'll include in your appli
 
 Here's what I ended up with in my `app/javascript/application.js` file.
 
-```
+```javascript
 // Images
 const images = require.context('../images', true)
 const imagePath = (name) => images(name, true)
@@ -143,7 +143,7 @@ The last part pulls in the business logic of the app, which was written using Co
 
 Here's what my `app/javascript/application.css.scss` file looks like
 
-```
+```scss
 @import '~jquery-ui/themes/base/all.css';
 @import '~bootstrap/dist/css/bootstrap.css';
 
@@ -159,10 +159,10 @@ Note the import values start with `~`. Just like with the JS, you can find these
 
 Both of these files get included into your layout using view helpers just as with Sprockets
 
-```
+```erb
 # app/layouts/application.html.erb
 
-<%= Javascript_pack_tag 'application' %>
+<%= javascript_pack_tag 'application' %>
 <%= stylesheet_pack_tag 'application' %>
 ```
 
@@ -175,7 +175,7 @@ In Sprockets there are view helpers like `asset_url` that are used to generate t
 
 One caveat is that Shakapcker references images as if placed in a `static` folder so for example
 
-```
+```ruby
 image_pack_tag('static/images/icon-relisten.png')
 ```
 references an image stored in
@@ -192,7 +192,7 @@ In modern JS, block-scoped variables (`const/let`) are preferred over `var` and 
 
 The changes were straightforward. My main class used to look like this
 
-```
+```coffeescript
 @App = {}
 
 $ ->
@@ -208,7 +208,7 @@ Here we're setting a global object called `App` and relying on the presence of `
 
 Here's our updated code
 
-```
+```javascript
 import Map from './map.js'
 import Player from './player.js'
 import Playlist from './playlist.js'
@@ -228,7 +228,7 @@ $ ->
 
 And if we take a look in our `Util` class in `util.js`, we now have
 
-```
+```coffeescript
 class Util
   ...busines logic...
 
@@ -246,7 +246,7 @@ It can be frustrating when your assets are not compiling. Most experienced Rails
 
 In Sprockets, when you run `rails assets:precompile`, Ruby is driving the bus. But with Shakapacker, you're actually running a thin wrapper around `webpack.js`, so you get all of the verbose output from Webpack as your assets are compiled. Here's a tail of a successful build
 
-```
+```bash
 asset modules 714 bytes (Javascript) 133 KiB (asset)
   optional modules 420 bytes (Javascript) 104 KiB (asset) [optional]
     ./app/javascript/images/icon-context.png 42 bytes (Javascript) 236 bytes (asset) [optional] [built] [code generated]
@@ -270,7 +270,7 @@ If we're running our app natively, that means we need a Javascript runtime and Y
 
 If you're running in Docker, you'll need to add a few lines to your `Dockerfile`. For this project I ended up needing a specific version of Node, which I can bump that later using `$NODE_VERSION`. Here's what I added to the `Dockerfile`
 
-```
+```dockerfile
 # Install a specific version of nodejs using nvm for yarn install
 ENV NODE_VERSION 14.18.0
 RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && \
@@ -299,7 +299,7 @@ If the answer is yes, it's probably worth converting to Shakapacker so you gain 
 
 For this project, the answer was a resounding "yes" so this migration was well worth it. Overall I found the process to be pretty pleasant. Shakapacker seems mature, [well documented](https://github.com/shakacode/shakapacker) and well maintained. I'm looking forward to not having to migrate to a different asset manager for a while.
 
-Thanks to the maintainers of all the software mentioned here! Well done.
+Thanks to the maintainers of all the software mentioned here!
 
 <br>
 ![Art showing organized shelves](/assets/images/posts/2023-10-06/organized-assets.jpg){:.smooth-corners .full-width}
