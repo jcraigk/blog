@@ -15,9 +15,9 @@ This article describes the process of migrating a Ruby on Rails app from [Devise
 
 ## Authentication in Rails
 
-The Rails ecosystem provides several good options when it comes to handling user authentication, which covers interactions like signing up, logging in, resetting a password, etc. One of the earliest and most popular of these is [Devise](https://github.com/heartcombo/devise), originally written by José Valim who would later create the [Elixir](https://elixir-lang.org/) programming language. Devise is a Rails engine, an [omakase](https://en.wikipedia.org/wiki/Omakase) all-in-one solution that provides a minimal footprint in an app's visible code while providing all the necessary pieces - model, view, and controller logic - behind the scenes. Using Devise is often the best way to get an app up and running quickly.
+The Rails ecosystem has several good options for handling user authentication, which covers interactions like signing up, logging in, resetting a password, etc. One of the earliest and most popular of these is [Devise](https://github.com/heartcombo/devise), originally written by José Valim who would later create the [Elixir](https://elixir-lang.org/) programming language. Devise is a Rails engine, an [omakase](https://en.wikipedia.org/wiki/Omakase) all-in-one solution that provides a minimal footprint in an app's visible code while providing all the necessary pieces - model, view, and controller logic - behind the scenes. Using Devise is often the best way to get an app up and running quickly.
 
-As apps grow, custom business logic eventually crops up around authentication features and that logic needs to jibe with the auth library we've chosen. Because Devise provides all the pieces for us, it becomes a game of overriding controller actions, model methods, and view templates when we need to add custom logic. It can be messy and burdensome to maintain these overrides, which often do not follow the local naming and style conventions of our app.
+As apps grow, custom business logic eventually crops up around authentication features and that logic needs to jibe with the auth library we've chosen. Because Devise brings all the pieces for us, it becomes a game of overriding controller actions, model methods, and view templates when we need to add custom logic. It can be messy and burdensome to maintain these overrides, which often do not follow the local naming and style conventions of our app.
 
 An alternative approach is to pick a library that supplies the core authentication features we need and implement the controller and view logic ourselves. This is the way of the [Sorcery](https://github.com/Sorcery/sorcery) gem. Although this means more work for the developer upfront, in the longterm having the relevant code exposed and expressed in our app's local convention is a boon to longterm maintainability.
 
@@ -308,7 +308,7 @@ Sometimes the most exhilarating part of software development is deleting old cru
 
 ## Wrapping Up
 
-In hindsight, the migration process was mostly painless. We had to write more code but now all of the important logic is exposed and expressed in our own local conventions - and we understand all of it! It'll be significantly easier to debug that next head-scratching bug or upgrade other core packages. Onward confidently!
+In hindsight, the migration process was mostly painless. We had to write more code but now all of the important logic is exposed and expressed in our own local conventions - and we understand all of it! It'll be significantly easier to debug that next head-scratching bug or upgrade other core packages.
 
 
 <br>
