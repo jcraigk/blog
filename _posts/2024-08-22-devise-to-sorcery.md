@@ -15,11 +15,16 @@ This article describes the process of migrating a Ruby on Rails app from [Devise
 
 ## Authentication in Rails
 
-The Rails ecosystem provides several good options when it comes to handling user authentication, which covers interactions like signing up, logging in, resetting a password, etc. One of the earliest and most popular of these is [Devise](https://github.com/heartcombo/devise), originally written by José Valim who would later create the [Elixir](https://elixir-lang.org/) programming language. Devise is a Rails engine, an [omakase](https://en.wikipedia.org/wiki/Omakase) all-in-one solution that gives us a minimal footprint in our visible code while providing all the necessary pieces - model, view, and controller logic - behind the scenes. Using Devise is often the best way to get an app up and running quickly.
+The Rails ecosystem provides several good options when it comes to handling user authentication, which covers interactions like signing up, logging in, resetting a password, etc. One of the earliest and most popular of these is [Devise](https://github.com/heartcombo/devise), originally written by José Valim who would later create the [Elixir](https://elixir-lang.org/) programming language. Devise is a Rails engine, an [omakase](https://en.wikipedia.org/wiki/Omakase) all-in-one solution that provides a minimal footprint in an app's visible code while providing all the necessary pieces - model, view, and controller logic - behind the scenes. Using Devise is often the best way to get an app up and running quickly.
 
 As apps grow, custom business logic eventually crops up around authentication features and that logic needs to jibe with the auth library we've chosen. Because Devise provides all the pieces for us, it becomes a game of overriding controller actions, model methods, and view templates when we need to add custom logic. It can be messy and burdensome to maintain these overrides, which often do not follow the local naming and style conventions of our app.
 
 An alternative approach is to pick a library that supplies the core authentication features we need and implement the controller and view logic ourselves. This is the way of the [Sorcery](https://github.com/Sorcery/sorcery) gem. Although this means more work for the developer upfront, in the longterm having the relevant code exposed and expressed in our app's local convention is a boon to longterm maintainability.
+
+Sorcery’s name is somewhat ironic in that it actually dispels the “magic” that happens behind the scenes when using a Rails engine like Devise.
+
+
+## Our Goals
 
 Let's walk through the process of migrating an existing Rails app from Devise to Sorcery. We have three goals:
 
@@ -60,7 +65,7 @@ class InstallSorcery < ActiveRecord::Migration[7.2]
 end
 ```
 
-To satisfy our requirement of fast rollbacks, we keep all of the existing columns and duplicate the contents of Devise's `encrypted_password` to Sorcery's slightly different `crypted_password`. Luckily, both gems use `bcrypt` so passwords will not have to be reset after deploying the changes. Note that Sorcery uses a `salt` column to improve password security but handles the absence of salt gracefully for existing users.
+To satisfy our requirement of fast rollbacks, we keep all of the existing Devise columns and duplicate the contents of `encrypted_password` to Sorcery's differently named `crypted_password`. Luckily, both gems use `bcrypt` so passwords will not have to be reset after deploying the changes. Note that Sorcery uses a `salt` column to improve password security but handles the absence of salt gracefully for existing users.
 
 We can deploy the following cleanup migration to production after a grace period to ensure we don't need to roll back to Devise:
 
@@ -149,11 +154,12 @@ Instead of a single call in the `config/routes.rb` file like Devise's `devise_fo
   delete "logout", to: "user_sessions#destroy", as: :logout
 ```
 
-We begin with our OAuth routes for external provider logins, then define our resources which include users, sessions, and password resets. We also define a couple of convenience methods so we can use `login_path` and `logout_path` in our controller logic.
+We begin with our OAuth routes for external provider logins, then define our resources which include users, sessions, and password resets. We also define a couple of convenience methods so we can use `login_path` and `logout_path` in our controller.
+
 
 ## Controllers
 
-Now we need to implement our controller logic using Sorcery's core methods (`login`, `logout`, `current_user`, etc). We'll end up with four controllers:
+Now we get to implement our controller logic using Sorcery's core methods (`login`, `logout`, `current_user`, etc). We'll end up with four controllers:
 
 ```
 app/controllers/oauth/sorcery_controller.rb
@@ -196,7 +202,8 @@ class UserSessionsController < ApplicationController
 end
 ```
 
-Note the use of Sorcery's `current_user`, `auto_login`, `valid_password?`, and `logout`, making our logic easy to parse and maintain.
+Note the calls to Sorcery's `current_user`, `auto_login`, `valid_password?`, and `logout` methods.
+
 
 ## Views
 
@@ -291,9 +298,8 @@ end
 
 ## No Gem is Perfect
 
-One drawback of Sorcery is that it doesn't expose an option to merge OAuth based authentications with existing users who may have signed up earlier. For example, if `johndoe@gmail.com` signed up before we added Google login, then tried to use his Google account to login via OAuth, Sorcery does not check if the user exists first, so we get a database error about uniqueness, which we have to rescue from. We could  pass in a block that checks if the user exists first, but we would have to maintain this along with the gem.
+One drawback of Sorcery is that it doesn't expose an option to merge OAuth based authentications with existing users who may have signed up earlier. For example, if `johndoe@gmail.com` signed up before we added Google login, then tried to use his Google account to login via OAuth, Sorcery does not check if the user exists first. This triggers a database exception violating our unique index on email address, which we have to rescue from. We could  pass in a block that checks if the user exists first, but we can't pass in custom logic for using an existing record.
 
-It would be better if Sorcery exposed a more robust interface around the OAuth process. An option to merge existing emails would be helpful.
 
 ## The Cleanup
 
@@ -302,9 +308,8 @@ Sometimes the most exhilarating part of software development is deleting old cru
 
 ## Wrapping Up
 
-In hindsight, the migration process was pretty painless. We had to write more code but now all of the important logic is exposed. Sorcery's name is somewhat ironic in that it actually dispels the "magic" that happens behind the scenes when using a Rails engine like Devise.
+In hindsight, the migration process was mostly painless. We had to write more code but now all of the important logic is exposed and expressed in our own local conventions - and we understand all of it! It'll be significantly easier to debug that next head-scratching bug or upgrade other core packages. Onward confidently!
 
-With relevant logic expressed in our own local convention, it'll be significantly easier to debug that next head-scratching bug or upgrade other core packages. Onward confidently!
 
 <br>
 ![Art showing a wizard at a gate](/assets/images/posts/2024-08-23/wizard-at-gate.jpg){:.smooth-corners .full-width}
