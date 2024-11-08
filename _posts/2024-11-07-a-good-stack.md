@@ -4,7 +4,7 @@ date: 2024-11-07 12:00:00 -0700
 tags: software ruby rails react
 header:
   image: /assets/images/posts/2024-11-07-header.jpg
-  teaser: /assets/images/posts/2024-11-05-header.jpg
+  teaser: /assets/images/posts/2024-11-07-header.jpg
 ---
 
 BUTTHEAD: Beavis, I have seen the top of the mountain, and it is good.
