@@ -1,9 +1,9 @@
 ---
 title: A Good Stack
-date: 2024-11-05 12:00:00 -0700
+date: 2024-11-07 12:00:00 -0700
 tags: software ruby rails react
 header:
-  image: /assets/images/posts/2024-11-05-header.jpg
+  image: /assets/images/posts/2024-11-07-header.jpg
   teaser: /assets/images/posts/2024-11-05-header.jpg
 ---
 
@@ -79,4 +79,4 @@ Over the last year I've begun to rely on ChatGPT for producing most of the code 
 
 
 <br>
-![Art showing sunrise over a mountain](/assets/images/posts/2024-11-05/sunrise-over-mountain.jpg){:.smooth-corners .full-width}
+![Art showing sunrise over a mountain](/assets/images/posts/2024-11-07/sunrise-over-mountain.jpg){:.smooth-corners .full-width}
