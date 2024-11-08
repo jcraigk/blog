@@ -1,7 +1,7 @@
 ---
 title: Devise to Sorcery
 date: 2024-08-22 12:00:00 -0700
-tags: crumbs
+tags: software
 header:
   image: /assets/images/posts/2024-08-23-header.jpg
   teaser: /assets/images/posts/2024-08-23-header.jpg

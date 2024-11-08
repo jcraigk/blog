@@ -253,6 +253,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |238|Lois Lowry                       |*The Giver*                                       |8/24/24                |
 |239|Mario Puzo                       |*The Godfather*                                   |9/18/24                |
 |240|John Fante                       |*The Brotherhood of the Grape*                    |10/9/24                |
+|241|N.K. Jemisin                     |*The City We Became*                              |11/5/24                |
 
 
 <br>
