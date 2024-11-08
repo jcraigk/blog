@@ -12,11 +12,9 @@ BUTTHEAD: Beavis, I have seen the top of the mountain, and it is good.
 
 TLDR: Try [React on Rails](https://github.com/shakacode/react_on_rails) for your next web app.
 
-When you've been at something for over twenty years, you get a feel for things. You sense old patterns lurking in new tools but you know how to separate the wheat from the chaff. Your toolbox is full of boring reliable bits of software but there remains a corner where you stash the experimental, the avant garde, the sparkly.
+When you've been at something for over twenty years, you get a feel for things. You sense old patterns lurking in new tools and are wary of the new shiny objects that the kids are raving about. Your toolbox is full of boring but highly reliable pieces of software that have earned their place through valiant battle testing.
 
-This space has a high churn rate. New shiny tools come along frequently, replacing those that didn't hold up. Most settle back into obscurity to be replaced. Only a handful graduate into that wondrous quality of productive maturity and establish themselves as permanent fixtures.
-
-We know the players. On the backend: Rails, Laravel, Django etc. and on the frontend: Svelte, Vue, Angular, React, and a few others.
+We know the players. On the backend: Rails, Laravel, Django etc. and on the frontend: Vue, Angular, React, and a few others.
 
 If you're starting a new project, choosing from this list of options can feel overwhelming. During the last decade I've seen many companies choose TypeScript or some flavor of JS on the server. Their rationale is based on the concept of  "one language everywhere," enabling the same developers to seamlessly transition from backend to frontend. Since we're stuck with Javascript on the frontend, let's use it on the backend, why not?
 
@@ -60,9 +58,9 @@ Ruby has a mature set of libraries called gems built by the community. Rails is 
 
 If you're building a web app, you have to deal with client presentation logic from the server in some way, whether you're building HTML and sending it over the wire or managing a set of Javascript and CSS.
 
-Rails ships with Sprockets, which is a Ruby based approach to managing these assets, as well as [StimulusJS](https://stimulus.hotwired.dev/) for adding Javascript functionality to server-side rendered apps. This combo works well for simple sites with little or no frontend state. However, to add javascript libraries with Sprockets, you need to bundle those into a gem, adding an extra layer of maintenance.
+For years, Rails shipped with Sprockets, which is a Ruby based approach to managing these assets. It now ships with [Propshaft](https://github.com/rails/propshaft), which is a modernized asset manager also implemented in Ruby. Rails officially supports [StimulusJS](https://stimulus.hotwired.dev/) for adding Javascript functionality to server-side rendered apps. This combo works well for simple sites with little or no frontend state. However, to add javascript libraries with Sprockets or Propshaft, you need to bundle those into a gem, adding an extra layer of maintenance.
 
-Alternatively, using Javascript to compile CSS and JS on the backend can be very handy when you're implementing most or all of your frontend UX in React. Using [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) to manage JS dependencies feels much nicer than using Bundler and gives you access to the best JS libraries as they're released without having to wait for a gem update. This is the approach that [React on Rails](https://github.com/shakacode/react_on_rails) takes. It depends on [Shakapacker](https://github.com/shakacode/shakapacker), which is a continuation of the Webpacker project, replacing Sprockets as asset manager.
+Alternatively, using Javascript to compile CSS and JS on the backend can be very handy when you're implementing most or all of your frontend UX in React. Using [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) to manage JS dependencies is more ergonomic than using Bundler and gives you access to the best JS libraries as they're released without having to wait for a gem maintainer. This is the approach that [React on Rails](https://github.com/shakacode/react_on_rails) takes. It replaces Sprockets/Propshaft with [Shakapacker](https://github.com/shakacode/shakapacker), which is an extension of the Webpacker project.
 
 As the web has matured, so have users' expectations around client side features. Libraries like React have burst onto the scene to satisfy these expectations. I've built sites in almost all of the frontend frameworks and have found React to offer the best development experience. I like its component model and rich set of community plugins. Combining logic with presentation as JSX may feel strange at first, but it pays dividends when you're dealing with even moderately complex state on the frontend.
 
@@ -71,11 +69,15 @@ React on Rails works cleanly with zero configuration, providing a set of methods
 Building React components with hot module reloading enabled is a breeze, eliminating the need to hit refresh in the browser when CSS or JS changes, maintaining state and DOM inspection in the process. This has significantly sped up my development time.
 
 
-## LLMs
+## A note on LLMs
 
 Using frameworks and adhering to  conventions is more valuable than ever now that much of our development time is spent interacting with LLMs and copying their code rather than writing code ourselves. The LLM you're working with will have a vast knowledge of code written in Rails and React and can be very effective at producing high quality implementations with even low quality prompts and examples.
 
-Over the last year I've begun to rely on ChatGPT for producing most of the code I've committed rather than just asking it for help. This process will almost certainly continue until LLMs will be able to comprehend entire codebases with ease. Until we cross the threshold of humans not needing to be in the loop at all, Rails and React will continue to be great tools.
+Over the last year I've begun to rely on ChatGPT for producing most of the code I've committed rather than just asking it for help. This process will almost certainly continue until LLMs will be able to comprehend entire codebases with ease.
+
+## Try Rails
+
+Just today, [Rails 8](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required) was released, shipping with powerful new devops tools for deploying your app to production environments. There's never been a better time to start a project on Rails or migrate an old krufty v1 of a system over to something modern and  reliable.
 
 
 <br>
