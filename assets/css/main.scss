@@ -1,136 +1,26 @@
 ---
-# Front matter comment required
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
 ---
 
-$masthead-link-color: #f5f5f5;
-
 @charset "utf-8";
+
+$sans-serif: "Roboto", sans-serif;
+$serif: "Roboto Slab", serif;
+$monospace: "Roboto Mono", monospace;
+
+@import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-@font-face {
-  font-family: 'Cardo';
-  src: url('/assets/fonts/Cardo-Regular.ttf') format('truetype');
+h2.archive__item-title {
+  margin-top: 0.8rem !important;
 }
 
-.greedy-nav {
-  a {
-    &:hover {
-      color: $info-color;
-    }
-    &:before {
-      height: 0px !important;
-      -webkit-transition: none !important;
-      transition: none !important;
-    }
-  }
+p.archive__item-excerpt {
+  margin-bottom: 3rem !important;
 }
 
-// Disable fade-in animations
-.page__footer {
-  -webkit-animation: none;
-  animation: none;
-}
-.breadcrumbs {
-  -webkit-animation: none;
-  animation: none;
-}
-#main {
-  -webkit-animation: none;
-  animation: none;
-}
-
-// Header
-.masthead {
-  background-color: #17181c;
-  -webkit-animation: none;
-  animation: none;
-  border-bottom: none;
-
-  &__inner-wrap {
-    padding: .3em;
-  }
-  .site-logo img {
-    max-height: 3rem;
-  }
-  .greedy-nav {
-    background-color: #17181c;
-  }
-}
-
-// Project index
-.archive__item {
-  margin-bottom: 2.5em;
-
-  h2 {
-    margin-top: 0.5em;
-  }
-}
-
-.page__title {
-  margin-bottom: 1.5em;
-}
 
 footer {
-  padding: 0 .5em .5em !important;
-  margin-top: .5em !important;
-  text-align: center !important;
-}
-
-.smooth-corners {
-  border-radius: 0.5em;
-}
-
-.quote {
-  font-family: 'Cardo';
-  font-size: 1.2rem !important;
-  padding: 1rem;
-  margin: 2rem 0;
-  border-left: 4px solid #007acc;
-  background-color: #fafcff;
-  border-radius: 0 0.5em 0.5em 0;
-}
-
-.poem {
-  font-family: 'Cardo';
-  font-size: 1.2rem;
-  white-space: pre-wrap;
-  background-color: #fafcff;
-  padding: 1em;
-  border-radius: 0.5em;
-  margin-bottom: 1em;
-}
-
-.full-width {
-  width: 100%;
-}
-
-.footnote {
-  font-style: italic;
-  font-size: 0.8rem;
-}
-
-.caption {
-  font-size: 0.65rem !important;
-  color: #999;
-  text-align: center;
-  margin-top: 1em !important;
-
-  img {
-    margin-bottom: 1em;
-  }
-}
-
-figure {
-  font-family: sans-serif !important;
-
-  figcaption {
-    font-family: sans-serif !important;
-    font-size: 0.8em;
-  }
-}
-.mfp-counter {
-  font-family: sans-serif !important;
-}
-.page__share {
   text-align: center;
 }

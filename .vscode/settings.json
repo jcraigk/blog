@@ -1,4 +1,12 @@
 {
+  // "editor.fontFamily": "Vollkorn", // Serif
+  // "editor.fontFamily": "Open Sans", // Sans
+  // "editor.fontFamily": "Roboto Mono", // Mono
+  "editor.fontSize": 16,
+  "editor.lightbulb.enabled": "off",
+  "spellright.language": ["en" ],
+  "spellright.documentTypes":  ["markdown", "latex"],
+  // "editor.wordBasedSuggestions": "off",
   // "workbench.colorTheme": "Github Light Theme - Gray",
   // "workbench.colorCustomizations": {
   //   "editor.background": "#fcfcfc",
@@ -15,18 +23,5 @@
   //   "sideBar.background": "#333333",
   //   "sideBar.foreground": "#b5b5b5"
   // },
-  "editor.fontFamily": "Poly",
-  // "editor.fontFamily": "Arial",
-  // "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 24,
-  "editor.lightbulb.enabled": "off",
-  "spellright.language": [
-    "en"
-  ],
-  "spellright.documentTypes": [
-    "markdown",
-    "latex"
-  ],
-  "editor.wordBasedSuggestions": "off"
 }
 

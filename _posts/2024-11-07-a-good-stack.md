@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/posts/2024-11-07-header.jpg
 ---
 
-BUTTHEAD: Beavis, I have seen the top of the mountain, and it is good.
+Beavis, I have seen the top of the mountain, and it is good.<br><br>-- Butthead
 {:.quote}
 
 TLDR: Try [React on Rails](https://github.com/shakacode/react_on_rails) for your next web app.

@@ -3,7 +3,7 @@ description: Blog of Justin Craig-Kuhn
 baseurl: ''
 url: https://jck.earth
 github_username: jcraigk
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-include-cache
   - jekyll-feed
@@ -33,6 +33,10 @@ author:
       url: https://www.linkedin.com/in/jcraigk/
 footer:
   links: *links
+
+# Enable excerpts and header images on post listings
+show_excerpts: true
+show_image: true
 
 defaults:
   # Global
