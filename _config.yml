@@ -31,13 +31,11 @@ author:
     - label: LinkedIn
       icon: fab fa-fw fa-linkedin
       url: https://www.linkedin.com/in/jcraigk/
+    - label: Bluesky
+      icon: fab fa-fw fa-bluesky
+      url: https://bsky.app/profile/jcraigk.bsky.social
 footer:
   links: *links
-
-# Enable excerpts and header images on post listings
-show_excerpts: true
-show_image: true
-
 defaults:
   # Global
   - scope:
@@ -58,7 +56,6 @@ defaults:
     values:
       layout: single
       read_time: true
-      share: true
       related: true
   # Projects
   - scope:
@@ -66,7 +63,6 @@ defaults:
       type: projects
     values:
       layout: single
-      share: true
 search: true
 lunr:
   search_within_pages: true

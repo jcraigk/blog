@@ -7,6 +7,5 @@ group :jekyll_plugins do
 end
 
 group :development do
-  gem "rubocop-rails-omakase"
   gem "webrick"
 end

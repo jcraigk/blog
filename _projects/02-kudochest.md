@@ -6,19 +6,19 @@ header:
   teaser: /assets/images/projects/kudochest-header.png
 ---
 
-In 2016 I saw [Nosedive (Black Mirror)](https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)) and it freaked me out. It depicts a society in which people rate each other on a 5-star scale for nearly every interaction they have. This of course produces humorous and horrifying outcomes.
+In 2016, I watched [*Nosedive* (Black Mirror)](https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)), and it freaked me out. It depicts a society where people rate each other on a five-star scale for nearly every interaction. This, unsurprisingly, leads to both humorous and horrifying outcomes.
 
-From one perspective I see the value in living in a meritocracy with central accounting. In many respects, we live in one today. However, taking it to the extreme as depcited in the Black Mirror episode is clearly going too far. Right? Or is that exactly where we are headed? I'm not sure, to be honest.
+From one perspective, I can see the appeal of a meritocracy with central accounting — something that feels a bit like status quo. However, taking it to the extreme as depicted in *Black Mirror* is clearly going too far. Right? Or is that exactly where we're headed? Honestly, I'm not sure.
 
-Seeing this episode got me thinking about software that manages social status and notoriety. My original vision was to make a website that could be used to send karma points between email addresses, but this idea provided too broad to be useful. I was using Slack and Discord a lot in the years that followed and I was noticing how various apps were implementing ratings or karma. There were various approaches and I didn't see a one size fits all solution. So I set out to create a flexible app that could be fit into an existing culture to enhance it organically.
+This episode got me thinking about software that manages social status and notoriety. My initial idea was to create a website that allowed people to send karma points between email addresses, but the concept was too broad to be practical. Over the next few years, as I used Slack and Discord extensively, I noticed how various apps were implementing ratings and karma systems. Each had its own approach, and none seemed to fit all scenarios. This led me to create a flexible app that could adapt to an existing culture and enhance it organically.
 
-I started building an app called KarmaChest which had two parts: a website and chat bot. The chat bot could be installed in Slack or Discord. The web portion would be used for administration, pretty profile pages, and other UI niceties. The chat bot serves as an interface from the Slack client to give kudos/karma and query the system for leaderboards, stats, and other info. I used the standard [Ruby on Rails](https://rubyonrails.org/) stack because I'm familiar with it and wanted to rapidly prototype.
+I started developing an app called *KarmaChest*, which had two main components: a website and a chatbot. The chatbot could be integrated with Slack or Discord, while the web component was designed for administration, user profiles, and other UI niceties. The chatbot served as an interface within Slack, allowing users to give kudos (or karma) and query the system for leaderboards, stats, and other features. I built the app using the [Ruby on Rails](https://rubyonrails.org/) stack because I'm familiar with it and wanted to prototype quickly.
 
-I quickly realized that in order to deliver some of the features I wanted to build, I'd need to cache the state of users, channels, and other entities for each team. This would enable quick local lookup rather than having to be constantly hitting the chat APIs for common queries.
+Early on, I realized I'd need to cache the state of users, channels, and other entities for each team. This would enable fast local lookups instead of repeatedly querying the chat APIs for common requests.
 
-I worked on the project for about 14 months before I started advertising it on forums and with other engineers. I was able to convince my employer, a publicly traded company with approximately 1,200 employees, to install it in place of our aging [Hubot](https://hubot.github.com/) karma tracker. It ended up being quite a hit, so I've continued to maintain the project. It was renamed KudoChest since "karma" has religious associations and "kudos" is a better fit anyway.
+After working on the project for about 14 months, I began advertising it on forums and sharing it with other engineers. Eventually, I convinced my employer — a publicly traded company with approximately 1,200 employees — to replace our aging [Hubot](https://hubot.github.com/) karma tracker with *KarmaChest*. It was a hit, so I've continued maintaining the project. Along the way, I renamed it *KudoChest* because "karma" has religious connotations, and "kudos" feels like a better fit.
 
-Takeaways:
-  * Slack's API, customer support, and documentation are all very good
-  * Discord's API, customer support, and documentation are not good (or at least they were not in 2018-2019)
-  * It's gratifying to see hundreds of your coworkers giving each other kudos on a daily basis
+**Takeaways:**
+- Slack's API, customer support, and documentation are excellent.
+- Discord's API, customer support, and documentation were subpar in 2018–2019.
+- It's incredibly rewarding to see hundreds of coworkers giving each other kudos daily.

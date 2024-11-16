@@ -1,12 +1,11 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
+# Front matter comment required
 ---
 
 @charset "utf-8";
 
 $sans-serif: "Roboto", sans-serif;
-$serif: "Roboto Slab", serif;
+$serif: "Cardo", serif;
 $monospace: "Roboto Mono", monospace;
 
 @import "minimal-mistakes/skins/dark";
@@ -16,11 +15,72 @@ h2.archive__item-title {
   margin-top: 0.8rem !important;
 }
 
+.page__content h2 {
+  margin-top: 3rem;
+  border: none !important;
+}
+
+.page__content p:first-of-type {
+  margin-top: 1.5rem;
+}
+
 p.archive__item-excerpt {
   margin-bottom: 3rem !important;
 }
 
-
 footer {
   text-align: center;
+}
+
+.archive__item-teaser {
+  margin-top: 2rem;
+}
+
+.quote {
+  font-family: $serif;
+  font-size: 1.2rem !important;
+  padding: 1rem;
+  margin: 2rem 0;
+  border-left: 4px solid #264f6e;
+  background-color: #394150;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.poem {
+  font-family: $serif;
+  font-size: 1.2rem;
+  white-space: pre-wrap;
+  background-color: #394150;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.smooth-corners {
+  border-radius: 0.5rem;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.caption {
+  font-size: 0.65rem !important;
+  color: #999;
+  text-align: center;
+  margin-top: 1rem !important;
+
+  img {
+    margin-bottom: 1rem;
+  }
+}
+
+.archive__item-teaser {
+  img {
+    filter: grayscale(50%);
+  }
+}
+
+header .page__meta {
+  margin-bottom: 1rem !important;
 }
