@@ -374,6 +374,7 @@ Here are the books I have read. I began listening to audiobooks in 2017 and that
 |107|Frank McCourt               |*'Tis*                                                                  |6/27/24        |
 |108|Frank McCourt               |*Teacher Man*                                                           |7/05/24        |
 |109|David Foster Wallace        |*Everything and More*                                                   |8/15/24        |
+|110|G. Edward Griffin           |*The Creature from Jekyll Island*                                       |11/16/24       |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.png){:.smooth-corners .full-width}
