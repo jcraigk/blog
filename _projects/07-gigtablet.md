@@ -16,7 +16,7 @@ To solve these issues, I built [GigTablet](https://gigtablet.com/). This is a si
 
 ![GigTablet screenshot](/assets/images/projects/gigtablet/screenshot-1.png){:.smooth-corners}
 
-We've been experimenting with the app while gigging in the soul funk band [Rat Soup](/projects/rat-soup). The horn players have been able to eliminate a lot of paper rustling on stage and I've reduced physical and visual clutter.
+We've been experimenting with the app while gigging in the soul funk band [OC Funk Collective](/projects/oc-funk-collective). The horn players have been able to eliminate a lot of paper rustling on stage and I've reduced physical and visual clutter.
 
 ![GigTablet screenshot](/assets/images/projects/gigtablet/screenshot-2.png){:.smooth-corners}
 
