@@ -5,6 +5,7 @@ tag: poems
 header:
   image: /assets/images/posts/2023-09-19-header.jpg
   teaser: /assets/images/posts/2023-09-19-header.jpg
+excerpt: A fresh spin on Shelley's "Ozymandias"
 ---
 
 <div class="poem">OZYMANDIAS II (SELF REPLICATA)

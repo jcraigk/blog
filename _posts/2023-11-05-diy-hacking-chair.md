@@ -5,6 +5,7 @@ tags: health diy
 header:
   image: /assets/images/posts/2023-11-05-header.jpg
   teaser: /assets/images/posts/2023-11-05-header.jpg
+excerpt: How to build a healthy hacking chair
 ---
 
 Years of repetitive stress injuries have led me to investigate alternative workstations. Even while using split keyboards and avoiding mice, I still experience issues in my wrists and shoulders with a conventional desk setup.  Sitting on the couch looking down at a laptop screen is even worse.

@@ -5,6 +5,7 @@ tags: software
 header:
   image: /assets/images/posts/2024-08-23-header.jpg
   teaser: /assets/images/posts/2024-08-23-header.jpg
+excerpt: A web developer's look at authentication packages in Ruby on Rails
 ---
 
 This article describes the process of migrating a Ruby on Rails app from [Devise](https://github.com/heartcombo/devise) to [Sorcery](https://github.com/Sorcery/sorcery)  authentication gems. The related pull requests can be viewed on GitHub:

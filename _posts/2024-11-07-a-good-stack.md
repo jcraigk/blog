@@ -5,6 +5,7 @@ tags: software ruby rails react
 header:
   image: /assets/images/posts/2024-11-07-header.jpg
   teaser: /assets/images/posts/2024-11-07-header.jpg
+excerpt: A web developer's look at using React with Ruby on Rails
 ---
 
 Beavis, I have seen the top of the mountain, and it is good.<br><br>-- Butthead

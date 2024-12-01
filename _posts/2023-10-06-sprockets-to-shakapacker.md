@@ -5,6 +5,7 @@ tags: software ruby rails
 header:
   image: /assets/images/posts/2023-10-06-header.jpg
   teaser: /assets/images/posts/2023-10-06-header.jpg
+excerpt: A developer's look at asset management in Ruby on Rails
 ---
 
 This article describes the process of migrating an open source Ruby on Rails app from Sprockets to Shakapacker. You can view the related commits on GitHub:

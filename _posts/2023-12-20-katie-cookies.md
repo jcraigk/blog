@@ -5,6 +5,7 @@ tags: family nonfiction
 header:
   image: /assets/images/posts/2023-12-20-header.jpg
   teaser: /assets/images/posts/2023-12-20-header.jpg
+excerpt: An essay on the memory of my mother
 ---
 
 As a child I would often help my parents bake desserts: cakes, pies, cookies, the occasional empanada. There would be these leftover bits of pie crust or corners of cookie dough strewn across the countertop after each of our creations was placed in the oven. These my mother would gather onto a cookie sheet, cover in cinnamon and sugar, and bake for a few minutes. They were practical and delicious treats that my brother and I were allowed to enjoy immediately. We called them Katie Cookies, after her.

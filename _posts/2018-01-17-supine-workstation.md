@@ -5,6 +5,7 @@ tag: health
 header:
   image: /assets/images/posts/2018-01-17-header.jpg
   teaser: /assets/images/posts/2018-01-17-header.jpg
+excerpt: How to build a custom supine workstation
 ---
 
 I was ten years old when my fingers first scraped across a computer keyboard. It was a faded Apple IIe with a monochrome CRT and a floppy drive. The previous owner had amassed a respectable game collection on 5.25" disks, which my brother and I devoured in our leisure time. In the evening I dabbled in writing simple BASIC programs; text adventure games, mostly. Some of those sessions — okay, a lot of them — lasted all night. The hours spent sitting in front of those luminous pixels set the stage for what would become a lifetime of (over-)using computers for both work and play. While this journey has been thrilling in many ways, it has also taken a toll on me physically.

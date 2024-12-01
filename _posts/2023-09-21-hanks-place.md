@@ -5,6 +5,7 @@ tags: poems writing
 header:
   image: /assets/images/posts/2023-09-21-header.jpg
   teaser: /assets/images/posts/2023-09-21-header.jpg
+excerpt: Reflections on visiting Charles Bukowski's grave
 ---
 
 Yesterday I drove to San Pedro to visit the grave of [Charles Bukowski](https://en.wikipedia.org/wiki/Charles_Bukowski). He's buried at Green Hills Memorial Park in what, at first glance, appears to be an unremarkable plot. It was my second visit. Here's a poem about it:

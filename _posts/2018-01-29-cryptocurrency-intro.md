@@ -5,6 +5,7 @@ tag: crypto
 header:
   image: /assets/images/posts/2018-01-29-header.jpg
   teaser: /assets/images/posts/2018-01-29-header.jpg
+excerpt: A brief explanation of how cryptocurrencies work
 ---
 
 It seems like 2017 was the year that everyone, including our grandparents, became aware of cryptocurrencies. With news stories about the soaring or plummeting price of Bitcoin circulating on a regular basis, sentiments about the overall concept have been mixed. Some believe that cryptocurrencies will become the dominant store of the world's economic value while others view it as modern [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania) that is bound to fail.

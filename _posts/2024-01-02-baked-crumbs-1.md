@@ -5,6 +5,7 @@ tags: crumbs
 header:
   image: /assets/images/posts/2024-01-02-header.jpg
   teaser: /assets/images/posts/2024-01-02-header.jpg
+excerpt: A few brief ideas and poems
 ---
 
 More **baked crumbs** from a lake in the mountains of my dread. I mean head.

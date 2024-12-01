@@ -5,6 +5,7 @@ tag: crumbs
 header:
   image: /assets/images/posts/2023-07-18-header.jpg
   teaser: /assets/images/posts/2023-07-18-header.jpg
+excerpt: A few brief ideas and poems
 ---
 
 Here are some **baked crumbs** from a jelly croissant atop my neck.
