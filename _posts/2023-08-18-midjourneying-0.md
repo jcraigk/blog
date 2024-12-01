@@ -5,7 +5,7 @@ tags: midjourney ai images
 header:
   image: /assets/images/posts/2023-08-18-header.jpg
   teaser: /assets/images/posts/2023-08-18-header.jpg
-excerpt: An exploration of MidJourney generative art
+excerpt: An exploration of generative art using MidJourney
 gallery:
   - url: /assets/images/posts/2023-08-18/midjourney-1.jpg
     image_path: /assets/images/posts/2023-08-18/midjourney-1.jpg
