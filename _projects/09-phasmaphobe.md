@@ -1,6 +1,6 @@
 ---
 title: Phasmaphobe
-excerpt: An indie rock concept album featuring many live instruments
+excerpt: An indie rock concept album released in 2011
 header:
   image: /assets/images/projects/phasmaphobe-header.jpg
   teaser: /assets/images/projects/phasmaphobe-header.jpg

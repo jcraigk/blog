@@ -6,88 +6,88 @@ header:
   image: /assets/images/posts/2023-09-14-header.jpg
   teaser: /assets/images/posts/2023-09-14-header.jpg
 gallery:
-  - url: /assets/images/posts/2023-09-14/midjourney-1.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-1.png
+  - url: /assets/images/posts/2023-09-14/midjourney-1.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-1.jpg
     alt: Midjourney image
     title: "Prompt: pristine cockpit of a starship overgrown with plants and vines, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-2.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-2.png
+  - url: /assets/images/posts/2023-09-14/midjourney-2.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-2.jpg
     alt: Midjourney image
     title: "Prompt: huge strange complex spaceship design in isometric view, draftsman drawing"
-  - url: /assets/images/posts/2023-09-14/midjourney-3.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-3.png
+  - url: /assets/images/posts/2023-09-14/midjourney-3.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-3.jpg
     alt: Midjourney image
     title: "Prompt: a purple portal geode, crystals inside, plants overgrowing outside"
-  - url: /assets/images/posts/2023-09-14/midjourney-4.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-4.png
+  - url: /assets/images/posts/2023-09-14/midjourney-4.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-4.jpg
     alt: Midjourney image
     title: "Prompt: vines hanging down over a giant robot harvester in a forest"
-  - url: /assets/images/posts/2023-09-14/midjourney-5.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-5.png
+  - url: /assets/images/posts/2023-09-14/midjourney-5.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-5.jpg
     alt: Midjourney image
     title: "Prompt: overgrown atrium in a space station, exotic plants"
-  - url: /assets/images/posts/2023-09-14/midjourney-6.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-6.png
+  - url: /assets/images/posts/2023-09-14/midjourney-6.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-6.jpg
     alt: Midjourney image
     title: "Prompt: a robot swimming across a river, concept art"
-  - url: /assets/images/posts/2023-09-14/midjourney-7.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-7.png
+  - url: /assets/images/posts/2023-09-14/midjourney-7.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-7.jpg
     alt: Midjourney image
     title: "Prompt: hovering drone robot on nature trail in autumn leaves, moody, dark, moonlight, concept art"
-  - url: /assets/images/posts/2023-09-14/midjourney-8.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-8.png
+  - url: /assets/images/posts/2023-09-14/midjourney-8.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-8.jpg
     alt: Midjourney image
     title: "Prompt: slender towers in a desert, scifi, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-9.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-9.png
+  - url: /assets/images/posts/2023-09-14/midjourney-9.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-9.jpg
     alt: Midjourney image
     title: "Prompt: mech robots with guns sitting down having lunch in a crumbling city"
-  - url: /assets/images/posts/2023-09-14/midjourney-10.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-10.png
+  - url: /assets/images/posts/2023-09-14/midjourney-10.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-10.jpg
     alt: Midjourney image
     title: "Prompt: silhouette of a robot in front of a setting sun"
-  - url: /assets/images/posts/2023-09-14/midjourney-11.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-11.png
+  - url: /assets/images/posts/2023-09-14/midjourney-11.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-11.jpg
     alt: Midjourney image
     title: "Prompt: a light frigate descending into a lush green forest world, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-12.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-12.png
+  - url: /assets/images/posts/2023-09-14/midjourney-12.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-12.jpg
     alt: Midjourney image
     title: "Prompt: robotic snails in a wind swept desert with cacti, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-13.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-13.png
+  - url: /assets/images/posts/2023-09-14/midjourney-13.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-13.jpg
     alt: Midjourney image
     title: "Prompt: simple black flat background with subtle distant spiral galaxy, watercolor"
-  - url: /assets/images/posts/2023-09-14/midjourney-14.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-14.png
+  - url: /assets/images/posts/2023-09-14/midjourney-14.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-14.jpg
     alt: Midjourney image
     title: "Prompt: overhead view of a waterfall into a deep circular hole in the earth, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-15.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-15.png
+  - url: /assets/images/posts/2023-09-14/midjourney-15.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-15.jpg
     alt: Midjourney image
     title: "Prompt: blizzard with glowing eyes and hints of robotic arms in the dark"
-  - url: /assets/images/posts/2023-09-14/midjourney-16.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-16.png
+  - url: /assets/images/posts/2023-09-14/midjourney-16.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-16.jpg
     alt: Midjourney image
     title: "Prompt: steampunk robotic black peonies, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-17.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-17.png
+  - url: /assets/images/posts/2023-09-14/midjourney-17.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-17.jpg
     alt: Midjourney image
     title: "Prompt: Satellite imagery of planet surface, amazon and scifi cities"
-  - url: /assets/images/posts/2023-09-14/midjourney-18.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-18.png
+  - url: /assets/images/posts/2023-09-14/midjourney-18.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-18.jpg
     alt: Midjourney image
     title: "Prompt: robotic lilacs, illustration"
-  - url: /assets/images/posts/2023-09-14/midjourney-19.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-19.png
+  - url: /assets/images/posts/2023-09-14/midjourney-19.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-19.jpg
     alt: Midjourney image
     title: "Prompt: robotic orange lilies in a rainy forest"
-  - url: /assets/images/posts/2023-09-14/midjourney-20.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-20.png
+  - url: /assets/images/posts/2023-09-14/midjourney-20.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-20.jpg
     alt: Midjourney image
     title: "Prompt: closeup of a science fiction throne from an angle, simple design"
-  - url: /assets/images/posts/2023-09-14/midjourney-21.png
-    image_path: /assets/images/posts/2023-09-14/midjourney-21.png
+  - url: /assets/images/posts/2023-09-14/midjourney-21.jpg
+    image_path: /assets/images/posts/2023-09-14/midjourney-21.jpg
     alt: Midjourney image
     title: "Prompt: robot ants carrying a leaf, concept art, moonlight"
 ---
