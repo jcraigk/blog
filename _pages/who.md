@@ -19,12 +19,12 @@ I was born in the [Finger Lakes](https://en.wikipedia.org/wiki/Finger_Lakes) are
 
 I was home schooled until fifth grade at which point I began attending a public rural school. I earned a BS in IT at [RIT](https://www.rit.edu/) and remained in Rochester, NY for a few years. In 2006 I moved to San Francisco in search of warmer weather and a larger tech community. Finally in 2013 I moved to Irvine and have since remained in Southern California.
 
-I focus on software, music, fitness, and creative writing. Please see my [projects](/projects) and [posts](/) to learn more.
+See my [projects](/projects) and [posts](/) to learn more.
 
 
 ## Get in Touch
 
-I often tinker solo but I also enjoy working on small teams of driven contributors. [Reach out](https://www.linkedin.com/in/jcraigk/) if you have an interesting project.
+I often tinker solo but I also enjoy working on small teams of driven contributors. [Reach out](https://www.linkedin.com/in/jcraigk/) if you have an interesting project I might be able to help with.
 
 <br>
 ![Illustration of campfire on a tropical beach](/assets/images/who/island-campfire.jpg){:.smooth-corners .full-width}
