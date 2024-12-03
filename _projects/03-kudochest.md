@@ -12,6 +12,8 @@ From one perspective, I can see the appeal of a meritocracy with central account
 
 This episode got me thinking about software that manages social status and notoriety. My initial idea was to create a website that allowed people to send karma points between email addresses, but the concept was too broad to be practical. Over the next few years, as I used Slack and Discord extensively, I noticed how various apps were implementing ratings and karma systems. Each had its own approach, and none seemed to fit all scenarios. This led me to create a flexible app that could adapt to an existing culture and enhance it organically.
 
+![KudoChest login screenshot](/assets/images/projects/kudochest/login-page.jpg){:.smooth-corners}
+
 I started developing an app called *KarmaChest*, which had two main components: a website and a chatbot. The chatbot could be integrated with Slack or Discord, while the web component was designed for administration, user profiles, and other UI niceties. The chatbot served as an interface within Slack, allowing users to give kudos (or karma) and query the system for leaderboards, stats, and other features. I built the app using the [Ruby on Rails](https://rubyonrails.org/) stack because I'm familiar with it and wanted to prototype quickly.
 
 ![KudoChest leaderboard screenshot](/assets/images/projects/kudochest/leaderboard.jpg){:.smooth-corners}
