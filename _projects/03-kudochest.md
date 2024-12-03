@@ -14,11 +14,17 @@ This episode got me thinking about software that manages social status and notor
 
 I started developing an app called *KarmaChest*, which had two main components: a website and a chatbot. The chatbot could be integrated with Slack or Discord, while the web component was designed for administration, user profiles, and other UI niceties. The chatbot served as an interface within Slack, allowing users to give kudos (or karma) and query the system for leaderboards, stats, and other features. I built the app using the [Ruby on Rails](https://rubyonrails.org/) stack because I'm familiar with it and wanted to prototype quickly.
 
+![KudoChest leaderboard screenshot](/assets/images/projects/kudochest/leaderboard.jpg){:.smooth-corners}
+
 Early on, I realized I'd need to cache the state of users, channels, and other entities for each team. This would enable fast local lookups instead of repeatedly querying the chat APIs for common requests.
 
 After working on the project for about 14 months, I began advertising it on forums and sharing it with other engineers. Eventually, I convinced my employer — a publicly traded company with approximately 1,200 employees — to replace our aging [Hubot](https://hubot.github.com/) karma tracker with *KarmaChest*. It was a hit, so I've continued maintaining the project. Along the way, I renamed it *KudoChest* because "karma" has religious connotations, and "kudos" feels like a better fit.
+
+![KudoChest history screenshot](/assets/images/projects/kudochest/history.jpg){:.smooth-corners}
 
 **Takeaways:**
 - Slack's API, customer support, and documentation are excellent.
 - Discord's API, customer support, and documentation were subpar in 2018–2019.
 - It's incredibly rewarding to see hundreds of coworkers giving each other kudos daily.
+
+![KudoChest logos](/assets/images/projects/kudochest/logos-andy-warhol-style.png){:.smooth-corners .centered}

@@ -81,6 +81,13 @@ footer {
   }
 }
 
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 .archive__item-teaser {
   img {
     filter: grayscale(40%);

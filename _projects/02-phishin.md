@@ -10,9 +10,13 @@ I discovered Phish in 1994 playing basketball with my brother. HORSE was our gam
 
 It was soon after that I discovered how prolific the band was with their live performances, all of which were different. There were costumes (musical and otherwise), secret languages, vacuum cleaner solos, a [fantasy epic](https://en.wikipedia.org/wiki/Gamehendge), and extended improvisation ("jamming"). Also a bunch of weird drugged out brilliant people who followed them around.
 
+![Phishin Eras screenshot](/assets/images/projects/phishin/eras.jpg){:.smooth-corners}
+
 Phish allows the audience to [record and trade](https://phish.com/faq/#:~:text=Audience%20taping%20at%20Phish%20concerts,the%20exclusive%20property%20of%20Phish.) their shows as long as no money or promotion is involved. In the nineties, the only way to hear live shows was by trading cassettes with other fans. There was a head shop in Rochester, NY that I would visit whenever I could get someone to drive me (I was 14 at the time). They had a book listing all their Dead and Phish tapes. If you left a cassette they would make you a copy for free. This was how my tape collection grew to about 50 tapes. The era of mp3s soon took over, at which point I stopped adding to my collection.
 
 In 2010 I was at a Phish show discussing tape trading and other ideas with a fellow software engineer. He mentioned he had begun work on an idea we (and many others) had - a website that hosted Phish audience recordings in mp3 format. At the time, the best we had was the "Phish Spreadsheet", which was a Google spreadsheet of dates linked to Flacs hosted on low end file sharing sites like Mediafire.
+
+![Phishin Show and Player screenshot](/assets/images/projects/phishin/show-and-player.jpg){:.smooth-corners}
 
 My colleague's vision was to have a simple mobile app where you could quickly navigate and play tracks. My vision was a bit different in that I wanted a desktop version that had a lot of bells and whistles.
 
