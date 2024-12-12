@@ -10,7 +10,7 @@ excerpt: A brief explanation of how cryptocurrencies work
 
 It seems like 2017 was the year that everyone, including our grandparents, became aware of cryptocurrencies. With news stories about the soaring or plummeting price of Bitcoin circulating on a regular basis, sentiments about the overall concept have been mixed. Some believe that cryptocurrencies will become the dominant store of the world's economic value while others view it as modern [Tulip Mania](https://en.wikipedia.org/wiki/Tulip_mania) that is bound to fail.
 
-![Cryptocurrency logos](/assets/images/posts/2018-01-29/crypto-logos.png){:.full-width}
+![Cryptocurrency logos](/assets/images/posts/2018-01-29/crypto-logos.png){:.image-centered}
 Logos of some of the many cryptocurrencies available in 2018
 {:.caption}
 
@@ -22,7 +22,7 @@ In order to assess the potential of cryptocurrencies in general, it's important 
 The Byzantine Generals Problem goes like this: there are multiple generals each commanding part of the Byzantine army and they encircle a city that they intend to attack. If they are able to coordinate their attacks, they will overtake the city. If some attack while others retreat, they will fail.
 
 
-![Diagram of attack strategies](/assets/images/posts/2018-01-29/attack-strategies.png){:.full-width}
+![Diagram of attack strategies](/assets/images/posts/2018-01-29/attack-strategies.png){:.image-centered}
 In the Byzantine Generals Problem, if all generals attack at the same time (left), they will succeed in sacking the city. However, if some of the generals decide to retreat while others attack (right), they will fail.
 {:.caption}
 
@@ -41,7 +41,9 @@ Public key cryptography is a system that provides secure communication on otherw
 
 The public key is shared with the outside world and serves as a personal identifier. The private key is kept secret and is used to digitally sign (encrypt) messages coming from the user and to verify (decrypt) messages that are sent in response.
 
-![Diagram of public key cryptography](/assets/images/posts/2018-01-29/pubkey-crypto-diagram.png){:.full-width}
+![Diagram of public key cryptography](/assets/images/posts/2018-01-29/pubkey-crypto-diagram.png){:.image-centered}
+Diagram of public key cryptography
+{:.caption}
 
 For web engineers, perhaps the most obvious use of PKC is when we run secure shell sessions. For example, if we want to connect to a remote server securely, we first need to generate a private/public key pair. In Linux this is often done using the `ssh-keygen` command. Running this will produce a public key stored in `~/.ssh/id_rsa.pub` and a private key stored in `~/.ssh/id_rsa`. When we connect to a remote node using the `ssh` protocol, these keys, along with the keys of the remote host, are used to encrypt/decrypt all communication so message content cannot be spied on or tampered with in transit.
 
@@ -61,7 +63,7 @@ A hash function maps data of arbitrary size to a fixed size. For any input, it p
 
 For example, we could take the novel [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring) as input and produce a (semi-)unique 256-bit representation of it by passing it into a hash function. Change a single letter in the novel and a completely different looking hash value will be generated. While there are many other possible input strings that would produce the same output, there is no way for us to discover those other than to try every possible combination until we find a match. This would require more computing power than is available during all the ages of Middle Earth.
 
-![Ruby REPL](/assets/images/posts/2018-01-29/ruby-repl.jpg){:.full-width}
+![Ruby REPL](/assets/images/posts/2018-01-29/ruby-repl.jpg){:.image-centered}
 We can use Ruby's `digest` library to demonstrate the two primary properties of hash functions: (1) The same input always produces the same output and (2) Changing a single element of the input produces a completely different output.
 {:.caption}
 
@@ -72,7 +74,7 @@ The distributed ledger, or blockchain, is simply a chronological list of transac
 
 To make the ledger tamper-proof, we employ a linked list of hashes. First, we take the data representing a set of transactions (a block) and we produce a hash of it. To add another block to it, we combine the hash with a new block that represents the next set of transactions (Tx). We then hash this entire structure and include it in the next block, thus providing a fingerprint of the entire history. This method is then repeated to create a constantly growing chain that is verifiable by all nodes.
 
-![Diagram of a blockchain](/assets/images/posts/2018-01-29/blockchain-diagram.png){:.full-width}
+![Diagram of a blockchain](/assets/images/posts/2018-01-29/blockchain-diagram.png){:.image-centered}
 The blockchain as illustrated in the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
 {:.caption}
 
@@ -80,7 +82,7 @@ In order to tamper with the ledger, an attacker would have to search through an 
 
 To make the blockchain easier to search and manipulate, we can organize the blocks into a binary tree structure, in much the same way that we index database columns. Each node contains a hash of all nodes below it to retain our tamper-proof scheme. This is known as a [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree). This structure provides several advantages, including the ability to easily trim older transactions to keep the overall blockchain smaller.
 
-![Diagram of a Merkle Tree](/assets/images/posts/2018-01-29/merkle-tree-diagram.png){:.full-width}
+![Diagram of a Merkle Tree](/assets/images/posts/2018-01-29/merkle-tree-diagram.png){:.image-centered}
 Binary tree of blocks ([Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)) as illustrated in the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
 {:.caption}
 
@@ -97,7 +99,7 @@ In PoS, each node is assigned a voting weight based on specific properties, such
 
 Entire papers are written on the nuances of these systems. For our purposes, we need not study their specifics to grasp the fact that each cryptocurrency does provide an algorithm by which consensus can be reached regarding which block will be added to the chain. We must become comfortable with the presence of malicious nodes that make false claims of the blockchain and trust in the consensus algorithm to maintain stability.
 
-![Lord of the Rings Council of Elrond scene](/assets/images/posts/2018-01-29/lotr-council.jpg){:.full-width}
+![Lord of the Rings Council of Elrond scene](/assets/images/posts/2018-01-29/lotr-council.jpg){:.image-centered}
 Here Legolas is claiming that Gimli sent him 100 MiddleEarthCoins (XME) for an enchanted bow while Gimli claims he’d not be caught dead carrying an Elven bow of any sort. The Cryptocouncil of Elrond has been summoned to settle the matter, thus forging another block into the One True Blockchain.
 {:.caption}
 
@@ -115,7 +117,7 @@ Well, it turns out that there is no One True Solution to this problem. Variation
 
 Since the Bitcoin network came online in 2009, other use cases for the blockchain have been invented. One of the most notable is Ethereum, a distributed computing platform developed by [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin) that extends the mechanisms described by [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto).
 
-![Photograph of Vitalik Buterin](/assets/images/posts/2018-01-29/vitalik-llama-shirt.jpg){:.full-width}
+![Photograph of Vitalik Buterin](/assets/images/posts/2018-01-29/vitalik-llama-shirt.jpg){:.image-centered}
 Vitalik Buterin, creator of Ethereum
 {:.caption}
 

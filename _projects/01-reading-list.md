@@ -257,7 +257,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 
 
 <br>
-![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.smooth-corners .full-width}
+![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
 
 
 ## Nonfiction
@@ -379,4 +379,4 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |112|Jason Hickel                |*Less is More*                                                          |11/27/24       |
 
 <br>
-![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.smooth-corners .full-width}
+![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}

@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-$sans-serif: "Roboto", sans-serif;
+$sans-serif: "Open Sans", sans-serif;
 $serif: "Cardo", serif;
 $monospace: "Roboto Mono", monospace;
 
@@ -14,10 +14,31 @@ $monospace: "Roboto Mono", monospace;
 h2.archive__item-title {
   margin-top: 0.8rem !important;
 }
+.page__content {
+  overflow-x: auto;
 
-.page__content h2 {
-  margin-top: 3rem;
-  border: none !important;
+  table {
+    min-width: 100%;
+    display: table;
+  }
+}
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 300px);
+    padding-right: 0px;
+  }
+}
+
+.page__content {
+  p, ul {
+    font-size: 0.85rem;
+  }
+
+  h2 {
+    margin-top: 3rem;
+    border: none !important;
+  }
 }
 
 .grid__item {
@@ -62,24 +83,25 @@ footer {
   margin-bottom: 1rem;
 }
 
-.smooth-corners {
+.image-centered {
   border-radius: 0.5rem;
-}
-
-.full-width {
-  width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 .caption {
   font-size: 0.65rem !important;
+  font-style: italic;
   color: #999;
   text-align: center;
-  margin-top: 1rem !important;
+  margin: 0.5rem auto 1rem !important;
+  width: 100%;
+  display: block;
 
   img {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
-}
+ }
 
 .centered {
   display: block;

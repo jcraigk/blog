@@ -82,4 +82,4 @@ Just today, [Rails 8](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required
 
 
 <br>
-![Art showing sunrise over a mountain](/assets/images/posts/2024-11-07/sunrise-over-mountain.jpg){:.smooth-corners .full-width}
+![Art showing sunrise over a mountain](/assets/images/posts/2024-11-07/sunrise-over-mountain.jpg){:.image-centered}

@@ -2,7 +2,7 @@
 title: Who?
 ---
 
-![JCK Photograph](/assets/images/who/jck-photo.jpg){:.smooth-corners .full-width}
+![JCK Photograph](/assets/images/who/jck-photo.jpg){:.image-centered}
 
 Hi, I'm **jck**. Those are my initials. I also respond to **justin**.
 
@@ -27,4 +27,4 @@ See my [projects](/projects) and [posts](/) to learn more.
 I often tinker solo but I also enjoy working on small teams of driven contributors. [Reach out](https://www.linkedin.com/in/jcraigk/) if you have an interesting project I might be able to help with.
 
 <br>
-![Illustration of campfire on a tropical beach](/assets/images/who/island-campfire.jpg){:.smooth-corners .full-width}
+![Illustration of campfire on a tropical beach](/assets/images/who/island-campfire.jpg){:.image-centered}

@@ -27,7 +27,7 @@ Having spent so much attention on detail and quality during the recording, mixin
 
 After finally receiving the boxes of vinyl I had ordered, I set about giving most of them away. I wasn't interested in profiting or even promoting the album. I had completed the goal I had set out to do - make an album. Those around me encouraged me to gather a band and hit the road to promote it, but that prospect did not appeal to me.
 
-Takeaways:
+**Takeaways:**
   * Setup and teardown in a professional studio takes a long time and you pay for it
   * Mastering is a highly subjective process
   * Beware charlatans in the music business

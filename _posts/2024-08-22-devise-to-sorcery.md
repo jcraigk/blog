@@ -313,4 +313,4 @@ In hindsight, the migration process was mostly painless. We had to write more co
 
 
 <br>
-![Art showing a wizard at a gate](/assets/images/posts/2024-08-23/wizard-at-gate.jpg){:.smooth-corners .full-width}
+![Art showing a wizard at a gate](/assets/images/posts/2024-08-23/wizard-at-gate.jpg){:.image-centered}

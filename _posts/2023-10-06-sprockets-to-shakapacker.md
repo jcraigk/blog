@@ -303,4 +303,4 @@ For this project, the answer was a resounding "yes" so this migration was well w
 Thanks to the maintainers of all the software mentioned here!
 
 <br>
-![Art showing organized shelves](/assets/images/posts/2023-10-06/organized-assets.jpg){:.smooth-corners .full-width}
+![Art showing organized shelves](/assets/images/posts/2023-10-06/organized-assets.jpg){:.image-centered}

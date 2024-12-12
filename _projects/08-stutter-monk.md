@@ -18,11 +18,15 @@ In the Berlin School, a "bed" of synthesizer pads is accompanied by repeating ar
 
 I wanted there to be a strong visual element to the stream in addition to the music, so I setup cameras in my workspace for multiple angles on the action and generated scifi concept art images using MidJourney that I cycled through with a Ken Burns style slideshow.
 
-![Screenshot of live stream](/assets/images/projects/stutter-monk/stream-screenshot.jpg){:.smooth-corners .full-width}
+![Screenshot of live stream](/assets/images/projects/stutter-monk/stream-screenshot.jpg){:.image-centered}
+Screenshot of a live StutterMonk stream
+{:.caption}
 
 To start the show, I begin with some acoustic sounds including a drone from my deceased mother's singing bowl as well as metallic accents using a steel tongue drum. Like a wet finger on a wine glass, the singing bowl is rubbed by a wand that induces a resonant vibration. The sound it produces is a pleasant hum but I found that it wasn't tuned to a western key. So I added some water to adjust the tone. I found that I could get it tuned to C with F as an overtone if struck by the wand. It then becomes harmonious with a steel tongue drum, which is pre-tuned to western diatonic notes in the key of C.
 
-![Picture of singing bowl and steel tongue drum](/assets/images/projects/stutter-monk/bowl-and-drum.jpg){:.smooth-corners .full-width}
+![Picture of singing bowl and steel tongue drum](/assets/images/projects/stutter-monk/bowl-and-drum.jpg){:.image-centered}
+Singing bowl and steel tongue drum
+{:.caption}
 
 I needed smooth fader effects so I created a few devices in Max 4 Live, which is a data flow programming environment that is native to Ableton. The idea was to reduce the number of UI interactions required to produce smooth fades of different layers so I could focus on performance rather than mixing. Ultimately I created a few different devices for managing MIDI events and fader levels.
 
@@ -30,7 +34,7 @@ Here is the Youtube channel where you can find the Stutter Monk streams: [https:
 
 My initial goal was to produce 20 weekly streams, which I accomplished. My plan is to produce more StuterMonk streams in the future as time permits.
 
-Takeaways:
+**Takeaways:**
   * Ableton Live is an excellent environment for creating live loop-based audio
   * Playing solo can be as thrilling as playing in a band given the right tools
   * The Minimoog is an extremely expressive synthesizer

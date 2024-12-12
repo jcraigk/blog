@@ -16,7 +16,7 @@ Because I am not an expert in C, I could not contribute directly to the core Nan
 
 There are two ways to use the Ruby gem. You can use proxy objects that expose helper methods or you make direct RPC calls using Ruby hashes. Here are some examples:
 
-```
+```ruby
 # Instantiate an object to interact with a Nano node
 node = NanoRpc::Node.new(host: 'mynanonode', port: 1234)
 
@@ -28,12 +28,14 @@ node.call(:account_balance, account: 'xrb_1234')
 NanoRpc.node.wallet('A3B9CF...').balance
 # => 1000
 ```
+Snippet of Ruby demonstrating how to use the library
+{:.caption}
 
 I went on to experiment with a [cryptocurrency tumbler service](https://en.wikipedia.org/wiki/Cryptocurrency_tumbler) using Nano as the primary network. Technically it was a success but the cost of running a financial service like that legally was beyond my means, so I eventually shelved that project.
 
 The financial value of Nano has gone down considerably since 2017 and it is probably doomed to fail as a currency. However, it continues to prove that alternative approaches to cryptocurrency systems are worth exploring. I enjoyed my time working on this project and interacting with several other talented engineers to build the software.
 
-Lessons learned:
+**Takeaways**:
   * There are many different types of people in the crypto space, from benevolent engineers to malevolent financial scammers
   * There are many approaches to solving the various problems posed by crypto systems, each offering a set of tradeoffs for end users
   * The incumbent financial players have safeguards to ensure small players cannot easily compete

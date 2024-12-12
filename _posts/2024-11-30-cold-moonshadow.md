@@ -56,5 +56,5 @@ It's not always a win
 But now there's a chance.
 
 If you can recall that scraping sound in the cave,
-Do something with it.
+Make something of it.
 </div>
