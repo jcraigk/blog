@@ -48,5 +48,3 @@ Coming straight home to me
 - Discord's API, customer support, and documentation were subpar in that timeframe.
 - Seeing hundreds of daily kudos exchanges between coworkers proved deeply rewarding
 - Building a fully integrated, high-quality app takes far more time than initially estimated
-
-![KudoChest logos](/assets/images/projects/kudochest/logos-andy-warhol-style.png){:.image-centered .centered}
