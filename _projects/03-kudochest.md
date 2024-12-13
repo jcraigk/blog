@@ -28,6 +28,21 @@ After 14 months of development, I open sourced the code ([GitHub](https://github
 
 While I have moved on to other projects since leaving that employer, it was a gratifying experience to see my creation appear in every channel across the organization. One of my favorite use cases was when a new employee would come on board and immediately feel a sense of acceptance as longtime employees welcomed them by giving them kudos. The leaderboard seemed to accurate reflect real social capitol at the company - those at the top of the board were the friendly and helpful folks from departments like quality assurance as opposed to those at the top of the org chart who wielded actual power.
 
+As a [Swiftie](https://en.wikipedia.org/wiki/Swifties) I feel it's appropriate to leave you with these lyrics:
+
+<div class="quote">'Cause karma is the thunder
+Rattling your ground
+Karma's on your scent like a bounty hunter
+Karma's gonna track you down
+Step by step from town to town
+Sweet like justice, karma is a queen
+Karma takes all my friends to the summit
+Karma is the guy on the screen
+Coming straight home to me
+&mdash;Taylor Swift
+</div>
+
+
 **Takeaways:**
 - Slack's API, customer support, and documentation were excellent in 2018–2019.
 - Discord's API, customer support, and documentation were subpar in that timeframe.
