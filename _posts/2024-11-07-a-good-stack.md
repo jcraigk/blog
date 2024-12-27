@@ -1,7 +1,11 @@
 ---
 title: A Good Stack
 date: 2024-11-07 12:00:00 -0700
-tags: software ruby rails react
+tags:
+  - software
+  - ruby
+  - rails
+  - react
 header:
   image: /assets/images/posts/2024-11-07-header.jpg
   teaser: /assets/images/posts/2024-11-07-header.jpg

@@ -1,7 +1,8 @@
 ---
 title: Cold Moonshadow
 date: 2024-11-30 12:00:00 -0700
-tags: poems
+tags:
+  - poems
 header:
   image: /assets/images/posts/2024-11-30-header.jpg
   teaser: /assets/images/posts/2024-11-30-header.jpg

@@ -1,7 +1,10 @@
 ---
 title: 'Midjourneying #1'
 date: 2023-09-14 18:22:01 -0700
-tags: midjourney ai images
+tags:
+  - midjourney
+  - ai
+  - images
 header:
   image: /assets/images/posts/2023-09-14-header.jpg
   teaser: /assets/images/posts/2023-09-14-header.jpg

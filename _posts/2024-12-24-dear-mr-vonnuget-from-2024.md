@@ -1,7 +1,9 @@
 ---
 title: Dear Mr. Vonnegut From the Year 2024
 date: 2024-12-24 11:20:40 -0700
-tag: fiction commentary
+tags:
+  - fiction
+  - commentary
 header:
   image: /assets/images/posts/2024-12-24-header.jpg
   teaser: /assets/images/posts/2024-12-24-header.jpg

@@ -1,7 +1,8 @@
 ---
 title: 'Baked Crumbs #1'
 date: 2024-01-02 12:00:00 -0700
-tags: crumbs
+tags:
+  - crumbs
 header:
   image: /assets/images/posts/2024-01-02-header.jpg
   teaser: /assets/images/posts/2024-01-02-header.jpg

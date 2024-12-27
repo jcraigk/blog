@@ -1,7 +1,9 @@
 ---
 title: Katie Cookies
 date: 2023-12-20 12:00:00 -0700
-tags: family nonfiction
+tags:
+  - family
+  - essay
 header:
   image: /assets/images/posts/2023-12-20-header.jpg
   teaser: /assets/images/posts/2023-12-20-header.jpg

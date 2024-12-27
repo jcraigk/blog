@@ -1,7 +1,8 @@
 ---
 title: Pi-ku and Pi-ku-ku
 date: 2023-07-07 16:09:58 -0700
-tag: poems
+tags:
+  - poems
 header:
   image: /assets/images/posts/2023-07-07-header.jpg
   teaser: /assets/images/posts/2023-07-07-header.jpg

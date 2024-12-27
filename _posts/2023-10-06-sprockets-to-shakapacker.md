@@ -1,7 +1,11 @@
 ---
 title: Sprockets to Shakapacker
 date: 2023-10-06 12:00:00 -0700
-tags: software ruby rails
+tags:
+  - software
+  - ruby
+  - rails
+  - assets
 header:
   image: /assets/images/posts/2023-10-06-header.jpg
   teaser: /assets/images/posts/2023-10-06-header.jpg

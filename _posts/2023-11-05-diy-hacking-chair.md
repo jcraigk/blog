@@ -1,7 +1,9 @@
 ---
 title: DIY Hacking Chair
 date: 2023-11-05 12:00:00 -0700
-tags: health diy
+tags:
+  - health
+  - diy
 header:
   image: /assets/images/posts/2023-11-05-header.jpg
   teaser: /assets/images/posts/2023-11-05-header.jpg

@@ -1,7 +1,9 @@
 ---
 title: Heaven Scent
 date: 2024-12-20 15:21:39 -0700
-tag: fiction
+tags:
+  - fiction
+  - story
 header:
   image: /assets/images/posts/2024-12-20-header.jpg
   teaser: /assets/images/posts/2024-12-20-header.jpg

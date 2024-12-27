@@ -1,7 +1,8 @@
 ---
 title: Ozymandias II
 date: 2023-09-19 12:00:01 -0700
-tag: poems
+tags:
+  - poems
 header:
   image: /assets/images/posts/2023-09-19-header.jpg
   teaser: /assets/images/posts/2023-09-19-header.jpg
