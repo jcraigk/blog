@@ -377,6 +377,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |110|G. Edward Griffin           |*The Creature from Jekyll Island*                                       |11/16/24       |
 |111|Lyn Alden                   |*Broken Money*                                                          |11/25/24       |
 |112|Jason Hickel                |*Less is More*                                                          |11/27/24       |
+|113|Rick Wakeman                |*Grumpy Old Rock Star: And Other Wondrous Stories*                      |12/29/24       |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
