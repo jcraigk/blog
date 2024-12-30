@@ -13,8 +13,7 @@ A Pi-ku is like a [haiku](https://en.wikipedia.org/wiki/Haiku) but its phonetic 
 
 The following employs three separate themes rather than tying the first and last sections together. Let's call it creativity instead of laziness.
 
-<div class="poem">
-Elephant
+<div class="poem">Elephant
 Smiles
 Can they do that?
 
