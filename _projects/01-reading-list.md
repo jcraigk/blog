@@ -378,6 +378,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |111|Lyn Alden                   |*Broken Money*                                                          |11/25/24       |
 |112|Jason Hickel                |*Less is More*                                                          |11/27/24       |
 |113|Rick Wakeman                |*Grumpy Old Rock Star: And Other Wondrous Stories*                      |12/29/24       |
+|114|Yuval Noah Harari           |*Nexus*                                                                 |1/5/25         |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
