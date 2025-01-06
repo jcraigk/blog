@@ -18,8 +18,8 @@ Smiles
 Can they do that?
 
 Blinding Sun
-Gives
-Every eye light
+Makes
+Every mind light
 
 Ocean stars
 Two
@@ -28,7 +28,7 @@ Destinations
 
 Center fold
 My
-What lovely breasts
+What lovely eyes
 
 
 Mike on bass
