@@ -203,57 +203,58 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |188|George R R Martin                |*A Feast for Crows*                               |1/22/21                |
 |189|George R R Martin                |*A Dance with Dragons*                            |1/28/21                |
 |190|James S A Corey                  |*Babylon's Ashes*                                 |2/7/21                 |
-|191|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                |
-|192|Max Brooks                       |*World War Z*                                     |5/17/21                |
-|193|B F Skinner                      |*Walden Two*                                      |5/22/21                |
-|194|James S A Corey                  |*Persepolis Rising*                               |6/1/21                 |
-|195|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                |
-|196|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                |
-|197|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                |
-|198|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                |
-|199|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                 |
-|200|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                 |
-|201|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                 |
-|202|Pierce Brown                     |*Red Rising*                                      |9/16/21                |
-|203|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21               |
-|204|Herman Melville                  |*Moby Dick*                                       |12/20/21               |
-|205|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                |
-|206|Iain M Banks                     |*Surface Detail*                                  |5/29/22                |
-|207|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                |
-|208|Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
-|209|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
-|210|Charles Bukowski                 |*Factotum*                                        |12/18/22               |
-|211|John Fante                       |*Ask the Dust*                                    |12/24/22               |
-|212|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
-|213|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
-|214|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
-|215|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
-|216|Ted Chiang                       |*Exhalation*                                      |6/20/23                |
-|217|Albert Camus                     |*The Stranger*                                    |6/27/23                |
-|218|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
-|219|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
-|220|Peter Watts                      |*Blindsight*                                      |7/16/23                |
-|221|Albert Camus                     |*The Plague*                                      |8/9/23                 |
-|222|Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
-|223|John Fante                       |*Wait Until Spring, Bandini*                      |9/8/23                 |
-|224|John Fante                       |*The Road to Los Angeles*                         |9/10/23                |
-|225|John Fante                       |*Dreams from Bunker Hill*                         |9/11/23                |
-|226|Charles Bukowski                 |*South of No North*                               |9/20/23                |
-|227|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
-|228|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
-|229|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
-|230|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
-|231|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
-|232|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
-|233|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
-|234|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
-|235|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
-|236|Poul Anderson                    |*Tau Zero*                                        |5/10/24                |
-|237|Fyodor Dostoevsky                |*Notes from a Dead House*                         |7/29/24                |
-|238|Lois Lowry                       |*The Giver*                                       |8/24/24                |
-|239|Mario Puzo                       |*The Godfather*                                   |9/18/24                |
-|240|John Fante                       |*The Brotherhood of the Grape*                    |10/9/24                |
-|241|N.K. Jemisin                     |*The City We Became*                              |11/5/24                |
+|191|Fyodor Dostoevsky                |*Notes from the Underground*                      |3/5/21                 |
+|192|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                |
+|193|Max Brooks                       |*World War Z*                                     |5/17/21                |
+|194|B F Skinner                      |*Walden Two*                                      |5/22/21                |
+|195|James S A Corey                  |*Persepolis Rising*                               |6/1/21                 |
+|196|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                |
+|197|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                |
+|198|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                |
+|199|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                |
+|200|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                 |
+|201|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                 |
+|202|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                 |
+|203|Pierce Brown                     |*Red Rising*                                      |9/16/21                |
+|204|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21               |
+|205|Herman Melville                  |*Moby Dick*                                       |12/20/21               |
+|206|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                |
+|207|Iain M Banks                     |*Surface Detail*                                  |5/29/22                |
+|208|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                |
+|209|Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
+|210|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
+|211|Charles Bukowski                 |*Factotum*                                        |12/18/22               |
+|212|John Fante                       |*Ask the Dust*                                    |12/24/22               |
+|213|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
+|214|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
+|215|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
+|216|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
+|217|Ted Chiang                       |*Exhalation*                                      |6/20/23                |
+|218|Albert Camus                     |*The Stranger*                                    |6/27/23                |
+|219|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
+|220|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
+|221|Peter Watts                      |*Blindsight*                                      |7/16/23                |
+|222|Albert Camus                     |*The Plague*                                      |8/9/23                 |
+|223|Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
+|224|John Fante                       |*Wait Until Spring, Bandini*                      |9/8/23                 |
+|225|John Fante                       |*The Road to Los Angeles*                         |9/10/23                |
+|226|John Fante                       |*Dreams from Bunker Hill*                         |9/11/23                |
+|227|Charles Bukowski                 |*South of No North*                               |9/20/23                |
+|228|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
+|229|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
+|230|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
+|231|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
+|232|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
+|233|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
+|234|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
+|235|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
+|236|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
+|237|Poul Anderson                    |*Tau Zero*                                        |5/10/24                |
+|238|Fyodor Dostoevsky                |*Notes from a Dead House*                         |7/29/24                |
+|239|Lois Lowry                       |*The Giver*                                       |8/24/24                |
+|240|Mario Puzo                       |*The Godfather*                                   |9/18/24                |
+|241|John Fante                       |*The Brotherhood of the Grape*                    |10/9/24                |
+|242|N.K. Jemisin                     |*The City We Became*                              |11/5/24                |
 
 
 <br>
