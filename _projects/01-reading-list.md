@@ -312,74 +312,76 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 | 44|David Brooks                |*The Road to Character*                                                 |11/27/17       |
 | 45|Lajos Egri                  |*The Art of Dramatic Writing*                                           |12/27/17       |
 | 46|Lynn Truss                  |*Eats, Shoots & Leaves*                                                 |3/5/18         |
-| 47|Brad Stone                  |*The Everything Store*                                                  |7/11/18        |
-| 48|Marty Cagan                 |*Inspired*                                                              |8/20/18        |
-| 49|Jim Collins                 |*Good to Great*                                                         |8/5/18         |
-| 50|Daniel Coyle                |*The Culture Code*                                                      |7/20/18        |
-| 51|Dalai Lama / Desmond Tutu   |*The Book of Joy*                                                       |9/17/18        |
-| 52|Jay Heinrichs               |*Thank You For Arguing*                                                 |9/23/18        |
-| 53|C. S. Lewis                 |*Surprised by Joy: The Shape of my Early Life*                          |1/18/19        |
-| 54|John Parrington             |*The Deeper Genome*                                                     |5/12/19        |
-| 55|Patrick Lencioni            |*Overcoming the Five Dysfunctions of a Team*                            |5/20/19        |
-| 56|David Deutsch               |*The Beginning of Infinity*                                             |5/25/19        |
-| 57|Jeff Hawkins                |*On Intelligence*                                                       |5/27/19        |
-| 58|Irish Bohnet                |*What Works: Gender Equality by Design*                                 |6/8/19         |
-| 59|Judea Pearl                 |*The Book of Why*                                                       |6/19/19        |
-| 60|James Gleick                |*Chaos: Making a New Science*                                           |7/2/19         |
-| 61|Gene Kim et al              |*The Phoenix Project*                                                   |7/10/19        |
-| 62|Daniel Boorstin             |*The Image*                                                             |7/20/19        |
-| 63|Peter Thiel                 |*Zero to One*                                                           |7/23/19        |
-| 64|Peter Tollman               |*Six Simple Rules: How to Manage Complexity without Getting Complicated*|7/29/19        |
-| 65|Michael Pollan              |*How to Change Your Mind*                                               |8/26/19        |
-| 66|Dr. Daniel G Amen           |*Memory Rescue*                                                         |10/1/19        |
-| 67|David Byrne                 |*How Music Works*                                                       |10/12/19       |
-| 68|Arthur Schopenhauer         |*The Wisdom of Life / Counsels and Maxims*                              |11/25/19       |
-| 69|Kevin Simler, Robin Hanson  |*The Elephant in the Brain*                                             |11/28/19       |
-| 70|Ernest Becker               |*The Denial Of Death*                                                   |3/15/20        |
-| 71|Matthew Walker              |*Why We Sleep*                                                          |3/5/20         |
-| 72|Annie Duke                  |*Thinking in Bets*                                                      |2/15/20        |
-| 73|Travis Bradberry            |*Emotional Intelligence 2.0*                                            |2/1/20         |
-| 74|Philip Rucker, Carol Leonnig|*A Very Stable Genius*                                                  |1/15/20        |
-| 75|C G Jung                    |*Memories, Dreams, Reflections*                                         |1/1/20         |
-| 76|Alan Watts                  |*Out of Your Mind*                                                      |8/6/20         |
-| 77|Friedrich Nietzsche         |*Thus Spoke Zarathustra*                                                |9/12/20        |
-| 78|R. Buckminster Fuller       |*I Seem to Be a Verb*                                                   |9/18/20        |
-| 79|Eliezer Yudkowsky           |*Inadequate Equilibria*                                                 |9/23/20        |
-| 80|David Byrne                 |*Bicyle Diaries*                                                        |10/13/20       |
-| 81|Henry David Thoreau         |*Walden*                                                                |5/20/21        |
-| 82|Brian C Muraresku           |*The Immortality Key*                                                   |7/15/21        |
-| 83|Viktor E Frankl             |*Man's Search for Meaning*                                              |8/5/21         |
-| 84|Steven Pressfield           |*The War of Art*                                                        |11/20/21       |
-| 85|Marcus Aurelius             |*Meditations*                                                           |11/30/21       |
-| 86|Eva Wong                    |*Taoism*                                                                |3/16/22        |
-| 87|Yuval Noah Harari           |*Sapiens*                                                               |4/10/22        |
-| 88|Scott Kelly                 |*Endurance*                                                             |4/29/22        |
-| 89|Melanie Joy                 |*Why We Love Dogs, Eat Pigs, and Wear Cows*                             |4/12/22        |
-| 90|NASA                        |*Space Settlements: A Design Study*                                     |11/5/22        |
-| 91|Charles Bukowski            |*On Writing*                                                            |11/6/22        |
-| 92|Matthew Ball                |*The Metaverse*                                                         |11/19/22       |
-| 93|Frank Wilczek               |*Fundamentals: Ten Keys to Reality*                                     |1/4/23         |
-| 94|Will Larson                 |*Staff Engineer: Leadership Beyond the Management Track*                |3/19/23        |
-| 95|Rick Rubin                  |*The Creative Act*                                                      |4/1/23         |
-| 96|Mo Gawdat                   |*Scary Smart*                                                           |6/16/23        |
-| 97|Donald Hoffman              |*The Case Against Reality*                                              |6/16/23        |
-| 98|James Lovelock              |[*Novacene*](/posts/2023-09-14-novacene)                                |8/30/23        |
-| 99|Walter Isaacson             |*Benjamin Franklin*                                                     |10/10/23       |
-|100|Walter Isaacson             |*Elon Musk*                                                             |10/15/23       |
-|101|Walter Isaacson             |*Einstein*                                                              |10/27/23       |
-|102|Ananyo Bhattacharya         |*The Man from the Future: The Visionary Life of John Von Neumann*       |1/7/24         |
-|103|Howard Sounes               |*Charles Bukowski: Locked in the Arms of a Crazy Life*                  |1/11/24        |
-|104|Susan Cheever               |*E.E. Cummings*                                                         |1/14/24        |
-|105|Kurt Eichenwald             |*A Mind Unraveled*                                                      |4/26/24        |
-|106|Frank McCourt               |*Angela's Ashes*                                                        |6/16/24        |
-|107|Frank McCourt               |*'Tis*                                                                  |6/27/24        |
-|108|Frank McCourt               |*Teacher Man*                                                           |7/05/24        |
-|109|David Foster Wallace        |*Everything and More*                                                   |8/15/24        |
-|110|G. Edward Griffin           |*The Creature from Jekyll Island*                                       |11/16/24       |
-|111|Lyn Alden                   |*Broken Money*                                                          |11/25/24       |
-|112|Jason Hickel                |*Less is More*                                                          |11/27/24       |
-|113|Rick Wakeman                |*Grumpy Old Rock Star: And Other Wondrous Stories*                      |12/29/24       |
-|114|Yuval Noah Harari           |*Nexus*                                                                 |1/5/25         |
+| 47|Roger Penrose               |*The Emperor's New Mind*                                                |3/18/18        |
+| 48|Brad Stone                  |*The Everything Store*                                                  |7/11/18        |
+| 49|Marty Cagan                 |*Inspired*                                                              |8/20/18        |
+| 50|Jim Collins                 |*Good to Great*                                                         |8/5/18         |
+| 51|Daniel Coyle                |*The Culture Code*                                                      |7/20/18        |
+| 52|Dalai Lama / Desmond Tutu   |*The Book of Joy*                                                       |9/17/18        |
+| 53|Jay Heinrichs               |*Thank You For Arguing*                                                 |9/23/18        |
+| 54|C. S. Lewis                 |*Surprised by Joy: The Shape of my Early Life*                          |1/18/19        |
+| 55|John Parrington             |*The Deeper Genome*                                                     |5/12/19        |
+| 56|Patrick Lencioni            |*Overcoming the Five Dysfunctions of a Team*                            |5/20/19        |
+| 57|David Deutsch               |*The Beginning of Infinity*                                             |5/25/19        |
+| 58|Jeff Hawkins                |*On Intelligence*                                                       |5/27/19        |
+| 59|Irish Bohnet                |*What Works: Gender Equality by Design*                                 |6/8/19         |
+| 60|Judea Pearl                 |*The Book of Why*                                                       |6/19/19        |
+| 61|James Gleick                |*Chaos: Making a New Science*                                           |7/2/19         |
+| 62|Gene Kim et al              |*The Phoenix Project*                                                   |7/10/19        |
+| 63|Daniel Boorstin             |*The Image*                                                             |7/20/19        |
+| 64|Peter Thiel                 |*Zero to One*                                                           |7/23/19        |
+| 65|Peter Tollman               |*Six Simple Rules: How to Manage Complexity without Getting Complicated*|7/29/19        |
+| 66|Michael Pollan              |*How to Change Your Mind*                                               |8/26/19        |
+| 67|Dr. Daniel G Amen           |*Memory Rescue*                                                         |10/1/19        |
+| 68|David Byrne                 |*How Music Works*                                                       |10/12/19       |
+| 69|Arthur Schopenhauer         |*The Wisdom of Life / Counsels and Maxims*                              |11/25/19       |
+| 70|Kevin Simler, Robin Hanson  |*The Elephant in the Brain*                                             |11/28/19       |
+| 71|Ernest Becker               |*The Denial Of Death*                                                   |3/15/20        |
+| 72|Matthew Walker              |*Why We Sleep*                                                          |3/5/20         |
+| 73|Annie Duke                  |*Thinking in Bets*                                                      |2/15/20        |
+| 74|Travis Bradberry            |*Emotional Intelligence 2.0*                                            |2/1/20         |
+| 75|Philip Rucker, Carol Leonnig|*A Very Stable Genius*                                                  |1/15/20        |
+| 76|C G Jung                    |*Memories, Dreams, Reflections*                                         |1/1/20         |
+| 77|Alan Watts                  |*Out of Your Mind*                                                      |8/6/20         |
+| 78|Friedrich Nietzsche         |*Thus Spoke Zarathustra*                                                |9/12/20        |
+| 79|R. Buckminster Fuller       |*I Seem to Be a Verb*                                                   |9/18/20        |
+| 80|Eliezer Yudkowsky           |*Inadequate Equilibria*                                                 |9/23/20        |
+| 81|David Byrne                 |*Bicyle Diaries*                                                        |10/13/20       |
+| 82|Henry David Thoreau         |*Walden*                                                                |5/20/21        |
+| 83|Brian C Muraresku           |*The Immortality Key*                                                   |7/15/21        |
+| 84|Viktor E Frankl             |*Man's Search for Meaning*                                              |8/5/21         |
+| 85|Steven Pressfield           |*The War of Art*                                                        |11/20/21       |
+| 86|Marcus Aurelius             |*Meditations*                                                           |11/30/21       |
+| 87|Eva Wong                    |*Taoism*                                                                |3/16/22        |
+| 88|Yuval Noah Harari           |*Sapiens*                                                               |4/10/22        |
+| 89|Scott Kelly                 |*Endurance*                                                             |4/29/22        |
+| 90|Melanie Joy                 |*Why We Love Dogs, Eat Pigs, and Wear Cows*                             |4/12/22        |
+| 91|NASA                        |*Space Settlements: A Design Study*                                     |11/5/22        |
+| 92|Charles Bukowski            |*On Writing*                                                            |11/6/22        |
+| 93|Matthew Ball                |*The Metaverse*                                                         |11/19/22       |
+| 94|Frank Wilczek               |*Fundamentals: Ten Keys to Reality*                                     |1/4/23         |
+| 95|Will Larson                 |*Staff Engineer: Leadership Beyond the Management Track*                |3/19/23        |
+| 96|Rick Rubin                  |*The Creative Act*                                                      |4/1/23         |
+| 97|Mo Gawdat                   |*Scary Smart*                                                           |6/16/23        |
+| 98|Donald Hoffman              |*The Case Against Reality*                                              |6/16/23        |
+| 99|James Lovelock              |[*Novacene*](/posts/2023-09-14-novacene)                                |8/30/23        |
+|100|Walter Isaacson             |*Benjamin Franklin*                                                     |10/10/23       |
+|101|Walter Isaacson             |*Elon Musk*                                                             |10/15/23       |
+|102|Walter Isaacson             |*Einstein*                                                              |10/27/23       |
+|103|Ananyo Bhattacharya         |*The Man from the Future: The Visionary Life of John Von Neumann*       |1/7/24         |
+|104|Howard Sounes               |*Charles Bukowski: Locked in the Arms of a Crazy Life*                  |1/11/24        |
+|105|Susan Cheever               |*E.E. Cummings*                                                         |1/14/24        |
+|106|Kurt Eichenwald             |*A Mind Unraveled*                                                      |4/26/24        |
+|107|Frank McCourt               |*Angela's Ashes*                                                        |6/16/24        |
+|108|Frank McCourt               |*'Tis*                                                                  |6/27/24        |
+|109|Frank McCourt               |*Teacher Man*                                                           |7/05/24        |
+|110|David Foster Wallace        |*Everything and More*                                                   |8/15/24        |
+|111|G. Edward Griffin           |*The Creature from Jekyll Island*                                       |11/16/24       |
+|112|Lyn Alden                   |*Broken Money*                                                          |11/25/24       |
+|113|Jason Hickel                |*Less is More*                                                          |11/27/24       |
+|114|Rick Wakeman                |*Grumpy Old Rock Star: And Other Wondrous Stories*                      |12/29/24       |
+|115|Yuval Noah Harari           |*Nexus*                                                                 |1/5/25         |
+|116|Walter Isaacson             |*Kissinger: A Biography*                                                |1/22/25        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
