@@ -93,168 +93,169 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 | 78|Stephen King                     |*Dark Tower: Song of Susannah*                    |2000s                  |
 | 79|Stephen King                     |*Dark Tower: The Dark Tower*                      |2000s                  |
 | 80|Tom Robbins                      |*Still Life with Woodpecker*                      |2000s                  |
-| 81|J.D. Salinger                    |*The Catcher in the Rye*                          |2000s                  |
-| 82|J.R.R. Tolkein                   |*The Hobbit*                                      |2000s                  |
-| 83|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |2000s                  |
-| 84|J.R.R. Tolkein                   |*The Two Towers*                                  |2000s                  |
-| 85|J.R.R. Tolkein                   |*The Return of the King*                          |2000s                  |
-| 86|Vernor Vinge                     |*A Fire Upon the Deep*                            |2000s                  |
-| 87|Vernor Vinge                     |*A Deepness in the Sky*                           |2000s                  |
-| 88|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |2000s                  |
-| 89|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |2000s                  |
-| 90|Kurt Vonnegut                    |*The Cat's Cradle*                                |2000s                  |
-| 91|Orson Scott Card                 |*Ender’s Game*                                    |2000s                  |
-| 92|Orson Scott Card                 |*Ender’s Shadow*                                  |2000s                  |
-| 93|Jeffrey Eugenides                |*Middlesex*                                       |2003                   |
-| 94|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |2005                   |
-| 95|Phillip K. Dick                  |*Paycheck and Other Stories*                      |2005                   |
-| 96|Phillip K. Dick                  |*The Man in the High Castle*                      |2005                   |
-| 97|William Gibson                   |*Neuromancer*                                     |2005                   |
-| 98|William Golding                  |*Lord of the Flies*                               |2005                   |
-| 99|Robert A. Heinlein               |*Stranger in a Strange Land*                      |2005                   |
-|100|Josheph Heller                   |*Catch-22*                                        |2005                   |
-|101|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |2005                   |
-|102|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |2005                   |
-|103|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |2005                   |
-|104|Herman Hesse                     |*Steppenwolf*                                     |2005                   |
-|105|Homer                            |*The Iliad*                                       |2005                   |
-|106|Homer                            |*The Odyssey*                                     |2005                   |
-|107|James Joyce                      |*Ulysses*                                         |2005                   |
-|108|George Orwell                    |*1984*                                            |2005                   |
-|109|George Orwell                    |*Animal Farm*                                     |2005                   |
-|110|Chuck Palahniuk                  |*Survivor*                                        |2005                   |
-|111|Thomas Pynchon                   |*The Crying of Lot 49*                            |2005                   |
-|112|Paul Beatty                      |*The Sellout*                                     |2005                   |
-|113|Ayn Rand                         |*Atlas Shrugged*                                  |2005                   |
-|114|Neal Stephensen                  |*Cryptonomicon*                                   |2005                   |
-|115|Neal Stephensen                  |*Snow Crash*                                      |2005                   |
-|116|Kim Stanley Robinson             |*Aurora*                                          |11/1/16                |
-|117|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                |
-|118|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                 |
-|119|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                 |
-|120|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                |
-|121|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                |
-|122|Herman Hesse                     |*Siddhartha*                                      |1/24/17                |
-|123|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04                 |
-|124|Franz Kafka                      |*The Trial*                                       |1/1/17                 |
-|125|Kim Stanley Robinson             |*2312*                                            |2/5/17                 |
-|126|Gabriel Garcia Marquez           |*One Hundred Years of Solitude*                   |4/20/17                |
-|127|Milan Kundera                    |*The Unbearable Lightness of Being*               |3/1/17                 |
-|128|Ernest Hemingway                 |*The Old Man and the Sea*                         |4/13/17                |
-|129|Octavia Butler                   |*Kindred*                                         |5/1/17                 |
-|130|Truman Capote                    |*Breakfast at Tiffany's*                          |5/10/17                |
-|131|Stephen King                     |*The Wind Through the Keyhole*                    |5/18/17                |
-|132|Liu Cixin                        |*The Three Body Problem*                          |6/9/17                 |
-|133|David Foster Wallace             |*Infinite Jest*                                   |7/16/17                |
-|134|Liu Cixin                        |*The Dark Forest*                                 |7/27/17                |
-|135|Liu Cixin                        |*Death's End*                                     |8/7/17                 |
-|136|Jack Kerouac                     |*On the Road*                                     |8/12/17                |
-|137|Charles Bukowski                 |*Women: A Novel*                                  |8/20/17                |
-|138|Thomas Pynchon                   |*Gravity's Rainbow*                               |8/21/17                |
-|139|Frank Herbert                    |*The Dragon in the Sea*                           |8/18/17                |
-|140|Gertrude Stein                   |*Three Lives*                                     |8/25/17                |
-|141|Vladimir Nabokov                 |*Lolita*                                          |9/17/17 (also 7/30/22) |
-|142|Anthony Burgess                  |*A Clockwork Orange*                              |10/12/17               |
-|143|Ken Kesey                        |*One Flew Over the Cuckoo's Nest*                 |11/17/17               |
-|144|Charles Bukowski                 |*Ham on Rye*                                      |11/30/17 (also 8/1/22) |
-|145|James Joyce                      |*A Portrait of the Artist as a Young Man*         |12/10/17               |
-|146|China Mieville                   |*Perdido Street Station*                          |3/2/18                 |
-|147|Walt Whitman                     |*Leaves of Grass*                                 |3/10/18                |
-|148|Kurt Vonnegut                    |*Galapagos*                                       |5/6/18                 |
-|149|David Weber, Timothy Zahn        |*A Call to Duty: Book I of Manticore…*            |4/10/18                |
-|150|Joe Halderman                    |*The Forever War*                                 |3/26/18                |
-|151|Salman Rushdie                   |*The Golden House*                                |3/12/18                |
-|152|Charles Bukowski                 |*Post Office*                                     |7/4/18                 |
-|153|James S A Corey                  |*Leviathan Wakes*                                 |7/1/18                 |
-|154|Angela Carter                    |*The Magic Toyshop*                               |7/4/18                 |
-|155|Ray Bradbury                     |*The Golden Apples of the Sun (and other stories)*|6/15/18                |
-|156|Margaret Atwood                  |*The Handmaid's Tale*                             |2/1/18                 |
-|157|Dennis E Taylor                  |*The Singularity Trap*                            |7/16/18                |
-|158|John Steinbeck                   |*Of Mice and Men*                                 |7/17/18                |
-|159|Salman Rushdie                   |*The Satanic Verses*                              |8/25/18                |
-|160|Gene Wolf                        |*The Shadow of the Torturer*                      |8/20/18                |
-|161|James S A Corey                  |*Calaban’s War*                                   |9/13/18                |
-|162|James S A Corey                  |*Abaddon's Gate*                                  |10/25/18               |
-|163|Sue Burke                        |*Semiosis*                                        |2/9/19                 |
-|164|Elizabeth McCracken              |*Bowlaway*                                        |4/14/19                |
-|165|Douglas Adams                    |*The Long Dark Tea-Time of the Soul*              |4/28/19                |
-|166|Phillip K. Dick                  |*Ubik*                                            |5/5/19                 |
-|167|Hunter S Thompson                |*Fear and Loathing in Las Vegas*                  |7/15/19                |
-|168|M John Harrison                  |*Light*                                           |8/10/19                |
-|169|M John Harrison                  |*Nova Swing*                                      |8/27/19                |
-|170|M John Harrison                  |*Empty Space: A Haunting*                         |9/18/19                |
-|171|Stanislaw Lem                    |*Solaris*                                         |8/29/19                |
-|172|James S A Corey                  |*Cibola Burn*                                     |10/29/19               |
-|173|James S A Corey                  |*Nemesis Games*                                   |11/10/19               |
-|174|Aldous Huxley                    |*Island*                                          |11/14/19               |
-|175|Wolfgang von Goethe              |*Faust: Parts I and II*                           |3/15/20                |
-|176|Richard Powers                   |*The Overstory*                                   |2/1/20                 |
-|177|Charles Dickens                  |*David Copperfield*                               |6/7/20                 |
-|178|Stephen King                     |*Pet Sematary*                                    |6/14/20                |
-|179|John Steinbeck                   |*East of Eden*                                    |7/1/20                 |
-|180|Oscar Wilde                      |*The Picture of Dorian Gray*                      |7/15/20                |
-|181|John Steinbeck                   |*Cannery Row*                                     |7/24/20                |
-|182|Stanislaw Lem                    |*The Invincible*                                  |9/7/20                 |
-|183|Virginia Woolf                   |*To the Lighthouse*                               |9/27/20                |
-|184|Fyodor Dostoevsky                |*Crime and Punishment*                            |12/25/20               |
-|185|George R R Martin                |*A Game of Thrones*                               |1/9/21                 |
-|186|George R R Martin                |*A Clash of Kings*                                |1/13/21                |
-|187|George R R Martin                |*A Storm of Swords*                               |1/20/21                |
-|188|George R R Martin                |*A Feast for Crows*                               |1/22/21                |
-|189|George R R Martin                |*A Dance with Dragons*                            |1/28/21                |
-|190|James S A Corey                  |*Babylon's Ashes*                                 |2/7/21                 |
-|191|Fyodor Dostoevsky                |*Notes from the Underground*                      |3/5/21                 |
-|192|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                |
-|193|Max Brooks                       |*World War Z*                                     |5/17/21                |
-|194|B F Skinner                      |*Walden Two*                                      |5/22/21                |
-|195|James S A Corey                  |*Persepolis Rising*                               |6/1/21                 |
-|196|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                |
-|197|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                |
-|198|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                |
-|199|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                |
-|200|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                 |
-|201|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                 |
-|202|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                 |
-|203|Pierce Brown                     |*Red Rising*                                      |9/16/21                |
-|204|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21               |
-|205|Herman Melville                  |*Moby Dick*                                       |12/20/21               |
-|206|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                |
-|207|Iain M Banks                     |*Surface Detail*                                  |5/29/22                |
-|208|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                |
-|209|Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
-|210|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
-|211|Charles Bukowski                 |*Factotum*                                        |12/18/22               |
-|212|John Fante                       |*Ask the Dust*                                    |12/24/22               |
-|213|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
-|214|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
-|215|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
-|216|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
-|217|Ted Chiang                       |*Exhalation*                                      |6/20/23                |
-|218|Albert Camus                     |*The Stranger*                                    |6/27/23                |
-|219|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
-|220|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
-|221|Peter Watts                      |*Blindsight*                                      |7/16/23                |
-|222|Albert Camus                     |*The Plague*                                      |8/9/23                 |
-|223|Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
-|224|John Fante                       |*Wait Until Spring, Bandini*                      |9/8/23                 |
-|225|John Fante                       |*The Road to Los Angeles*                         |9/10/23                |
-|226|John Fante                       |*Dreams from Bunker Hill*                         |9/11/23                |
-|227|Charles Bukowski                 |*South of No North*                               |9/20/23                |
-|228|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
-|229|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
-|230|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
-|231|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
-|232|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
-|233|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
-|234|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
-|235|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
-|236|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
-|237|Poul Anderson                    |*Tau Zero*                                        |5/10/24                |
-|238|Fyodor Dostoevsky                |*Notes from a Dead House*                         |7/29/24                |
-|239|Lois Lowry                       |*The Giver*                                       |8/24/24                |
-|240|Mario Puzo                       |*The Godfather*                                   |9/18/24                |
-|241|John Fante                       |*The Brotherhood of the Grape*                    |10/9/24                |
-|242|N.K. Jemisin                     |*The City We Became*                              |11/5/24                |
+| 81|Tom Robbins                      |*Even Cowgirls Get the Blues*                     |2000s                  |
+| 82|J.D. Salinger                    |*The Catcher in the Rye*                          |2000s                  |
+| 83|J.R.R. Tolkein                   |*The Hobbit*                                      |2000s                  |
+| 84|J.R.R. Tolkein                   |*The Fellowship of the Ring*                      |2000s                  |
+| 85|J.R.R. Tolkein                   |*The Two Towers*                                  |2000s                  |
+| 86|J.R.R. Tolkein                   |*The Return of the King*                          |2000s                  |
+| 87|Vernor Vinge                     |*A Fire Upon the Deep*                            |2000s                  |
+| 88|Vernor Vinge                     |*A Deepness in the Sky*                           |2000s                  |
+| 89|Kurt Vonnegut                    |*Slaughterhouse-Five*                             |2000s                  |
+| 90|Kurt Vonnegut                    |*God Bless You, Mr. Rosewater*                    |2000s                  |
+| 91|Kurt Vonnegut                    |*The Cat's Cradle*                                |2000s                  |
+| 92|Orson Scott Card                 |*Ender’s Game*                                    |2000s                  |
+| 93|Orson Scott Card                 |*Ender’s Shadow*                                  |2000s                  |
+| 94|Jeffrey Eugenides                |*Middlesex*                                       |2003                   |
+| 95|Phillip K. Dick                  |*Do Androids Dream of Electric Sheep?*            |2005                   |
+| 96|Phillip K. Dick                  |*Paycheck and Other Stories*                      |2005                   |
+| 97|Phillip K. Dick                  |*The Man in the High Castle*                      |2005                   |
+| 98|William Gibson                   |*Neuromancer*                                     |2005                   |
+| 99|William Golding                  |*Lord of the Flies*                               |2005                   |
+|100|Robert A. Heinlein               |*Stranger in a Strange Land*                      |2005                   |
+|101|Josheph Heller                   |*Catch-22*                                        |2005                   |
+|102|Brian Herbert / Kevin J. Anderson|*Dune: The Butlerian Jihad*                       |2005                   |
+|103|Brian Herbert / Kevin J. Anderson|*Hunters of Dune*                                 |2005                   |
+|104|Brian Herbert / Kevin J. Anderson|*Sandworms of Dune*                               |2005                   |
+|105|Herman Hesse                     |*Steppenwolf*                                     |2005                   |
+|106|Homer                            |*The Iliad*                                       |2005                   |
+|107|Homer                            |*The Odyssey*                                     |2005                   |
+|108|James Joyce                      |*Ulysses*                                         |2005                   |
+|109|George Orwell                    |*1984*                                            |2005                   |
+|110|George Orwell                    |*Animal Farm*                                     |2005                   |
+|111|Chuck Palahniuk                  |*Survivor*                                        |2005                   |
+|112|Thomas Pynchon                   |*The Crying of Lot 49*                            |2005                   |
+|113|Paul Beatty                      |*The Sellout*                                     |2005                   |
+|114|Ayn Rand                         |*Atlas Shrugged*                                  |2005                   |
+|115|Neal Stephensen                  |*Cryptonomicon*                                   |2005                   |
+|116|Neal Stephensen                  |*Snow Crash*                                      |2005                   |
+|117|Kim Stanley Robinson             |*Aurora*                                          |11/1/16                |
+|118|Terry Pratchett                  |*The Color of Magic*                              |12/1/16                |
+|119|J.D. Salinger                    |*Nine Stories*                                    |1/1/17                 |
+|120|Ernest Hemingway                 |*For Whom the Bell Tolls*                         |7/7/17                 |
+|121|Walter M. Miller, Jr.            |*A Canticle for Leibowitz*                        |1/10/17                |
+|122|Daniel Keyes                     |*Flowers for Algernon*                            |1/22/17                |
+|123|Herman Hesse                     |*Siddhartha*                                      |1/24/17                |
+|124|Douglas Adams                    |*Hitchhiker's Guide to the Galaxy*                |1/1/04                 |
+|125|Franz Kafka                      |*The Trial*                                       |1/1/17                 |
+|126|Kim Stanley Robinson             |*2312*                                            |2/5/17                 |
+|127|Gabriel Garcia Marquez           |*One Hundred Years of Solitude*                   |4/20/17                |
+|128|Milan Kundera                    |*The Unbearable Lightness of Being*               |3/1/17                 |
+|129|Ernest Hemingway                 |*The Old Man and the Sea*                         |4/13/17                |
+|130|Octavia Butler                   |*Kindred*                                         |5/1/17                 |
+|131|Truman Capote                    |*Breakfast at Tiffany's*                          |5/10/17                |
+|132|Stephen King                     |*The Wind Through the Keyhole*                    |5/18/17                |
+|133|Liu Cixin                        |*The Three Body Problem*                          |6/9/17                 |
+|134|David Foster Wallace             |*Infinite Jest*                                   |7/16/17                |
+|135|Liu Cixin                        |*The Dark Forest*                                 |7/27/17                |
+|136|Liu Cixin                        |*Death's End*                                     |8/7/17                 |
+|137|Jack Kerouac                     |*On the Road*                                     |8/12/17                |
+|138|Charles Bukowski                 |*Women: A Novel*                                  |8/20/17                |
+|139|Thomas Pynchon                   |*Gravity's Rainbow*                               |8/21/17                |
+|140|Frank Herbert                    |*The Dragon in the Sea*                           |8/18/17                |
+|141|Gertrude Stein                   |*Three Lives*                                     |8/25/17                |
+|142|Vladimir Nabokov                 |*Lolita*                                          |9/17/17 (also 7/30/22) |
+|143|Anthony Burgess                  |*A Clockwork Orange*                              |10/12/17               |
+|144|Ken Kesey                        |*One Flew Over the Cuckoo's Nest*                 |11/17/17               |
+|145|Charles Bukowski                 |*Ham on Rye*                                      |11/30/17 (also 8/1/22) |
+|146|James Joyce                      |*A Portrait of the Artist as a Young Man*         |12/10/17               |
+|147|China Mieville                   |*Perdido Street Station*                          |3/2/18                 |
+|148|Walt Whitman                     |*Leaves of Grass*                                 |3/10/18                |
+|149|Kurt Vonnegut                    |*Galapagos*                                       |5/6/18                 |
+|150|David Weber, Timothy Zahn        |*A Call to Duty: Book I of Manticore…*            |4/10/18                |
+|151|Joe Halderman                    |*The Forever War*                                 |3/26/18                |
+|152|Salman Rushdie                   |*The Golden House*                                |3/12/18                |
+|153|Charles Bukowski                 |*Post Office*                                     |7/4/18                 |
+|154|James S A Corey                  |*Leviathan Wakes*                                 |7/1/18                 |
+|155|Angela Carter                    |*The Magic Toyshop*                               |7/4/18                 |
+|156|Ray Bradbury                     |*The Golden Apples of the Sun (and other stories)*|6/15/18                |
+|157|Margaret Atwood                  |*The Handmaid's Tale*                             |2/1/18                 |
+|158|Dennis E Taylor                  |*The Singularity Trap*                            |7/16/18                |
+|159|John Steinbeck                   |*Of Mice and Men*                                 |7/17/18                |
+|160|Salman Rushdie                   |*The Satanic Verses*                              |8/25/18                |
+|161|Gene Wolf                        |*The Shadow of the Torturer*                      |8/20/18                |
+|162|James S A Corey                  |*Calaban’s War*                                   |9/13/18                |
+|163|James S A Corey                  |*Abaddon's Gate*                                  |10/25/18               |
+|164|Sue Burke                        |*Semiosis*                                        |2/9/19                 |
+|165|Elizabeth McCracken              |*Bowlaway*                                        |4/14/19                |
+|166|Douglas Adams                    |*The Long Dark Tea-Time of the Soul*              |4/28/19                |
+|167|Phillip K. Dick                  |*Ubik*                                            |5/5/19                 |
+|168|Hunter S Thompson                |*Fear and Loathing in Las Vegas*                  |7/15/19                |
+|169|M John Harrison                  |*Light*                                           |8/10/19                |
+|170|M John Harrison                  |*Nova Swing*                                      |8/27/19                |
+|171|M John Harrison                  |*Empty Space: A Haunting*                         |9/18/19                |
+|172|Stanislaw Lem                    |*Solaris*                                         |8/29/19                |
+|173|James S A Corey                  |*Cibola Burn*                                     |10/29/19               |
+|174|James S A Corey                  |*Nemesis Games*                                   |11/10/19               |
+|175|Aldous Huxley                    |*Island*                                          |11/14/19               |
+|176|Wolfgang von Goethe              |*Faust: Parts I and II*                           |3/15/20                |
+|177|Richard Powers                   |*The Overstory*                                   |2/1/20                 |
+|178|Charles Dickens                  |*David Copperfield*                               |6/7/20                 |
+|179|Stephen King                     |*Pet Sematary*                                    |6/14/20                |
+|180|John Steinbeck                   |*East of Eden*                                    |7/1/20                 |
+|181|Oscar Wilde                      |*The Picture of Dorian Gray*                      |7/15/20                |
+|182|John Steinbeck                   |*Cannery Row*                                     |7/24/20                |
+|183|Stanislaw Lem                    |*The Invincible*                                  |9/7/20                 |
+|184|Virginia Woolf                   |*To the Lighthouse*                               |9/27/20                |
+|185|Fyodor Dostoevsky                |*Crime and Punishment*                            |12/25/20               |
+|186|George R R Martin                |*A Game of Thrones*                               |1/9/21                 |
+|187|George R R Martin                |*A Clash of Kings*                                |1/13/21                |
+|188|George R R Martin                |*A Storm of Swords*                               |1/20/21                |
+|189|George R R Martin                |*A Feast for Crows*                               |1/22/21                |
+|190|George R R Martin                |*A Dance with Dragons*                            |1/28/21                |
+|191|James S A Corey                  |*Babylon's Ashes*                                 |2/7/21                 |
+|192|Fyodor Dostoevsky                |*Notes from the Underground*                      |3/5/21                 |
+|193|Adrian Tchaikovsky               |*Children of Time*                                |4/30/21                |
+|194|Max Brooks                       |*World War Z*                                     |5/17/21                |
+|195|B F Skinner                      |*Walden Two*                                      |5/22/21                |
+|196|James S A Corey                  |*Persepolis Rising*                               |6/1/21                 |
+|197|James S A Corey                  |*Tiamat's Wrath*                                  |6/12/21                |
+|198|Leo Tolstoy                      |*War and Peace*                                   |7/10/21                |
+|199|Lewis Carroll                    |*Alice's Adventures in Wonderland*                |7/12/21                |
+|200|Lewis Carroll                    |*Through the Looking Glass*                       |7/16/21                |
+|201|Fyodor Dostoevsky                |*The Idiot*                                       |8/5/21                 |
+|202|Ernest Hemingway                 |*The Sun Also Rises*                              |9/9/21                 |
+|203|Geoffrey Chaucer                 |*The Canterbury Tales*                            |9/4/21                 |
+|204|Pierce Brown                     |*Red Rising*                                      |9/16/21                |
+|205|Frank Baum                       |*The Wonderful Wizard of Oz*                      |10/15/21               |
+|206|Herman Melville                  |*Moby Dick*                                       |12/20/21               |
+|207|James S A Corey                  |*Leviathan Falls*                                 |1/20/22                |
+|208|Iain M Banks                     |*Surface Detail*                                  |5/29/22                |
+|209|Miguel de Cervantes              |*Don Quixote*                                     |8/24/22                |
+|210|Charles Bukowski                 |*Hollywood*                                       |9/20/22                |
+|211|Charles Bukowski                 |*Hot Water Music*                                 |9/25/22                |
+|212|Charles Bukowski                 |*Factotum*                                        |12/18/22               |
+|213|John Fante                       |*Ask the Dust*                                    |12/24/22               |
+|214|William S. Burroughs             |*Naked Lunch*                                     |1/1/23                 |
+|215|Voltaire                         |*Micromegas, Candide, and Zadig*                  |1/18/23                |
+|216|Harlan Ellison                   |*The Best that Shouted…and Other Stories*         |6/1/23                 |
+|217|Stephen King                     |*Salem's Lot*                                     |6/10/23                |
+|218|Ted Chiang                       |*Exhalation*                                      |6/20/23                |
+|219|Albert Camus                     |*The Stranger*                                    |6/27/23                |
+|220|Charles Bukowski                 |*Pulp*                                            |7/1/23                 |
+|221|Ted Chiang                       |*Stories of Your Life and Others*                 |7/14/23                |
+|222|Peter Watts                      |*Blindsight*                                      |7/16/23                |
+|223|Albert Camus                     |*The Plague*                                      |8/9/23                 |
+|224|Charles Bukowski                 |*Tales of Ordinary Madness*                       |8/24/23                |
+|225|John Fante                       |*Wait Until Spring, Bandini*                      |9/8/23                 |
+|226|John Fante                       |*The Road to Los Angeles*                         |9/10/23                |
+|227|John Fante                       |*Dreams from Bunker Hill*                         |9/11/23                |
+|228|Charles Bukowski                 |*South of No North*                               |9/20/23                |
+|229|Ernest Hemingway                 |*The Short Stories Volume I*                      |10/2/23                |
+|230|H.G. Wells                       |*The Time Machine*                                |11/2/23                |
+|231|Chuck Palahniuk                  |*Haunted*                                         |12/3/23                |
+|232|Charles Bukowski                 |*The Last Night of the Earth Poems*               |1/13/24                |
+|233|Richard Adams                    |*Tales from Watership Down*                       |2/14/24                |
+|234|Knut Hamsun                      |*Hunger*                                          |3/28/24                |
+|235|Celine                           |*Journey to the End of the Night*                 |4/9/24                 |
+|236|Charles Bukowski                 |*You Get So Alone at Times...*                    |4/12/24                |
+|237|Charles Bukowski                 |*Love is a Dog From Hell*                         |4/14/24                |
+|238|Poul Anderson                    |*Tau Zero*                                        |5/10/24                |
+|239|Fyodor Dostoevsky                |*Notes from a Dead House*                         |7/29/24                |
+|240|Lois Lowry                       |*The Giver*                                       |8/24/24                |
+|241|Mario Puzo                       |*The Godfather*                                   |9/18/24                |
+|242|John Fante                       |*The Brotherhood of the Grape*                    |10/9/24                |
+|243|N.K. Jemisin                     |*The City We Became*                              |11/5/24                |
 
 
 <br>
