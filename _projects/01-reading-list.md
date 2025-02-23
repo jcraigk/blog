@@ -385,6 +385,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |115|Yuval Noah Harari           |*Nexus*                                                                 |1/5/25         |
 |116|Walter Isaacson             |*Kissinger: A Biography*                                                |1/22/25        |
 |117|Tony Nader                  |*Consciousness Is All There Is*                                         |2/5/25         |
+|118|Robert Greene               |*48 Laws of Power*                                                      |2/18/25        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
