@@ -15,6 +15,7 @@ assets:
   main:
     sources:
       - assets/css/main.scss
+future: true
 
 ########################
 # Minimal Mistakes theme
