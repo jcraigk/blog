@@ -1,6 +1,12 @@
 ---
 title: Finding a Rails Job in 2025
-excerpt: A modern tale of software engineer seeks and, after many trials, finds job
+date: 2025-04-06 01:20:00 -0700
+tags:
+  - software
+  - ruby
+  - rails
+  - interviews
+excerpt: A modern tale of software engineer finds work by jumping through flaming hoops
 header:
   image: /assets/images/posts/2025-04-06-header.jpg
   teaser: /assets/images/posts/2025-04-06-header.jpg
