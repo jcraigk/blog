@@ -14,7 +14,7 @@ header:
 
 This entry summarizes my process of applying to Senior and Staff level software engineering roles during the first 90 days of 2025. It had been almost a decade since my last job search and I found the process surprising in some ways. I'll expound on that later but first: what was I looking for?
 
-I'm a seasoned (read: old) Ruby on Rails engineer, and I still love building stuff in that framework even after 18 years of professional focus, so the stack focus was important in my search. I was seeking a fully remote position or a hybrid role with an office in southern California. I was open to working at a small or mid-sized company, startup or established, and in almost any field as long as the organization wasn't contributing to social or environmental harm. I also wanted to avoid the FAANG companies because Big Tech gives me the heebie jeebies.
+I'm a seasoned (read: old) Ruby on Rails engineer, and I still love building stuff in that framework even after 18 years of professional focus, so the stack choice was important in my search. I was seeking a fully remote position or a hybrid role with an office in southern California. I was open to working at a small or mid-sized company, startup or established, and in almost any field as long as the organization wasn't contributing to social or environmental harm. I also wanted to avoid the FAANG companies because Big Tech gives me the heebie jeebies.
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
@@ -60,7 +60,7 @@ I'm a seasoned (read: old) Ruby on Rails engineer, and I still love building stu
 
 My job search began in mid January and concluded in early April after I accepted the first offer I received (because it was good, not because I was desperate, I swear). As you can see in the Sankey diagram above, I applied to a total of 21 organizations. Two of these reached out to me directly on LinkedIn based on my profile having the `#opentowork` tag enabled. The rest I applied to via job listings I saw on [RubyOnRemote](https://rubyonremote.com/) and [HackerNews](https://news.ycombinator.com/).
 
-What surprised me the most about finding a job in 2025 was how slow the process was. My previous experience had been spending no more than three weeks between the time I applied and the time I was given a pass or an offer. I also had gone through no more than four interviews per position. As it turns out, at least for the level of job I was seeking this time around, those numbers no longer held. To earn the offer I accepted, I faced nine one-on-one interviews over the course of ten weeks as well as seven phone conversations with a recruiter. This seemed like a lot to me.
+What surprised me the most about finding a job in 2025 was how slow the process can be. My previous experience had been spending no more than four weeks between the time I applied and the time I was given a pass or an offer. I also had gone through no more than four interviews per position. As it turns out, at least for the level of job I was seeking this time around, those numbers no longer held. To earn the offer I accepted, I faced nine one-on-one interviews over the course of ten weeks as well as seven phone conversations with a recruiter. This seems like a lot to me.
 
 First, I'll cover the interviews that did not result in an offer.
 <br>
