@@ -32,9 +32,6 @@ author:
     - label: LinkedIn
       icon: fab fa-fw fa-linkedin
       url: https://www.linkedin.com/in/jcraigk/
-    - label: Bluesky
-      icon: fab fa-fw fa-bluesky
-      url: https://bsky.app/profile/jcraigk.bsky.social
 footer:
   links: *links
 defaults:
