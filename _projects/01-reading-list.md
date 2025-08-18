@@ -261,6 +261,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |246|Leo Tolstoy                      |*The Death of Ivan Ilyich*                        |3/14/25                |
 |247|Mallory Craig-Kuhn               |*Neon Divine*                                     |3/26/25                |
 |248|Franz Kafka                      |*The Castle*                                      |4/15/25                |
+|249|Fyodor Dostoevsky                |*The Gambler*                                     |8/17/25                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
@@ -391,6 +392,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |118|Robert Greene               |*The 48 Laws of Power*                                                  |2/18/25        |
 |119|Max Tegmark                 |*Our Mathematical Universe*                                             |4/1/25         |
 |120|John Perry Barlow           |*Mother American Night*                                                 |4/23/25        |
+|121|Peter Attia                 |*Outlive*                                                               |4/23/25        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
