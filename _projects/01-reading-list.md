@@ -262,6 +262,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |247|Mallory Craig-Kuhn               |*Neon Divine*                                     |3/26/25                |
 |248|Franz Kafka                      |*The Castle*                                      |4/15/25                |
 |249|Fyodor Dostoevsky                |*The Gambler*                                     |8/17/25                |
+|250|Diamandis and Kottler            |*The Future Is Faster Than You Think*             |9/19/25                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
