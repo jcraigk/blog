@@ -262,7 +262,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |247|Mallory Craig-Kuhn               |*Neon Divine*                                     |3/26/25                |
 |248|Franz Kafka                      |*The Castle*                                      |4/15/25                |
 |249|Fyodor Dostoevsky                |*The Gambler*                                     |8/17/25                |
-|250|Diamandis and Kottler            |*The Future Is Faster Than You Think*             |9/19/25                |
+|250|Charles Stross                   |*Accelerando*                                     |9/28/25                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
@@ -394,6 +394,8 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |119|Max Tegmark                 |*Our Mathematical Universe*                                             |4/1/25         |
 |120|John Perry Barlow           |*Mother American Night*                                                 |4/23/25        |
 |121|Peter Attia                 |*Outlive*                                                               |4/23/25        |
+|122|Diamandis and Kottler       |*The Future Is Faster Than You Think*                                   |9/19/25        |
+|123|Rutger Bregman              |*Moral Ambition*                                                        |10/1/25        |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
