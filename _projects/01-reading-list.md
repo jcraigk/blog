@@ -396,6 +396,8 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |121|Peter Attia                 |*Outlive*                                                               |4/23/25        |
 |122|Diamandis and Kottler       |*The Future Is Faster Than You Think*                                   |9/19/25        |
 |123|Rutger Bregman              |*Moral Ambition*                                                        |10/1/25        |
+|124|Eliezer Yudkowsky           |*If Anyone Builds It, Everyone Dies*                                    |10/5/25        |
+|125|Ethan Mollick               |*Co-Intelligence*                                                       |10/12/25       |
 
 <br>
 ![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
