@@ -263,6 +263,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |248|Franz Kafka                      |*The Castle*                                      |4/15/25                |
 |249|Fyodor Dostoevsky                |*The Gambler*                                     |8/17/25                |
 |250|Charles Stross                   |*Accelerando*                                     |9/28/25                |
+|251|Ursula K. Le Guin                |*The Dispossessed*                                |11/10/25               |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
