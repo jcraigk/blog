@@ -264,6 +264,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |249|Fyodor Dostoevsky                |*The Gambler*                                     |8/17/25                |
 |250|Charles Stross                   |*Accelerando*                                     |9/28/25                |
 |251|Ursula K. Le Guin                |*The Dispossessed*                                |11/10/25               |
+|252|Andy Weird                       |*Project Hail Mary*                               |3/22/26                |
 
 <br>
 ![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
