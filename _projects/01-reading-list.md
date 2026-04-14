@@ -265,9 +265,10 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |250|Charles Stross                   |*Accelerando*                                     |9/28/25                |
 |251|Ursula K. Le Guin                |*The Dispossessed*                                |11/10/25               |
 |252|Andy Weird                       |*Project Hail Mary*                               |3/22/26                |
+|253|qntm                             |*There Is No Antimemetics Division*               |4/13/26                |
 
 <br>
-![AI art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
+![AI generated art depicting stacks of books](/assets/images/projects/reading-list/books-stairs.jpg){:.image-centered}
 
 
 ## Nonfiction
@@ -402,4 +403,4 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |125|Ethan Mollick               |*Co-Intelligence*                                                       |10/12/25       |
 
 <br>
-![AI art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
+![AI generated art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
