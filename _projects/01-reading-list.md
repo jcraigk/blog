@@ -401,6 +401,7 @@ Here are the books I have read or listened to. Audiobooks have been my preferred
 |123|Rutger Bregman              |*Moral Ambition*                                                        |10/1/25        |
 |124|Eliezer Yudkowsky           |*If Anyone Builds It, Everyone Dies*                                    |10/5/25        |
 |125|Ethan Mollick               |*Co-Intelligence*                                                       |10/12/25       |
+|126|Nate Silver                 |*The Signal and the Noise*                                              |5/8/26         |
 
 <br>
 ![AI generated art depicting overgrown bookshelves](/assets/images/projects/reading-list/overgrown-shelves.jpg){:.image-centered}
